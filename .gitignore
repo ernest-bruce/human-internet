@@ -17,5 +17,6 @@ DerivedData/
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
+*.html
 
 .DS_Store
