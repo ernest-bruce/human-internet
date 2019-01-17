@@ -9,7 +9,7 @@ our devices—or more accurately, the software on our devices—must evolve to e
 &nbsp;
 &nbsp;
 
-##delivering effective and pleasant digital experiencesnwhat
+##delivering effective and pleasant digital experiencesnwhat  
 driving the first mass·market automobiles was a [truly involved endeavor](https://youtu.be/gTL5z32pqtU "YouTube: Model T Driving Instructions")  
 · as time goes on, our “driving” experience becomes less focused on the intricate workings of the systems that make the car go and more on, well, anything other than [driving](https://youtu.be/WBkgs4u5tW0 "YouTube: Riding a Waymo self-driving taxi")  
 
