@@ -9,7 +9,7 @@ our devices—or more accurately, the software on our devices—must evolve to e
 &nbsp;
 &nbsp;
 
-#delivering effective and pleasant digital experiences#
+##delivering effective and pleasant digital experiences
 driving the first mass·market automobiles was a [truly involved endeavor](https://youtu.be/gTL5z32pqtU "YouTube: Model T Driving Instructions")  
 · as time goes on, our “driving” experience becomes less focused on the intricate workings of the systems that make the car go and more on, well, anything other than [driving](https://youtu.be/WBkgs4u5tW0 "YouTube: Riding a Waymo self-driving taxi")  
 
@@ -37,7 +37,7 @@ there are aspects of being human that should not be under the complete control o
 · you *communicate* with people, you do not dial, [Skype][Skype], or [FaceTime][FaceTime]    
 · you *write* documents, not [Google Docs][GoogleDocs] or [Microsoft Office][MicrosoftOffice] documents   
 
-there many apps you can use to perform each of those tasks  
+there are many apps you can use to perform each of those tasks  
 · sometimes you can work with the same content on more than one app  
 · but other times you are forced into a proprietary format  
 · each app offers a distinctive user experience, with advantages and disadvantages  
@@ -48,16 +48,27 @@ there many apps you can use to perform each of those tasks
 Peoples•OS and *task·assistants* represent a new digital experience, more attuned to your capabilities, your curiosity, and your humanity  
 &nbsp;
 
-a **task·assistant** is the app replacement that brings you the data, content, and operations you need to perform the tasks you need to accomplish your objectives  
+a **task·assistant** is the app replacement that brings you the data, content, and operations you need to perform the tasks you need complete to accomplish your objectives  
 · assistants do not have a fixed user interface because the interface you work with is created for the task at hand  
 · you do not have to decide *how* to do something  
 · all you need to do is decide *what* to do, and the software—leveraging the capabilities of your device—creates the appropriate interface for the task, your context, and your environment (sitting at a desk, speaking with a patient, riding a bicycle)  
 
-an assistant *assist* you while you perform your task by taking care of the boring, repetitive, and error·prone operations, freeing you to use your human faculties, insight, and curiosity in high·level activities  
-· guided by your device’s automated·administrator, assistants focus on the best way of performing a task or operation using past lessons, knowledge, and cooperation  
+an assistant *assists* you while you perform your task by taking care of the boring, repetitive, and error·prone operations, freeing you to use your human faculties, insight, and curiosity in high·level activities  
+· guided by your device’s *device·administrator*, assistants focus on the best way of performing a task or operation using past lessons, knowledge, and cooperation  
+&nbsp;
+&nbsp;
+&nbsp;
 
+#providing a smart, trusted device·administrator#
+devices running Peoples•OS are managed by an **automated·device·administrator**  
+· the administrator is a software agent tasked with looking after the user’s data and content, ensuring that it is private (encrypted), and protected against malfunctions, unauthorized access, or tampering (survives malfunctioning storage, hacking attacks by [ransomware](https://en.wikipedia.org/wiki/Ransomware), and user mistakes)  
+· the administrator also manages task·assistants, and downloads or updates assistants as required  
 
-#providing a smart, trusted system administrator for our devices#
+the administrator relieves users from having to manage files and apps  
+· users interact with the administrator interface to perform tasks  
+· the administrator then calls on the appropriate assistants to perform the operations each task entails, on the appropriate data or content  
+
+the administrator is robust, secure software that runs on a device using reliable subsystems such as [OpenZFS] to store and protect the user’s data  
 
 #building on top of reliable, secure, resilient infrastructure#
 
