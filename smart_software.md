@@ -16,7 +16,7 @@ driving the first mass·market automobiles was a [truly involved endeavor](https
 just like corporations are working hard and making huge investments to teach car how to navigate roads and highways to get people from place to place, Peoples•OS will allow our devices to use files, file·systems, and volume·managers to help us accomplish objectives and perform tasks with our data and content  
 
 Peoples•OS will not offer apps  
-· Peoples•OS will provide specialized task·assistants (writing·assistants, drawing·assistants, scheduling·assistants, recording·assistants) that help users manage content and data in their purest forms  
+· Peoples•OS will provide specialized *task·assistants* (writing·assistants, drawing·assistants, scheduling·assistants, recording·assistants) that help users manage content and data in their purest forms  
 · just like you will not have to worry about the layout of roads, speed limits, and traffic, you will not have to worry about where to store a picture you just took so that you can include it in the event·invitation you are 
 authoring  
 · the media·assistant, together with the writing·assistant, will provide that picture as one of the main suggestions when you perform the import operation on the document  
@@ -31,7 +31,7 @@ this approach not only brings people together, but also brings companies togethe
 &nbsp;
 &nbsp;
 
-#redesigning people’s interactions with software#
+# redesigning people’s interactions with software
 there are aspects of being human that should not be under the complete control of one or even a few entities  
 · you have a social life full of *thoughts*, not tweets  
 · you *communicate* with people, you do not dial, [Skype][Skype], or [FaceTime][FaceTime]    
@@ -59,9 +59,8 @@ an assistant *assists* you while you perform your task by taking care of the bor
 &nbsp;
 &nbsp;
 
-#providing a smart, trusted device·administrator#
-devices running Peoples•OS are managed by an **automated·device·administrator**  
-· the administrator is a software agent tasked with looking after the user’s data and content, ensuring that it is private (encrypted), and protected against malfunctions, unauthorized access, or tampering (survives malfunctioning storage, hacking attacks by [ransomware](https://en.wikipedia.org/wiki/Ransomware), and user mistakes)  
+# providing a smart, trusted device administrator
+devices running Peoples•OS are managed by an **automated·device·administrator**, which is a software agent tasked with looking after the user’s data and content, ensuring that it is private (encrypted), and protected against malfunctions, unauthorized access, or tampering (survives malfunctioning storage, hacking attacks by [ransomware](https://en.wikipedia.org/wiki/Ransomware), and user mistakes)  
 · the administrator also manages task·assistants, and downloads or updates assistants as required  
 
 the administrator relieves users from having to manage files and apps  
@@ -69,17 +68,82 @@ the administrator relieves users from having to manage files and apps
 · the administrator then calls on the appropriate assistants to perform the operations each task entails, on the appropriate data or content  
 
 the administrator is robust, secure software that runs on a device using reliable subsystems such as [OpenZFS] to store and protect the user’s data  
+· the administrator is like a smart and knowledgeable librarian who dutifully and quietly does eir job, while the user  enjoys being able to instantly access any piece of content sie wants without worrying about its location in the file·system or the app that can open it  
+· devices running Peoples•OS will have standard, open·source task·assistants that can open any human·internet content  
+· for·profit entities can develop and make available assistants, but they must make the specifications and source·code for those assistants available for public inspection  
 
-#building on top of reliable, secure, resilient infrastructure#
+the administrator orchestrates the operations of the assistants working on the device, ensuring that those tasks are completed timely and correctly  
+· when things go wrong, the administrator attempts to correct the situation using local knowledge and, if available, knowledge from [**Peoples•Cloud**](https://ernestbruce.tumblr.com/post/181379869080/a-plan-for-a-private-safe-and-secure-internet)  
+· if it cannot correct the problem after performing standard troubleshooting operations, the administrator reports the issue to the user  
+&nbsp;
 
+the administrator is like an automated [type 2 hypervisor](https://www.youtube.com/watch?v=UEk0CKoeUnA "YouTube: Type 1 vs. Type 2 Hypervisors")  
+· it facilitates the operation and cooperation of task·assistants  
+· in turn, task·assistants are like virtual·machines that operate securely under the watchful eye of 
+the administrator  
 
-#interfacing with the human·internet#
+the administrator can also educate the user on the capabilities of the device, either by walking the user through a tutorial or by answering user inquiries  
+· in addition, the administrator can provide a detailed log of all activity in the device, including the decisions it has made on behalf of the user  
+&nbsp;
+&nbsp;
+&nbsp;
+
+# building on top of reliable, secure, resilient infrastructure
+a secure, reliable operating·system must be based on proven technology whose developers have shown a commitment to excellence, correctness, and security  
+· to ensure the a highly collaborative and flexible development ecosystem, an important requirement for all components of the operating·system is that they be free·and·open·source·software (FOSS) under a 
+[permissive·license][permissive·license]  
+
+these are some of the technologies and products that fit these requirements:
+
+  * [**OpenZFS**][OpenZFS]  
+    · this is the premier file·system and volume·manager there is  
+    · it offers data safety and durability  
+    · its ability to create space·efficient snapshots means that users can have confidence that their data is safe even from their own actions  
+    · snapshots also facilitate recovery of data made unavailable through ransomware attacks  
+    · because OpenZFS stores and manages data across several drives, data can survive the malfunction or failure of one or more of those drives (depending on how made drives are available)  
+    · this means, though, that devices have to have at least three identical drives to guarantee data safety  
+
+  * [**FreeBSD**][FreeBSD]  
+    · this free·and·open·source operating·system offers the security and performance that people expect to experience on their devices  
+    · it has a vibrant developer community, guided by a group of committed, professional individuals, working together with the goal of developing a solid product  
+    · the quality of FreeBSD is palpable in every aspect, including its reputation as a leader in innovation, performance, and reliability; its vast community of developers and contributors; and its documentation  
+
+  * [**OpenBSD**][OpenBSD]  
+    · this operating·system has a reputation for being the most secure operating·system available today  
+    · its developers are dedicated to providing the most secure and correct code possible, and to introducing or implementing security features such as [**IPSec**][IPSec], [**OpenSSH**][OpenSSH], and [**ASLR**][ASLR]  
+    · however, it does not provide the first·class OpenZFS integration that FreeBSD offers  
+
+  * [**TrueOS**][TrueOS]
+    · this operating·system is based on FreeBSD, and it adds a further commitment to innovation, data safety, security, and privacy  
+    · it also serves as an early adopter and testing·bed for unreleased FreeBSD technologies  
+    · in this sense, TrueOS both gains new technology from FreeBSD, and contributes tested code back to it  
+    · development is completely open through [**GitHub**][GitHub]  
+    · this is a good base on which to build Peoples•OS  
+
+  * [**InterPlatetary File System**][IPFS] (IPFS)  
+    · IPFS is a network·level file·system that provides global data persistence and ubiquity  
+    · this distributed file·system provides encryption functionality that makes data retrieval impossible without the decryption key  
+    · this file·system provides inherent snapshots; data is never lost  
+    · it also has the ability to store past versions of data, making it easy to access and analyze historical data  
+    · this open·source project provides the base upon which data privacy and security can be implemented at a global scale, the basis of a *new* internet  
+
+# interfacing with the human·internet
 
 [Skype]: https://www.skype.com/en
 [FaceTime]: https://en.wikipedia.org/wiki/FaceTime
 [GoogleDocs]: https://www.google.com/docs/about
 [MicrosoftOffice]: https://en.wikipedia.org/wiki/Microsoft_Office
-
+[FOSS]: https://en.wikipedia.org/wiki/Free_and_open-source_software "Wikipedia: Free and open-source software"
+[permissive·license]: https://en.wikipedia.org/wiki/Permissive_software_licence "Wikipedia: Permissive software license"
+[OpenZFS]: http://open-zfs.org/wiki/Main_Page
+[FreeBSD]: https://www.freebsd.org
+[TrueOS]: https://www.trueos.org/
+[OpenBSD]: https://www.openbsd.org/
+[IPSec]: https://en.wikipedia.org/wiki/IPsec
+[OpenSSH]: https://en.wikipedia.org/wiki/OpenSSH
+[ASLR]: https://searchsecurity.techtarget.com/definition/address-space-layout-randomization-ASLR
+[GitHub]: https://github.com
+[IPFS]: https://ipfs.io "InterPlanetary File System" 
 
 
 
