@@ -1,11 +1,13 @@
 # Providing Smart·Software to Humanity
+![](img/software.png)  
+
 people work with data and content, not directly with files  
-· we organize data and content in groups and categories, depending on the task we are performing and the context under which we are performing it  
-· apps are an increasingly archaic form of software that is being slowly replaced by complex systems that learn and interact with other systems  
+· we organize data and content in groups and categories, depending on the task we are performing and the context under which we are performing that task  
+· apps are an increasingly archaic form of software that is being slowly replaced by complex systems that learn, and interact with other systems  
 
-our devices—or more accurately, the software on our devices—must evolve to effectively protect and secure our data and the content we capture and produce, provide ways to dynamically classify and organize that information, and facilitate the interaction of smart software that helps us locate the appropriate information and perform tasks and carry out operations that it can execute more efficiently than we can  
+our devices—or more accurately, the software on our devices—must evolve to effectively protect and secure our data and the content we capture and produce, provide ways to dynamically classify and organize that information, and facilitate the interaction of smart software that helps us locate the appropriate information,  perform tasks, and carry out operations that it can execute more efficiently than we can  
 
-**Peoples•OS** is the robust, secure, reliable, and humanistic operating·system that brings us closer to our personal·information by removing barriers and smoothing out our interactions with our data and content  
+[**Peoples•OS**][PeoplesOS] is the robust, secure, reliable, and humanistic operating·system that brings us closer to our personal·information by removing barriers and smoothing out our interactions with our data and content  
 &nbsp;
 &nbsp;
 &nbsp;
@@ -193,6 +195,7 @@ digital·organisms are long·lived processes that, just like task·assistants, c
 [DDoS]: https://youtu.be/0I4O4hoKzb8
 [human·internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#the-humaninternet
 [digital·organisms]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#designing-digitalorganisms
+[PeoplesOS]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#peoplesos-operatingsystem
 
 
 
