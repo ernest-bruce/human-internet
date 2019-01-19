@@ -1,3 +1,4 @@
+# Smarter Software
 people work with data and content, not directly with files  
 · we organize data and content in groups and categories, depending on the task we are performing and the context under which we are performing it  
 · apps are an increasingly archaic form of software that is being slowly replaced by complex systems that learn and interact with other systems  
@@ -9,7 +10,7 @@ our devices—or more accurately, the software on our devices—must evolve to e
 &nbsp;
 &nbsp;
 
-# delivering effective and pleasant digital experiences
+## delivering effective and pleasant digital experiences
 driving the first mass·market automobiles was a [truly involved endeavor](https://youtu.be/gTL5z32pqtU "YouTube: Model T Driving Instructions")  
 · as time goes on, our “driving” experience becomes less focused on the intricate workings of the systems that make the car go and more on, well, anything other than [driving](https://youtu.be/WBkgs4u5tW0 "YouTube: Riding a Waymo self-driving taxi")  
 
@@ -31,7 +32,7 @@ this approach not only brings people together, but also brings companies togethe
 &nbsp;
 &nbsp;
 
-# redesigning people’s interactions with software
+## redesigning people’s interactions with software
 there are aspects of being human that should not be under the complete control of one or even a few entities  
 · you have a social life full of *thoughts*, not tweets  
 · you *communicate* with people, you do not dial, [Skype][Skype], or [FaceTime][FaceTime]    
@@ -59,7 +60,7 @@ an assistant *assists* you while you perform your task by taking care of the bor
 &nbsp;
 &nbsp;
 
-# providing a smart, trusted device administrator
+## providing a smart, trusted device administrator
 devices running Peoples•OS are managed by an **automated·device·administrator**, which is a software agent tasked with looking after the user’s data and content, ensuring that it is private (encrypted), and protected against malfunctions, unauthorized access, or tampering (survives malfunctioning storage, hacking attacks by [ransomware](https://en.wikipedia.org/wiki/Ransomware), and user mistakes)  
 · the administrator also manages task·assistants, and downloads or updates assistants as required  
 
@@ -88,7 +89,7 @@ the administrator can also educate the user on the capabilities of the device, e
 &nbsp;
 &nbsp;
 
-# building on top of reliable, secure, resilient infrastructure
+## building on top of reliable, secure, resilient infrastructure
 a secure, reliable operating·system must be based on proven technology whose developers have shown a commitment to excellence, correctness, and security  
 · to ensure the a highly collaborative and flexible development ecosystem, an important requirement for all components of the operating·system is that they be free·and·open·source·software (FOSS) under a 
 [permissive·license][permissive·license]  
@@ -124,10 +125,40 @@ these are some of the technologies and products that fit these requirements:
     · IPFS is a network·level file·system that provides global data persistence and ubiquity  
     · this distributed file·system provides encryption functionality that makes data retrieval impossible without the decryption key  
     · this file·system provides inherent snapshots; data is never lost  
+    · its distributed nature prevents [**distriuted·denial·of·service**][DDoS] (DDoS) attacks because data is replicate across a number of computers (network nodes)  
     · it also has the ability to store past versions of data, making it easy to access and analyze historical data  
     · this open·source project provides the base upon which data privacy and security can be implemented at a global scale, the basis of a *new* internet  
+&nbsp;
+&nbsp;
+&nbsp;
 
-# interfacing with the human·internet
+## replacing apps with task·assistants
+a task·assistant is more than an app  
+· it is an entire operating·system using its resources to carry out particular tasks  
+· it can comprise a set of components (programs and services) used to perform its function  
+· it may also contain knowledge and related data to use in its operations
+· however, this data has nothing to do with any person  
+· all data and content that pertains to the user resides on the person’s common data store on the person’s device  
+
+assistants are highly capable software systems  
+· they are written by experienced software scientists and engineers with extensive knowledge of the system that makes up the assistant  
+· they are correct, robust, reliable, and secure  
+· the people involved in their development include software professionals, human–machine interaction experts, and data scientists  
+· just like new neurosurgeons do not operate on a brain the dya after they graduate, newly minted programmers do not write assistants unsupervised  
+· like writing airliner software, developing assistants involves a team of experts, rigurous testing, and onerous quality·assurance processes  
+
+assistants run on Peoples•OS as jailed or virtualized environments  
+· this gives their implementers a lot of flexibility  
+· but they also have limited access to the host’s resources and user data (all access is mediated by the automated·administrator)  
+&nbsp;
+&nbsp;
+&nbsp;
+
+## interfacing with the human·internet
+while having control over our personal data in our devices is great, we are a social species that communicates, collaborates, and relates to other humans on the internet  
+· sadly, internet companies have larlely let down humanity with their business practices, data misuse, negligence, and criminality  
+· therefore, we must extent the Peoples•OS strong data privacy and protection capabilities to a new internet, the human·internet
+
 
 [Skype]: https://www.skype.com/en
 [FaceTime]: https://en.wikipedia.org/wiki/FaceTime
@@ -144,6 +175,7 @@ these are some of the technologies and products that fit these requirements:
 [ASLR]: https://searchsecurity.techtarget.com/definition/address-space-layout-randomization-ASLR
 [GitHub]: https://github.com
 [IPFS]: https://ipfs.io "InterPlanetary File System" 
+[DDoS]: https://youtu.be/0I4O4hoKzb8
 
 
 
