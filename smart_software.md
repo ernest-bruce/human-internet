@@ -1,4 +1,4 @@
-# Smarter Software
+# Providing Smart·Software to Humanity
 people work with data and content, not directly with files  
 · we organize data and content in groups and categories, depending on the task we are performing and the context under which we are performing it  
 · apps are an increasingly archaic form of software that is being slowly replaced by complex systems that learn and interact with other systems  
@@ -125,7 +125,7 @@ these are some of the technologies and products that fit these requirements:
     · IPFS is a network·level file·system that provides global data persistence and ubiquity  
     · this distributed file·system provides encryption functionality that makes data retrieval impossible without the decryption key  
     · this file·system provides inherent snapshots; data is never lost  
-    · its distributed nature prevents [**distriuted·denial·of·service**][DDoS] (DDoS) attacks because data is replicate across a number of computers (network nodes)  
+    · its distributed nature prevents [**distributed·denial·of·service**][DDoS] (DDoS) attacks because data is replicate across a number of computers (network nodes)  
     · it also has the ability to store past versions of data, making it easy to access and analyze historical data  
     · this open·source project provides the base upon which data privacy and security can be implemented at a global scale, the basis of a *new* internet  
 &nbsp;
@@ -144,8 +144,8 @@ assistants are highly capable software systems
 · they are written by experienced software scientists and engineers with extensive knowledge of the system that makes up the assistant  
 · they are correct, robust, reliable, and secure  
 · the people involved in their development include software professionals, human–machine interaction experts, and data scientists  
-· just like new neurosurgeons do not operate on a brain the dya after they graduate, newly minted programmers do not write assistants unsupervised  
-· like writing airliner software, developing assistants involves a team of experts, rigurous testing, and onerous quality·assurance processes  
+· just like new neurosurgeons do not operate on a brain the day after they graduate, newly minted programmers do not write assistants unsupervised  
+· like writing airliner software, developing assistants involves a team of experts, rigorous testing, and onerous quality·assurance processes  
 
 assistants run on Peoples•OS as jailed or virtualized environments  
 · this gives their implementers a lot of flexibility  
@@ -156,8 +156,23 @@ assistants run on Peoples•OS as jailed or virtualized environments
 
 ## interfacing with the human·internet
 while having control over our personal data in our devices is great, we are a social species that communicates, collaborates, and relates to other humans on the internet  
-· sadly, internet companies have larlely let down humanity with their business practices, data misuse, negligence, and criminality  
-· therefore, we must extent the Peoples•OS strong data privacy and protection capabilities to a new internet, the human·internet
+· sadly, internet companies have largely let down humanity with their business practices, data misuse, negligence, and criminality  
+· therefore, we must extent the Peoples•OS strong data privacy and protection capabilities to a new internet, the [human·internet][human·internet]  
+· through the InterPlanetary File System, the human·internet will be inherently private and secure, giving its denizens a sense of safety and community that the internet of today cannot provide  
+
+instead of task·assistants, the human·internet hosts [**digital·organisms**][digital·organisms], entities that manage data and content on behalf of its owners at a large scale   
+· digital organisms are akin to websites that provide access to information to entities such as content publishers, research organizations, and personal·service providers  
+· to access the data, however, these entities must be granted access by the personal·information owners  
+· also, all interactions between these entities and digital·organisms are permanently logged to ensure that data·privacy and data·sharing violations are promptly identified and prosecuted  
+· the human·internet will not allow the abuses that internet companies routinely inflict on human beings  
+
+digital·organisms will use IPFS to relieve people from having to manage the privacy and security of their data online  
+· IPFS ensures that data is never lost and that it is accessible from anywhere  
+· it makes data·ransom and distributed·denial·of·service attacks a thing of the past  
+· IPFS also provides immediate access to past versions of data, which help us discover and understand our data as it evolves  
+
+digital·organisms are long·lived processes that, just like task·assistants, can learn and accumulate experiences that help them to be effective managers of the information that people produce and share  
+· digital·organisms serve primarily the people who store their data and content on the Peoples•Cloud by providing an interface to personal·information to entities that access such information as part of their business  
 
 
 [Skype]: https://www.skype.com/en
@@ -176,6 +191,8 @@ while having control over our personal data in our devices is great, we are a so
 [GitHub]: https://github.com
 [IPFS]: https://ipfs.io "InterPlanetary File System" 
 [DDoS]: https://youtu.be/0I4O4hoKzb8
+[human·internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#the-humaninternet
+[digital·organisms]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#designing-digitalorganisms
 
 
 
