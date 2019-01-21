@@ -1,9 +1,10 @@
 # Providing Smart·Software to Humanity
-![](img/software.png)  
+![](img/software.png)
 
-  profit is war against humanity  
-  · many helpful technologies have been birthed from the task of efficiently killing large numbers of human beings  
-  · does that make war good?  
+  >the pursuit of profit for its own sake is war against humanity  
+  · many helpful technologies have been birthed from the task of efficiently, swiftly, and immediately killing large numbers of human beings  
+  · does that make war *good*?  
+
 &nbsp;
 
 people work with data and content, not directly with files  
