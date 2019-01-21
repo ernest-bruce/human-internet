@@ -496,7 +496,7 @@ we also have to consider the possibility that artificial·intelligence is actual
 · our brains are complex, biological organs that operate very differently from current computing·architectures  
 · although we can simulate how our brains work, we cannot emulate a working brain with current technology  
 · when we can create a machine that can experience humanity the way we do (being born, feeling loved or scared, being anxious, knowing *why* it is playing Go or chess, experiencing culture, being emotionally moved by a piece of art), then we will have created artificial·intelligence  
-· a very limited [effort] [UofM:spinnaker] in comparison to the capability and efficiency of the human·brain is a small step in the right direction  
+· a very limited [effort][UofM:spinnaker] in comparison to the capability and efficiency of the human·brain is a small step in the right direction  
 
 what humans need is **practical·digital·intelligence,** a tool that takes advantage of current hardware (central·processing·units, graphics·processing·units, neural·processing·units, vast amounts of memory, ultrafast network connections) to perform tasks largely unattended, using knowledge, experience, and cooperation  
 · the goal of practical·digital·intelligence is to help people accomplish their objectives as efficiently and effortlessly as possible  
