@@ -198,7 +198,7 @@ digital·organisms are long·lived processes that, just like task·assistants, c
 **document versions**  
 
   * **1** update link targets for mobile experience  
-  * **0** first version  
+  * **0** publish complete content    
 
 
 [ASLR]: https://searchsecurity.techtarget.com/definition/address-space-layout-randomization-ASLR
