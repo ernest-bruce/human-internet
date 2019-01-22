@@ -195,9 +195,10 @@ digital·organisms are long·lived processes that, just like task·assistants, c
 · task·assistants can work together with digital·organisms to help people perform tasks and complete objectives  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**versions**  
-20190122: update link targets for mobile experience  
-20190121: first version  
+**document versions**  
+
+  * **1** update link targets for mobile experience  
+  * **0** first version  
 
 
 [ASLR]: https://searchsecurity.techtarget.com/definition/address-space-layout-randomization-ASLR
