@@ -193,31 +193,36 @@ digital·organisms are long·lived processes that, just like task·assistants, c
 · digital·organisms serve primarily the people who store their data and content on Peoples•Cloud  
 · but they also provide an interface to personal·information to entities that access such information as part of their business  
 · task·assistants can work together with digital·organisms to help people perform tasks and complete objectives  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**versions**  
+20190122: update link targets for mobile experience  
+20190121: first version  
 
 
-[Skype]: https://www.skype.com/en
-[FaceTime]: https://en.wikipedia.org/wiki/FaceTime
-[GoogleDocs]: https://www.google.com/docs/about
-[MicrosoftOffice]: https://en.wikipedia.org/wiki/Microsoft_Office
-[FOSS]: https://en.wikipedia.org/wiki/Free_and_open-source_software "Wikipedia: Free and open-source software"
-[permissive·license]: https://en.wikipedia.org/wiki/Permissive_software_licence "Wikipedia: Permissive software license"
-[OpenZFS]: http://open-zfs.org/wiki/Main_Page
-[FreeBSD]: https://www.freebsd.org
-[TrueOS]: https://www.trueos.org/
-[OpenBSD]: https://www.openbsd.org/
-[IPSec]: https://en.wikipedia.org/wiki/IPsec
-[OpenSSH]: https://en.wikipedia.org/wiki/OpenSSH
 [ASLR]: https://searchsecurity.techtarget.com/definition/address-space-layout-randomization-ASLR
-[TrueOS-GitHub]: https://github.com/trueos/trueos
-[IPFS]: https://ipfs.io "InterPlanetary File System" 
 [DDoS]: https://youtu.be/0I4O4hoKzb8
-[human·internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#the-humaninternet
 [digital·organisms]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#designing-digitalorganisms
-[PeoplesOS]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#peoplesos-operatingsystem
-[PeoplesCloud]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#peoplescloud-1
+[FaceTime]: https://en.wikipedia.org/wiki/FaceTime
 [FOSS]: https://en.wikipedia.org/wiki/Free_and_open-source_software
-[web·service]: https://en.wikipedia.org/wiki/Web_service "Wikipedia: Web service"
+[FOSS]: https://en.wikipedia.org/wiki/Free_and_open-source_software "Wikipedia: Free and open-source software"
+[FreeBSD]: https://www.freebsd.org/about.html "FreeBSD.org: About FreeBSD"
+[GoogleDocs]: https://www.google.com/docs/about
 [humanism]: https://en.wikipedia.org/wiki/Humanism "Wikipedia: Humanism"
+[human·internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#the-humaninternet
+[IPFS]: https://ipfs.io "IPFS.io" 
+[IPSec]: https://en.wikipedia.org/wiki/IPsec
+[MicrosoftOffice]: https://en.wikipedia.org/wiki/Microsoft_Office
+[OpenBSD]: https://en.wikipedia.org/wiki/OpenBSD "Wikipedia: OpenBSD"
+[OpenSSH]: https://en.wikipedia.org/wiki/OpenSSH
+[OpenZFS]: https://en.wikipedia.org/wiki/OpenZFS "Wikipedia: OpenZFS"
+[PeoplesCloud]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#peoplescloud-1
+[PeoplesOS]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#peoplesos-operatingsystem
+[permissive·license]: https://en.wikipedia.org/wiki/Permissive_software_licence "Wikipedia: Permissive software license"
+[Skype]: https://www.skype.com/en
+[TrueOS-GitHub]: https://github.com/trueos/trueos
+[TrueOS]: https://www.trueos.org "TrueOS.org"
+[web·service]: https://en.wikipedia.org/wiki/Web_service "Wikipedia: Web service"
 
 
 
