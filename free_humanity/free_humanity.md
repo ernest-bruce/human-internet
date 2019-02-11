@@ -865,13 +865,13 @@ the **Human·Internet Initiative** aims at providing an environment where such p
 > 
 &nbsp;
 
-the alternative to the current internet dominance that modern·day robber·barons is the **human·internet**  
+the alternative to the current internet dominance of modern·day robber·barons is the **human·internet**  
 · the main goal of the human·internet is to keep individuals, groups, communities, societies, and humanity top of mind when it comes to who benefits from technological advancement  
 
 all entities—from big corporations to small startups—should have complete access to the personal·information to which individuals grant them access  
 · a person’s general personal·information, such as addresses, phone numbers, connections, groups, and communities, should be available only to authorized·entities, the entities to whom that person grants access  
 · people should not have to maintain personal·information at multiple locations, with multiple entities; updating an email or home address should be done only once, with all authorized parties having access to the updated details automatically  
-· people have ultimate control over which entities have access to the personal·information  
+· people have ultimate control over which entities have access to their personal·information  
 · entities whom the person does not know will not have access to that person’s information  
 · entities with access to a person’s information loose that access when the person deauthorizes them to access eir information  
 · the human·internet effectively switches the tables on the internet’s robber·barons  
@@ -879,9 +879,9 @@ all entities—from big corporations to small startups—should have complete ac
 individuals—thru the power they exercise by pooling their personal·information on a single, public platform—should be able to offer the services that powerful internet companies such as Facebook and Twitter offer their customers  
 · individuals deserve to have a powerful entity who advocates for them and represents their interests primarily, and not the revenue-maximizing motives of for·profit entities  
 · for example, similar to Facebook, a common store of personal information that is controlled by people could offer ad companies the targeting capabilities that Facebook offers, but in ways that are more respectful of people’s right for privacy  
-· because people would be invested in their platform’s continued success, they would be motivated to store information on the platform that is more valuable than the information Facebook collects through automated—and sometimes questionable—means, such as the person’s location, and the operations the person performs on eir devices (yes, Facebook collects that, check its [data·policy](https://www.facebook.com/policy.php))  
-· people could share information about events that are valuable to them, enriching it with notes, messages, and photos that provide a more complete picture of the event’s meaning in their lives  
-· people would make such intimate details available on the platform because they trust that the information will be used only on their behalf, and that it will not fall on the wrong hands  
+· because people would be invested in their platform’s continued success, they would be motivated to store information on the platform that is more valuable than the information Facebook collects through automated—and sometimes questionable—means such as the person’s location, and the operations the person performs on eir devices (yes, Facebook collects that, check its [data·policy](https://www.facebook.com/policy.php))  
+· people could share information about events that are valuable to them, enriching those events with notes, messages, documents, and photos that provide a more complete picture of the event’s meaning in their lives  
+· people would make such intimate details available on the platform because they trust that the information will be used only on their behalf, and that it will not land on the wrong hands  
 
 a public, humane, responsible, and secure environment would be an effective foundation for human-centric services that are free to human beings  
 · these include identity, social, connection, communication, community, content·authorship, and content·exploration services  
@@ -890,7 +890,7 @@ a public, humane, responsible, and secure environment would be an effective foun
 companies could find paying for access to data in public and humane platforms more cost·effective that obtaining and maintaining personal·information themselves  
 · several societies, including Europe, Japan, and California, have passed laws and regulations that give individuals ways to control how companies can use, share, and sell their personal information, among other preferences  
 · companies have adapted to this changing environment in several ways, including modifying their systems, and ceasing operations  
-· there are some companies, however, who find it difficult to adapt, and use the services of third-parties to help them comply with the new rules  
+· there are some companies who find it difficult to adapt, and use the services of third·parties to help them comply with the new rules  
 · a platform that can make it easy for companies to access personal information while complying with regulations such as General Data Protection Regulation (Europe) and the California Consumer Data Protection Act could be of value to small companies and startups  
 
 these are some of the principles that reflect the human·internet vision:  
@@ -913,28 +913,28 @@ these are some of the principles that reflect the human·internet vision:
 
 &nbsp;
 
-Facebook is the premier social·network company, a position it has earned through innovation, imitation, acquisitions, and hard work  
+Facebook is the premier social·network company, a position it has earned through innovation, imitation, acquisition, and hard work  
 · but as it has gained power and influence, Facebook has behaved badly  
 · it has shared personal·information with entities the owners of that information did not know and about whom they were not informed in any practical way  
 · by having billions of people in its network and providing highly·specific ways to target them with ads, Facebook makes large amounts of money  
 · unfortunately, the company does not share that success with the users whose data it uses to generate revenue  
 · instead, it invests in new ways to lure people into providing it with more of their personal·information  
 · Facebook itself and its shareholders are the sole beneficiaries of the efficiencies and profits its products provide to its main customers, the ad companies  
-· the company does not help improve the lives of its data·cows   
+· the company does not help improve the lives of its *data·cows*   
 
 Amazon is another example of wanton market and industry dominance  
 · through aggressive pricing, and questionable business tactics (such as delisting a book publisher’s books from its online store during contract negotiations), Amazon has grown to dominate the online·retail business (among other industries)  
 · Amazon uses its position of dominance to act arrogantly and irresponsibly with personal·information, not to mention the bullying of “business partners”   
 · even though it has under its control the computing resources that power industries, armies, and countries, it does not use the appropriate resources to avoid leaking personal·information as a result of preventable errors, or to protect people’s private voice recordings with sound engineering practices   
 
-in eir well-researched [paper][Amazons_Antitrust_Paradox], **Lina M. Khan** states that:
+in eir well-researched [paper][Amazons_Antitrust_Paradox], **Lina M. Khan** states:
 > there are two approaches for addressing the power of dominant platforms:  
 > (1) **limiting their dominance** through restoring traditional antitrust and competition policy principles and  
 > (2) **regulating their dominance** by applying common carrier obligations and duties  
 
 there is a third approach: a public, federated environment that nurtures platforms whose principal purpose is to help human beings to connect, relate, communicate, share, learn, transact, and live humanely, respectfully, 
 and honorably  
-· this would be a great check on and an alternative to Facebook, Amazon, and similar companies who use their size, dominance, and control over personal·information to inflict harm to individuals and society to enrich themselves  
+· this would be a great check on and an alternative to Facebook, Amazon, and similar companies who use their size, dominance, and control over personal·information to inflict harm to individuals and society, to enrich themselves  
 &nbsp;
 
 profit-seeking entities usually pursue only projects and initiatives with the most growth or profit potential  
@@ -942,7 +942,7 @@ profit-seeking entities usually pursue only projects and initiatives with the mo
 · entities who seek to benefit individuals and society efficiently, but without the need to produce huge profits, could be an avenue through which humanity can develop and nurture projects that are not influenced by the business interests of entities whose main goal is to produce profits for their owners and shareholders  
 
 transportation businesses do not build bespoke highways between their customers’ locations  
-· they hire the best drivers they can get, and put them in the best trucks they can use, to deliver their cargo safely and on time  
+· they hire the best drivers they can get, and put them in the best trucks they can afford, to deliver their cargo safely and on time  
 · but the highways are built to be safe and reliable by people we trust to make them that way, [highway·engineers][highway·engineering]  
 · truck drivers do not build the highways on which they do their work  
 · but they know their trucks, they operate them so that they perform efficiently and safely, they learn everything about them so that they can tell when something is wrong  
@@ -950,10 +950,10 @@ transportation businesses do not build bespoke highways between their customers�
 · knowing how to operate what is under their control (their trucks), and how to interact with things that are not under their control (traffic), is how truck drivers provide the best overall service and earn good reputations by taking cargo between origin and destination locations on time  
 
 the **human·internet**, like a highway system is to a truck driver, would offer a federated and distributed environment that entities who work with personal·information could use to provide their services  
-· this humane environment, would comprise several humane platforms that offer storage, social, community, and professional services to people  
+· this humane environment, would comprise several humane platforms that offer storage, social, community, and professional services  
 · with people sharing their personal·information thru privacy·focused, secure platforms, companies would compete based on merit, not by holding personal·information hostage  
-· they could offer *aggregated·services* that provide compelling experiences  
-· people, free to move seamlessly between aggregated·service·providers, would choose the one that best satisfies their needs and wants, not the one that has the most users, or where their data lives  
+· they would offer *aggregated·services* that provide compelling experiences  
+· people, free to move seamlessly between aggregated·service·providers, choose the ones that best satisfy their needs and wants, not the one that has the most users, or where their data used to live    
 · this is how *true competition* on the internet looks like   
  
 the human·internet could also be a great vehicle through which the power the internet behemoths have can be slowly transferred to the people whose data has fueled the success of such entities  
@@ -988,9 +988,9 @@ another target audience are software engineers, and open source practitioners an
 &nbsp;
 
 there are other platforms that could be part of the human·internet  
-· projects like [MesInfos][MesInfos] share some of the Human·Internet·Initiative’s goals and values  
+· projects like [MesInfos][MesInfos] share some of the human·internet’s goals and values  
 · a group of similar projects could provide a flexible, global, multifaceted alternative to the internet cabal  
-· their existence can both provide alternatives to people and motivate the internet giants to change their ways, and become the change agents they purport to be but have failed to become  
+· their existence can both provide alternatives to people and motivate the internet giants to change their ways and become the change agents they purport to be but have failed to become  
 &nbsp;
 &nbsp;
 
@@ -1004,7 +1004,7 @@ there are other platforms that could be part of the human·internet
 
 the Peoples platform comprises several products, including an operating·system, software components to manage data and content, and interact with users, and cloud·software to manage the storage or personal·information  
 
-the main products that realize the vision for a humane internet are:  
+the main products that realize the vision for the human·internet are:  
 
   * **Peoples·OS:** a privacy and security focused operating system, based on proven, secure, and reliable technologies     
   · it would be based on the open-source [TrueOS][TrueOS] operating system, which is based on [FreeBSD][FreeBSD], a long-lived secure and reliable operating system, and [OpenZFS][OpenZFS], which the computing industry deems as the best file system and volume manager available  
@@ -1014,15 +1014,15 @@ the main products that realize the vision for a humane internet are:
 
   * **task·assistants:** software components that replace apps  
   · this type of software interacts with users in the most convenient and efficient way, depending on the task, context, data, and the user’s current environment and situation (for example, sitting at a desk or talking with a patient)  
-  · for example, a writing·assistant would help authors produce content annotated with context that makes is easy to query and navigate; such context may include keywords, subject matter, term definitions, and source material  
-  · a browsing·assistant would help people navigate the **hyperweb** (linked content produced by people using the writing·assistant) using an interaction model that follows [Ted Nelson’s][Ted_Nelson] vision for reading and navigating interconnected documents  
+  · for example, a writing·assistant would help authors produce content annotated with context that makes it easy to query and navigate; such context may include keywords, subject matter, term definitions, and source material  
+  · a browsing·assistant would help people navigate the **hyperweb** (linked content produced by people using a writing·assistant) using an interaction model that follows [Ted Nelson’s][Ted_Nelson] vision for reading and navigating interconnected documents  
 
   * **personal·identification·devices:** these are devices such as phones and tablets that, with special software, people can use to authenticate themselves to others, after presenting themselves to a notary·public that attests to the person’s identity  
   · these devices contain a secure·enclave (also known as secure·element) to generate private·keys and perform encryption and decryption operations, and biometric capabilities, including fingerprint and facial recognition  
 
   * **Peoples·Cloud:** distributed, private, and secure storage for personal data and content  
   · this is where people’s personal·information is stored securely using the [**InterPlatetary File System** (IPFS)][IPFS]  
-  · companies would be able to access the personal·information if the owners authorize them to do so  
+  · companies would be able to access the personal·information of people who authorize them    
   · the companies would pay Peoples·Foundation for access to Peoples·Cloud, which would offer access to personal·information as well as compute·services  
 
 
