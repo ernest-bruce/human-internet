@@ -1,8 +1,10 @@
 # Freeing Humanity from the Shackles of Greed
 ![](_images/internet_gt_facebook.png)
+&nbsp;
 
 > *practically every ethical, moral, and cultural justification for the capitalist system has now been destroyed by capitalism*  
 > [**Michael Harrington**](https://en.wikipedia.org/wiki/Michael_Harrington)  
+
 &nbsp;
 
 technology moves humanity forward, but there is a price to pay for that progress:  
@@ -35,11 +37,11 @@ the way people navigate content on the internet is antiquated
 · students, teachers, and researchers will benefit from more efficient ways to link their work to their colleagues’ work  
 &nbsp;
 
-this article, using hallowed documents, authored by people using lessens learned over thousands of years, defines ourselves, who we are, what we stand for  
+this article, using hallowed documents, authored by people using lessons learned over thousands of years, defines ourselves, who we are, what we stand for  
 · it imagines a future where data and content rule over platforms, and advancements in technology benefit humanity before satisfying profit·making needs of greedy entities  
-· it then depicts our present presenting recent headlines that illustrate how the for·profit internet behemoths really think about personal·data and privacy  
+· it then depicts our present, showcasing recent headlines that illustrate how the for·profit internet behemoths really think about personal·data and privacy  
 · finally, it shows how the human·internet can take humanity from the confines of our present into valleys of humanistic collaboration  
-· this is the interconnected, distributed network that will take humanity forward and upward to [Mars](https://en.wikipedia.org/wiki/Mars), [Europa](https://en.wikipedia.org/wiki/Europa_(moon)), [Enceladus](https://en.wikipedia.org/wiki/Enceladus), Proxima Centauri b, and beyond  
+· this is the interconnected, distributed network that will take humanity forward and upward to [Mars](https://en.wikipedia.org/wiki/Mars), [Europa](https://en.wikipedia.org/wiki/Europa_(moon)), [Enceladus](https://en.wikipedia.org/wiki/Enceladus), [Proxima b](https://en.wikipedia.org/wiki/Proxima_Centauri_b), and beyond  
 &nbsp;
 
 sections:  
@@ -89,7 +91,7 @@ human beings have developed concepts like human·rights and justice to ensure th
 &nbsp;
 
 
-### independence, injuries, and usurpations
+### abuses and usurpations
 [United States Declaration of Independence—Preamble](http://www.ushistory.org/declaration/document)
 
 > We hold these truths to be self-evident, that all [persons] are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.
@@ -100,7 +102,7 @@ human beings have developed concepts like human·rights and justice to ensure th
 > **The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.**
 
 Facebook, Twitter, Google, Apple, Microsoft and other big internet companies effectively *govern* the internet  
-· they constantly abuse, and usurp our human right to privacy, security, and safety  
+· they constantly abuse, and usurp our human rights to privacy, security, and safety  
 · it is our right, our duty, to *disrupt* them, and to develop better, private, and secure mechanisms to connect, relate, live, and do business on the internet  
 &nbsp;
 &nbsp;
@@ -108,6 +110,12 @@ Facebook, Twitter, Google, Apple, Microsoft and other big internet companies eff
 
 
 ## OUR FUTURE
+
+> *lie*  
+> [**Personal Super Intelligent AI System**](https://youtu.be/NZ8G3e3Cgl4 "YouTube: A Date in 2025")  
+
+&nbsp;
+
 ***personal business is smooth and efficient with a single, distributed, resilient, and permanent store for all our personal·information***
 
 let us travel to the future for a few minutes, and hang out with a human·internet denizen  
@@ -116,18 +124,18 @@ let us travel to the future for a few minutes, and hang out with a human·intern
 
 changing primary·care facilities and healthcare providers is easy for Mirai  
 · all sie does is go the new facility and give it access to eir digital medical·records  
-· the medical professionals in the new facility now have access to eir entire medical·history, sie does not have to fill the annoying forms people used to do before *the change*  
-· sie shudders when sie reads the horror stories about hackers stealing personal·information years ago  
+· the medical professionals in the new facility now have access to eir entire medical·history, sie does not have to fill the annoying forms people used to do before  
+· sie shudders when sie reads the horror stories about hackers stealing personal·information   
 · “i am glad people rebelled and fought to make things better,” Mirai thinks to eirself  
 &nbsp;
 &nbsp;
 
 ***human interactions are simple and satisfying with smart·software***  
   
-at the clinic, Mirai meets a nice woman, eir name is Robin  
+at the clinic, Mirai meets, Robin  
 · Mirai tells Robin that sie is a new arrival  
 · Robin welcomes Mirai to the city  
-· the two women have a nice conversation about biochemistry and become fast friends  
+· the two have a nice conversation about biochemistry and become fast friends  
 · when eir name is called, Robin takes out eir handset and calls up eir connection·assistant  
 · Mirai does the same  
 · then their handsets present invitations to each of them to connect with one another  
@@ -147,17 +155,17 @@ that night, at eir new place, Mirai sits at eir couch and picks up eir tablet
 after ending the chat, Mirai checks with eir social·assistant to see thoughts from eir aggregate social·community, which comprises family, friends, some professional groups, and the nuclear·fusion community of engineers and researchers  
 · sie also allows content from a few social·agents into her social·timeline  
 · sie sees an anniversary from eir aunt, some pictures at a beach from eir cousin, and a cute picture of Robin’s dog  
-· bellow that, embedded in an recommendation from the First·Logos social·agent, sie sees an ad for beds on sale at a local furniture·store  
-· Mirai uses First·Logos because it provides sie content that sie always finds pertinent to eir situation (even though sie shares the same personal·information with the five social·agents sie uses)  
+· bellow that, embedded in a recommendation from the **First·Logos** social·agent, sie sees an ad for beds on sale at a local furniture·store  
+· Mirai uses First·Logos because it provides sie content that sie always finds pertinent to eir situation   
 · Mirai smiles when sie thinks back to when eir mom told her that people used to get all kinds of ads from companies directly on their social·timelines  
 · “how rude!” sie thinks  
 · despite First·Logos’s recommendation, Mirai is not ready to make a direct connection with the furniture·store, but sie schedules a visit for the next day, after work  
 
-later that evening, Mirai asks eir wall to take her to Amulet, which is a virtual·reality environment where all kinds of people from many corners of the world relate and interact with each other in real time  
+later that evening, Mirai asks eir wall to take her to Amulet, which is a virtual·reality environment where all kinds of people from many corners of the world relate and interact with each other in real·time  
 · people are depicted using avatars representing the real persons behind them  
 · even though the environment is virtual, the people in it are real  
 · Amulet is not a game but a place where people connect and socialize  
-· people engage in activities that are possible only in a synthetic environment (such as flying from the heights of Mount Everest to the depths of the Mariana Trench in five minutes  
+· people engage in activities that are possible only in a synthetic environment, such as flying from the heights of Mount Everest to the depths of the Mariana Trench in five minutes  
 · Mirai enjoys eir time in Amulet, where sie spends about an hour each day before going to bed, no matter how tired sie might be, meeting people and learning about different cultures and experiences  
 &nbsp;
 &nbsp;
@@ -207,9 +215,12 @@ society does not benefit from the data silos powerful internet companies use to 
 · companies like Facebook, Twitter, Amazon, and Google use their control over people’s data and their dominance over entire industries to pursue their agendas, while skirting laws and regulations  
 · they do this because they know that people have few alternatives to the services they provide  
 · to stay connected with family, acquaintances, and colleagues, people need to be on Facebook; to stay abreast of events involving major personalities and politicians, people have to be on Twitter; to have access to the myriad products sold online, people have to use Amazon; and to work efficiently with others on documents, spreadsheets, and presentations, people use Google Docs  
+&nbsp;
 
 > The robber baron era ended when we as a nation decided that some business tactics were out of line. And the question is whether we want to go back on that decision.  
 > [Paul Krugman][Amazons_Monopsony_Is_Not_OK]  
+
+&nbsp;
 
 legal frameworks protecting personal·information are in their infancies  
 · the [robber·barons][robber·barons] of the current era are taking advantage of this to stake their dominant positions by collecting and controlling as much personal·information as possible to enrich themselves  
@@ -386,7 +397,7 @@ is Facebook a business enterprise or a criminal organization?
 
 
 ### Google  
-Google is data·collection machine, whose tentacles extend outside its environments and into our very lives, even when we specifically prohibit Google from doing so in the “settings” interfaces  
+Google is a data·collection machine, whose tentacles extend outside its environments and into our very lives, even when we specifically prohibit Google from doing so in the “settings” interface  
 · Google also uses questionable practices to obtain and profit from personal·information obtained covertly  
 &nbsp;
 #### [Google and IAB ad category lists show ‘massive leakage of highly intimate data,’ GDPR complaint claims](https://techcrunch.com/2019/01/27/google-and-iab-ad-category-lists-show-massive-leakage-of-highly-intimate-data-gdpr-complaint-claims)
@@ -495,9 +506,9 @@ Twitter purports itself to be a “news outlet”
 
 > Gadde and Roth noted that Twitter expects these sorts of campaigns to continue and said that Twitter's Site Integrity team will **“continue to proactively combat nefarious attempts to undermine the integrity of Twitter, while partnering with civil society, government, our industry peers, and researchers to improve our collective understanding of coordinated attempts to interfere in the public conversation.”**  
 
-Twitter’s inability to verify that users are real human·beings or legal entities allowed criminal organizations like Russia’s Internet Research Agency to spread fake news and hate on its platform
+Twitter’s inability to verify that users are real human·beings or legal·entities allowed criminal organizations like Russia’s Internet Research Agency to spread fake news and hate on its platform
 
-an infrastructure that is based on real confirmable identities would not prevent individuals from posting fake and hateful content but would make it easier for people to identify the source of content, and gauge by themselves whether the content should be believed  
+an infrastructure that is based on real confirmable identities would not prevent individuals from posting fake and hateful content but would make it easier for people to identify the source of the content, and gauge by themselves whether it should be believed  
 &nbsp;
 
 #### [Twitter warns that private tweets were public for years](https://www.bbc.com/news/technology-46918859)
@@ -506,10 +517,10 @@ an infrastructure that is based on real confirmable identities would not prevent
 
 > Anyone who updated the email address linked to their account **between November 2014 and January 2019** could have had messages exposed, it said.
 
-ineffective software testing practices and audits cause this type of problem  
+ineffective software·testing practices and audits cause this type of problem  
 · Twitter cannot tell how many people had their private tweets publicly exposed for 51 weeks  
 · it had no mechanism to verify that people’s privacy settings where correctly enforced  
-· but its ad infrastructure probably worked *perfectly* all that time 
+· but its ad infrastructure probably worked *perfectly* all that time  
 · why?  
 · because Twitter’s main goal is to make money, not to keep private tweets *private*  
 &nbsp;
@@ -521,7 +532,7 @@ ineffective software testing practices and audits cause this type of problem
 
 automated tools to identify fake and malicious accounts are not as effective as a public and secure infrastructure  with an authentication·service based on a person’s *real·life*-confirmed identity and biometric verification 
 would be    
-· Twitter, Facebook, and other companies are just chasing windmills while standing on an infrastructure that was not designed with security in mind, and whose numerous patches have not proven effective either  
+· Twitter, Facebook, and other companies are just chasing windmills while standing on an infrastructure that was not designed with security in mind, and whose numerous patches have not proven effective   
 &nbsp;
 &nbsp;
 
@@ -610,8 +621,8 @@ criminal entities take advantage of internet weaknesses, the incompetence of com
 
 > **A Vodafone spokesperson told Motherboard in a statement, “We have specific security measures in place to protect our customers against SS7 vulnerabilities that have been deployed over the last few years, and we have no evidence to suggest that Vodafone customers have been affected. Vodafone is working closely with GSMA, banks and security experts on this issue.”** The GSMA is a trade group that represents mobile network operators.
 
-if this is true, why has not Vodafone shared their approach with telecommunications companies?
-· of why do not other telecommunications companies use Vodafone’s countermeasures? pride?
+if this is true, why has not Vodafone shared their approach with telecommunications companies?  
+· or why do not other telecommunications companies use Vodafone’s countermeasures? pride?
 
 > The fundamental issue with the SS7 network is that it **does not authenticate who sent a request.** So if someone gains access to the network—a government agency, a surveillance company, or a criminal—SS7 will treat their commands to reroute text messages or calls just as legitimately as anyone else’s. There are protections that can be put in place, such as SS7 firewalls, and ways to detect certain attacks, but room for exploitation remains.
 
@@ -759,7 +770,7 @@ Apple is one of the most valuable companies in the world
 
 this episode is nothing short of institutional negligence and incompetence  
 · where was the security team?  
-· what was customer service doing?  
+· what was Customer Service doing?  
 · nobody at [Atrient](http://www.atrient.com/about/about-us) lifted a finger in light of the multiple reports by security researchers about the shoddy design and security vulnerabilities of the product major clients use to manage the personal·information of millions of casino goers  
 
 the CEO and COO of Atrient show complete disregard for the security capabilities of the product they sell to casinos  
@@ -778,10 +789,10 @@ one of the benefits of **content·federation** is the ability to create content 
 · this model is also inherently inefficient because it relies on copies of content instead of having a single source of content, which wastes storage space and network bandwidth  
 
 some companies offer **integrations** to their platforms  
-· platforms sometimes offer an **application·programming·interface** (API) that allows companies to write apps to directly access the platform  
+· platforms sometimes offer an **application·programming·interface** (API) that allows companies to write apps that access the platform directly  
 · this creates an ecosystem that benefits both the platform, small companies and startups, and individuals by offering options when it comes to authoring and publishing content  
-· this is how apps like TweetDeck, and TweetBot provided people with innovative and helpful ways to participate in the Tweeter ecosystem, and helped the ecosystem grow  
-· but Twitter, after a period of growth where it got the number of users it wanted to convince possible investors and venture·capitalists to invest in them—and then go public—limit or revoke access to the interface, leaving the companies that took risks and based their business in the Twitter ecosystem, in the lurch
+· this is how apps like TweetDeck, and TweetBot provided people with innovative and helpful ways to participate in the Twitter ecosystem, and helped the ecosystem grow  
+· but Twitter, after a period of growth where it got the number of users it wanted to convince possible investors and venture·capitalists to invest in it—and then go public—limit or revoke access to the interface, leaving the companies that took risks and based their business in the Twitter ecosystem, in the lurch  
 · companies like Medium, Twitter, and Facebook have engaged in such inhumane (for individuals) and dishonorable (for companies) behavior  
 
 read·only copies of content and integrations that companies can revoke at a whim are neither humane nor honorable  
@@ -821,6 +832,11 @@ Medium really did not behave honorably
 
 
 ## OUR NEW DIGITAL LIFE
+
+> *i spent my time reconnecting loved ones, doing the work that governments were afraid to do*  
+> [**Donny**](https://youtu.be/iFRT5noguxw "YouTube: Donny The Drone")  
+
+&nbsp;
 
 we have the technology, the hardware, and the software, to escape the shackles of greed, negligence, incompetence, and criminality on the internet  
 · the tools and resources to take power from the internet’s behemoths are in our hands, laps, and desks  
@@ -893,7 +909,7 @@ these are some of the principles that reflect the human·internet vision:
 ### changing the world
 
 > [*impossible magic*](https://youtu.be/zVsHzS70krg "YouTube: Is there a limit to technological progress?")  
-> [**Clément Vidal**](https://lifeboat.com/ex/bios.clement.vidal)  
+> [**Clément Vidal**][Clement_Vidal]  
 
 &nbsp;
 
@@ -981,8 +997,8 @@ there are other platforms that could be part of the human·internet
 
 ### products
 
-> [*technology is the defining factor of our society*](https://youtu.be/4uo1FlcQENk)  
-> [**Gerd Leonhard**](https://en.wikipedia.org/wiki/Gerd_Leonhard)  
+> [*technology is the defining factor of our society*](https://youtu.be/4uo1FlcQENk "YouTube: The future of technology and Humanity")  
+> [**Gerd Leonhard**][Gerd_Leonard]  
 
 &nbsp;
 
@@ -1069,3 +1085,5 @@ the main products that realize the vision for a humane internet are:
 [OpenZFS]: https://en.wikipedia.org/wiki/OpenZFS "Wikipedia: OpenZFS"
 [TrueOS]: https://www.trueos.org "TrueOS.org"
 [FreeBSD]: https://www.freebsd.org/about.html "FreeBSD.org: About FreeBSD"
+[Gerd_Leonard]: https://en.wikipedia.org/wiki/Gerd_Leonhard "Wikipedia: Gerd Leonard"
+[Clement_Vidal]: https://lifeboat.com/ex/bios.clement.vidal "Lifeboat Foundation: Clément Vidal"
