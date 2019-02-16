@@ -49,7 +49,7 @@ sections:
 * [WE THE PEOPLE](#we-the-people)
 * [OUR FUTURE](#our-future)  
 * [OUR PRESENT](#our-present)  
-* [OUR NEW DIGITAL LIFE](#our-new-digital-life)  
+* [OUR DIGITAL LIFE](#our-digital-life)  
 &nbsp;
 &nbsp;
 &nbsp;
@@ -831,7 +831,7 @@ Medium really did not behave honorably
 &nbsp;
 
 
-## OUR NEW DIGITAL LIFE
+## OUR DIGITAL LIFE
 
 > *i spent my time reconnecting loved ones, doing the work that governments were afraid to do*  
 > [**Donny**](https://youtu.be/iFRT5noguxw "YouTube: Donny The Drone")  
@@ -1028,7 +1028,7 @@ the main products that realize the vision for the human·internet are:
 
 
 ---
-2019.02.11:1130.UTC: first publication  
+2019.02.16:2000-UTC
 
 
 
