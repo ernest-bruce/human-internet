@@ -49,16 +49,16 @@ and marital·status
 · however, it also provides Facebook the raw materials from which it generates its revenue  
 
 Facebook generates revenue mostly by providing lucrative ad·placement services to advertisers  
-· using the data users enter themselves or that it captures in other ways, Facebook displays highly targeted ads to its denizens  
+· using the data users enter themselves or that it captures in other ways, Facebook displays highly targeted ads to the inhabitants of its ecosystem  
 · the company does not have a good record verifying and disclosing the identity of the advertisers it serves  
 · it has also shared the personal·information of its denizens with third·parties without their express and informed consent  
-· finally, because of inappropriate security measures, bad actors have gained access to the personal·information of millions of users of the Facebook =ecosystem  
+· finally, because of inappropriate security measures, bad actors have gained access to the personal·information of millions of users of the Facebook ecosystem  
 
 
 ### Apple
-Apple provides an ecosystem on which software, apps, and data are used to provide a compelling ecosystem to each denizen of the ecosystem   
+the [Apple ecosystem][Apple] comprises software, apps, and services that provide compelling experiences to its users   
 · apps and services like Messages, Calendar, FaceTime, iCloud, and Apple Music work together to provide a seamless, attractive experience to users  
-· a denizen who uses iOS and watchOS devices enjoys a largely smooth and flawless experience managing the same data on both platforms  
+· this is how an Apple denizen who uses iOS and watchOS devices enjoys a largely smooth and flawless experience managing the same data on both platforms  
 · a user of iOS and Wear OS devices, on the other hand, does not experience such smooth integration between those platforms  
 · for example, the health information captured on a Samsung Galaxy Watch does not appear on the Health app on 
 an iPhone   
@@ -72,10 +72,10 @@ selling hardware
 
 
 ## holistic solution to internet problems
-companies on the internet implement private ecosystems that are largely not interoperable  
+large internet companies implement private ecosystems that are largely not interoperable  
 · it is either difficult or impossible for a person to share data between ecosystems  
 
-he human·internet aims to have the best qualities of environments such as Apple’s and Facebook’s on an open, secure, and human·focused ecosystem on which personal·identity, data·privacy, and data·security are paramount  
+he **human·internet** aims to have the best qualities of environments such as Apple’s and Facebook’s on an open, secure, and human·focused ecosystem on which personal·identity, data·privacy, and data·security are paramount  
 · the human·internet is mainly composed of people who have complete control over their personal·information, and entities who access or manage that information with the authorization and on behalf of its owners  
 · entities that access or manage personal·information enter into a binding contracts to abide by the rules of *datavault·service* providers and the policies of the human·internet    
 · violators of such rules can be suspended or banned from the human·internet  
@@ -91,9 +91,9 @@ the human·internet comprises these types of entities:
 * **data·collection:** set of data and content for an entity (*data·owner*), also known as a data·lake  
 * **datavault:** encrypted data·collection that can be accessed only by the data·owner and the entities the data·owner authorizes  
 * **data·subject:** entity about whom there exists data that may not be under the control of the entity  
-* **data·owner:** entity who controls a data·vault hosted by a *datavault·service*   
+* **data·owner:** entity who controls a datavault hosted by a *datavault·service*   
 * **data·owner·agent:** entity whom a data·owner gives total or partial access to the owner’s data (for example, a spouse or a caregiver)  
-* **datavault·service:** cloud·based service that provides authenticated·access to data·vaults to authorized entities; the provider of such a service may provide other services, such as compute, to process data in specialized ways without the need to transmit data between the client and the service provider  
+* **datavault·service:** cloud·based service that provides authenticated·access to datavaults to authorized entities; the provider of such a service may offer other services, such as compute, to process data in specialized ways without the need to transmit data between the client and the service provider  
 * **data·consumer:** entity who pays a datavault·service for read·access to data and content in datavaults; the entity must be authorized by data·owners to read their data  
 * **data·administrator:** entity who pays a datavault·service for admin·access to data and content in datavaults; the entity must be authorized by data·owners to administer their data  
 &nbsp;
@@ -117,53 +117,53 @@ all work and policies of the human·internet are guided by these principles:
 &nbsp;
 
 
-### data·vault service providers
+### datavault service providers
 a datavault·service provider is a computing·services provider that stores information about entities, such as human·beings and organizations  
-· the provider provides access to that information to entities whom the owner of the information authorizes to access it  
+· the provider facilitates access to that information to entities whom the owner of the information authorizes to access it  
 · Peoples·Cloud is an example of a human·internet datavault·service provider  
-· there are other initiatives, such as MyData, that could be datavault·service providers  
+· there are other initiatives, such as MesInfos, that could be datavault·service providers  
 &nbsp;
 &nbsp;
 
 
 ### the Peoples platform
-the **Peoples** platform is guided, owned, and operated by The·People (thru the **Peoples·Foundation**) to provide a humane, humanistic, and honorable alternative to Facebook, Google, Amazon, Microsoft, Apple, and other internet behemoths, whose main goal is *not* the overall advancement of individuals, groups, societies, and humanity    
+the **Peoples** platform is guided, owned, and operated by The·People (through the **Peoples·Foundation**) to provide a humane, humanistic, and honorable alternative to Facebook, Google, Amazon, Microsoft, Apple, and other internet behemoths, whose main goal is *not* the overall advancement of individuals, groups, societies, and humanity    
 · another of their main goals is to convince people to enter their ecosystems and not to use competing ones  
 · while some interaction is possible between the different ecosystems, they are optimized for a person’s complete immersion into the ecosystem  
 · from a person’s point of view, their apps and services work most effectively when the person uses only the ones provided by a single corporation  
 
-like the aforementioned corporate entities, the Peoples platform aims to provide hardware, software, education, service, and guidance to its denizens  
-· however, it will provide those services to **improve humanity as a whole,** not just the users of a single corporation’s ecosystem  
+like the aforementioned corporate entities, the Peoples platform aims to provide hardware, software, education, service, and guidance to its users  
+· however, it provides those services to **improve humanity as a whole,** not just the users of a single corporation’s ecosystem  
 · instead of profit, the Peoples platform seeks to improve the digital·lives of individuals, and to advance humanity through innovations in technology and human-machine interaction   
-· every service provided in Peoples is usable on any platform, which provides flexibility and choice to users  
-· users have standard ways to interact with data and content, as well as *assistants* provided by third·parties 
-(data·administrators) that help users work with particular types of data  
+· every service provided in Peoples can be used on any platform, providing flexibility and choice to users  
+· the platform provides standard ways to interact with data and content (data is always human·readable)
 
 the Peoples open ecosystem is larger in scope than the closed ecosystems of Facebook, Apple, Google, and others  
 · instead of private companies owning an ecosystem tailored for their community of users, *The·People* own the Peoples platform, and third·parties *participate* in it based on the good will and reputation they earn through their interactions with people and their data, and how they protect personal·information under their control  
 
 something else differentiates the Peoples ecosystem from other approaches: the fact that it is one system that comprises several components  
-· while Facebook is a social·network and Twitter is a microblogging service, the Peoples ecosystem will provide both capabilities (and more) under a single, open, and people·focused guidance  
-· there are platforms like Mastodon that aim also to provide alternatives to Facebook and Twitter  
+· while Facebook is a social·network, messaging·system, and photo·sharing·service, and Twitter is a microblogging service, the Peoples ecosystem will provide all those capabilities (and more) under a single, open, and people·focused guidance  
+· there are platforms like [Mastodon][Mastodon] that aim also to provide alternatives to Facebook and Twitter  
 · but their drawback is that they focus only on social·networking and microblogging  
 · they do not provide datavaults that provide the *single source of truth* for a person’s data and content  
-· and they do not provide additional data·collection capabilities such as medicines, dental work, events, and connections, to name just a few  
-· just like people can store their documents in iCloud and work on them using apps on their Mac and iPad devices, people will be able to store data and content on their datavaults and work on that single set of data on several apps, services, and platforms  
+· and they do not provide additional data·collection capabilities such as medicines, dental·work, events, and connections, to name just a few  
+· just like people can store their documents in iCloud and work on them using apps on their Mac and iPad devices, people will be able to store data and content on their datavaults and work on that single set of data using several apps, services, and platforms  
 · this is the holistic vision and approach to personal·information that is missing from the internet today  
 
-when it comes to presenting ads to people, Peoples will offer similar capabilities to those Facebook offers  
-· after all, Peoples will have the same kind of data that Facebook has on its users  
-· however, the Peoples approach to advertising is more humane  
+when it comes to presenting ads to people, Peoples will offer similar capabilities to the ones Facebook offers  
+· after all, Peoples will have the same kinds of data that Facebook has on its users  
+· but the Peoples approach to advertising is more humane  
 · instead of just being presented with easy·to·ignore ads, people get *invitations* to connect directly with the advertiser  
 · ad responders will be able to initiate a direct connection with that company, something that is more valuable than just an ad impression  
 
 invitations are from entities to whom the user is already connected, entities whose opinion the user trusts  
-· these entities can be data·consumers or data·administrators with the additional role of being an *information·source*, entities that provide helpful information and content to the user, which may include connection invitations    
+· these entities can be data·consumers or data·administrators with the additional role of being an *information·source*, entities that provide helpful information and content to the user, which may include connection·invitations    
 · when there is a match of interests, for example, the information·source may display content to the user  
 · in this case that content is an invitation with an embedded ad  
 · the more relevant the invitations the information·source presents to the user, the more the user will trust the source’s judgement    
 · but, if the source presents irrelevant content or invitations, the user may choose to remove that capability from the data·consumer or data·administrator  
-· the advertiser can present content to the user only if the user chooses to connect with the advertiser  
+
+the advertiser can present content to the user only if the user chooses to connect with the advertiser  
 · this puts information·sources in a position of trust both with the user who trusts the source to provide relevant information and introductions, and with the advertiser, who counts on the source to facilitate a good number of connections  
 
 **Peoples·Cloud**, part of the Peoples platform, will offer paid services to entities that need to work with personal·information that Peoples denizens manage in it  
@@ -210,7 +210,7 @@ initiative documents:
 
 
 ---
-2019.02.18:1755-UTC
+2019.02.18:1945-UTC
 
 [ineffective_laws]: https://github.com/ernest-bruce/human-internet/blob/master/ineffective_laws/ineffective_laws.md#laws-are-ineffective-at-protecting-personal-information
 [internet_plan]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md
@@ -224,3 +224,5 @@ initiative documents:
 [PeoplesOS]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#peoplesos-operatingsystem
 [MesInfos]: http://mesinfos.fing.org/english
 [Facebook]: http://facebook.com/about
+[Apple]: http://apple.com/about
+[Mastodon]: https://mstdn.io/about
