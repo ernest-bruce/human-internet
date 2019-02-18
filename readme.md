@@ -21,7 +21,7 @@ sections:
 ## identity, privacy, and security problems
 the internet was designed and implemented to provide fast and reliable communication between computers  
 · it, however, was not designed to manage identity, privacy, and security effectively  
-· some companies have built successful businesses on the internet  
+· despite this some companies have built successful businesses on the internet  
 · but they exhibit shortcomings when it comes to protecting personal·information  
 · in particular, they do not provide adequate protection to their computing systems, which facilitates the unauthorized access, modification, capture, or destruction of personal·information by bad actors  
 
@@ -30,33 +30,34 @@ these companies, which include Facebook, Apple, Google, Microsoft, Twitter, and 
 
 people do not have effective control over their data on the internet because the data is controlled by the companies that store it  
 · each ecosystem has features that people like such as being able to connect with a large number of people or enjoying the smooth operation of integrated apps and services  
-· unfortunately, the ecosystems also have drawbacks such as the use of personal·information in intrusive ways or the inability to use their information on other platforms in other ecosystems, which people dislike, ignore, 
-or both  
+· unfortunately, the ecosystems also have drawbacks such as the use of personal·information in intrusive ways or the inability of people to use their information on other platforms in other ecosystems, things that people dislike, ignore, or both  
+· people should not have compromise privacy, security, or convenience on the internet  
+· these systems should serve human·beings, and should make their lives easier  
 
-the following sections provide an overview of the Facebook and Apple ecosystems, which represent the major approaches to personal·information storage and usage by large corporations that provide products and services to individuals  
+the following sections provide a brief description of the Facebook and Apple ecosystems, which represent the major approaches to personal·information storage and usage by large corporations that provide products and services to individuals  
 &nbsp;
 &nbsp;
 
 
 ### Facebook
-Facebook’s ecosystem id composed of apps like Facebook, Messenger, WhatsApp, and Instagram   
-· the denizens the Facebook ecosystem use of one or more these apps  
+the [Facebook ecosystem][Facebook] is composed of apps like Facebook, Messenger, and Instagram   
+· the denizens the Facebook ecosystem use one or more these apps  
 · Facebook does not charge denizens of its ecosystem for most of the services and apps it provides  
-· but it compells them to enter personal·information such as name, birthdata, birthplace, hometown, 
+· but it compels them to enter personal·information such as name, birthdate, birthplace, hometown, 
 and marital·status  
 · this information helps denizens to find and connect with each other, or anybody to find them thru internet searches  
 · however, it also provides Facebook the raw materials from which it generates its revenue  
 
 Facebook generates revenue mostly by providing lucrative ad·placement services to advertisers  
-· using the data users enter themselves or that it captures in other ways, Facebook displays highgly targeted ads to its denizens  
-· the company does not have a good record verifying and disclosing the indentity of the advertisers it serves  
-· it has also shared the personal·information of its denizens with third·parties without their express and informed concent  
+· using the data users enter themselves or that it captures in other ways, Facebook displays highly targeted ads to its denizens  
+· the company does not have a good record verifying and disclosing the identity of the advertisers it serves  
+· it has also shared the personal·information of its denizens with third·parties without their express and informed consent  
 · finally, because of inappropriate security measures, bad actors have gained access to the personal·information of millions of users of the Facebook =ecosystem  
 
 
 ### Apple
 Apple provides an ecosystem on which software, apps, and data are used to provide a compelling ecosystem to each denizen of the ecosystem   
-· apps and sevices like Messages, Calendar, FaceTime, iCloud, and Apple Music work together to provide a seamless, attractive experience to users  
+· apps and services like Messages, Calendar, FaceTime, iCloud, and Apple Music work together to provide a seamless, attractive experience to users  
 · a denizen who uses iOS and watchOS devices enjoys a largely smooth and flawless experience managing the same data on both platforms  
 · a user of iOS and Wear OS devices, on the other hand, does not experience such smooth integration between those platforms  
 · for example, the health information captured on a Samsung Galaxy Watch does not appear on the Health app on 
@@ -71,10 +72,10 @@ selling hardware
 
 
 ## holistic solution to internet problems
-companies on the interpet implement private ecosystems that are largely not interoperable  
+companies on the internet implement private ecosystems that are largely not interoperable  
 · it is either difficult or impossible for a person to share data between ecosystems  
 
-he human·internet aims to have the best qualities of environmens such as Apple’s and Facebook’s on an open, secure, and human·focused ecosystem on which personal·identity, data·privacy, and data·security are paramount  
+he human·internet aims to have the best qualities of environments such as Apple’s and Facebook’s on an open, secure, and human·focused ecosystem on which personal·identity, data·privacy, and data·security are paramount  
 · the human·internet is mainly composed of people who have complete control over their personal·information, and entities who access or manage that information with the authorization and on behalf of its owners  
 · entities that access or manage personal·information enter into a binding contracts to abide by the rules of *datavault·service* providers and the policies of the human·internet    
 · violators of such rules can be suspended or banned from the human·internet  
@@ -129,7 +130,7 @@ a datavault·service provider is a computing·services provider that stores info
 the **Peoples** platform is guided, owned, and operated by The·People (thru the **Peoples·Foundation**) to provide a humane, humanistic, and honorable alternative to Facebook, Google, Amazon, Microsoft, Apple, and other internet behemoths, whose main goal is *not* the overall advancement of individuals, groups, societies, and humanity    
 · another of their main goals is to convince people to enter their ecosystems and not to use competing ones  
 · while some interaction is possible between the different ecosystems, they are optimized for a person’s complete immersion into the ecosystem  
-· from a person’s point of view, their apps and servics work most effectively when the person uses only the ones provided by a single corporation  
+· from a person’s point of view, their apps and services work most effectively when the person uses only the ones provided by a single corporation  
 
 like the aforementioned corporate entities, the Peoples platform aims to provide hardware, software, education, service, and guidance to its denizens  
 · however, it will provide those services to **improve humanity as a whole,** not just the users of a single corporation’s ecosystem  
@@ -147,7 +148,7 @@ something else differentiates the Peoples ecosystem from other approaches: the f
 · but their drawback is that they focus only on social·networking and microblogging  
 · they do not provide datavaults that provide the *single source of truth* for a person’s data and content  
 · and they do not provide additional data·collection capabilities such as medicines, dental work, events, and connections, to name just a few  
-· just like people can store their documents in iCloud and work on them using apps on their Mac and iPad devices, people will be able to store data and content on their datavaults and work on that single set of data on sevearl apps, services, and platforms  
+· just like people can store their documents in iCloud and work on them using apps on their Mac and iPad devices, people will be able to store data and content on their datavaults and work on that single set of data on several apps, services, and platforms  
 · this is the holistic vision and approach to personal·information that is missing from the internet today  
 
 when it comes to presenting ads to people, Peoples will offer similar capabilities to those Facebook offers  
@@ -160,12 +161,12 @@ invitations are from entities to whom the user is already connected, entities wh
 · these entities can be data·consumers or data·administrators with the additional role of being an *information·source*, entities that provide helpful information and content to the user, which may include connection invitations    
 · when there is a match of interests, for example, the information·source may display content to the user  
 · in this case that content is an invitation with an embedded ad  
-· the more relavant the invitations the information·source presents to the user, the more the user will trust the source’s judgement  
+· the more relevant the invitations the information·source presents to the user, the more the user will trust the source’s judgement    
 · but, if the source presents irrelevant content or invitations, the user may choose to remove that capability from the data·consumer or data·administrator  
-· the advertiser can present content to the user only if the user choosea to connect with the advertiser  
+· the advertiser can present content to the user only if the user chooses to connect with the advertiser  
 · this puts information·sources in a position of trust both with the user who trusts the source to provide relevant information and introductions, and with the advertiser, who counts on the source to facilitate a good number of connections  
 
-**Peoples·Cloud**, part of the Peoples platform, will offer paid services to entities that need to work with personal·information that Peoples denizes manage in it  
+**Peoples·Cloud**, part of the Peoples platform, will offer paid services to entities that need to work with personal·information that Peoples denizens manage in it  
 · through Peoples·Cloud these entities will be able to easily adhere to current and upcoming laws, regulations, and policy that specify how personal·information is to be used and disposed of  
 · Peoples·Cloud will be a distributed, cloud platform that maintains personal·information private, safe, and secure  
 &nbsp;
@@ -222,4 +223,4 @@ initiative documents:
 [IPFS]: https://ipfs.io "IPFS.io"
 [PeoplesOS]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#peoplesos-operatingsystem
 [MesInfos]: http://mesinfos.fing.org/english
-
+[Facebook]: http://facebook.com/about
