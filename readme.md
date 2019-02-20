@@ -226,3 +226,8 @@ initiative documents:
 [Facebook]: http://facebook.com/about
 [Apple]: http://apple.com/about
 [Mastodon]: https://mstdn.io/about
+[TrueOS]: https://www.trueos.org "TrueOS.org"
+[FreeBSD]: https://www.freebsd.org/about.html "FreeBSD.org: About FreeBSD"
+
+
+

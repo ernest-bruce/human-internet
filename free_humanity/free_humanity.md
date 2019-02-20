@@ -1031,42 +1031,6 @@ the main products that realize the vision for the human·internet are:
 2019.02.16:2000-UTC
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [human·internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#the-humaninternet
 [Jordan_Nguyen]: https://en.wikipedia.org/wiki/Jordan_Nguyen "Wikipedia: Jordan Nguyen"
 [IPFS]: https://ipfs.io "InterPlanetary File System" 
@@ -1087,3 +1051,4 @@ the main products that realize the vision for the human·internet are:
 [FreeBSD]: https://www.freebsd.org/about.html "FreeBSD.org: About FreeBSD"
 [Gerd_Leonard]: https://en.wikipedia.org/wiki/Gerd_Leonhard "Wikipedia: Gerd Leonard"
 [Clement_Vidal]: https://lifeboat.com/ex/bios.clement.vidal "Lifeboat Foundation: Clément Vidal"
+
