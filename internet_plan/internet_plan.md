@@ -59,6 +59,20 @@ we need a human·centric internet and everything that goes with it
  &nbsp;
 
 the rest of this document describes the rationale for the **human·internet,** its values, and the many ways it will be implemented for the betterment of society and the elevation of the human condition  
+
+sections:
+
+  * [the internet](#the-internet)
+  * [the human·internet](#the-humaninternet)
+  * [the Peoples·Foundation mission](#the-peoplesfoundation-mission)
+  * [the Peoples·Foundation approaches](#the-peoplesfoundation-approaches)
+  * [the components of digital·happiness](#the-components-of-digitalhappiness)
+  * [openness and transparency](#openness-and-transparency)
+  * [the human·internet structure](#the-humaninternet-structure)
+  * [Peoples·Foundation alternatives](#peoplesfoundation-alternatives)
+  * [Peoples·Foundation road·map](#peoplesfoundation-roadmap)
+  * [Peoples·Foundation components](#peoplesfoundation-components)
+ 
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -183,7 +197,7 @@ we need an entity driven by people’s *digital·happiness*, not the enrichment 
 
 what if we could redo the internet with the benefits and interests of *people* at its core?  
 · i am developing the nonprofit, people·centric entity that will ensure that people can trust their digital identity, privacy, and security on a *new internet*  
-· the name of the nonprofit organization that will introduce the human·internet is **Peoples•Foundation**  
+· the name of the nonprofit organization that will introduce the human·internet is **Peoples·Foundation**  
 
 the human·internet is a network with three basic characteristics:  
 
@@ -215,22 +229,22 @@ public content
 &nbsp;  
 &nbsp;  
 
-## the Peoples•Foundation mission
-in short, the **Peoples•Foundation** mission is to elevate the human condition  
-· Peoples•Foundation always puts the interests of human·beings and humanity first  
+## the Peoples·Foundation mission
+in short, the **Peoples·Foundation** mission is to elevate the human condition  
+· Peoples·Foundation always puts the interests of human·beings and humanity first  
 · every decision, every purchase, every hire will answer, how does this benefit humanity?  
 &nbsp;
 
-Peoples•Foundation has these principles:  
+Peoples·Foundation has these principles:  
 
   * integrity  
   * loyalty  
   * honor  
 
-Peoples•Foundation follows these premise:  
+Peoples·Foundation follows these premise:  
   * society is faithfully digitally represented when no entity interferes with the social workings of humanity in the digital·world (a single, nonhumanistic entity must not have the power to shape society)  
 
-Peoples•Foundation has these major goals:  
+Peoples·Foundation has these major goals:  
 
   * educate people about the value and power their personal·information embodies  
   * provide people free, permanent, private, and secure storage of their data and content  
@@ -269,7 +283,7 @@ Peoples•Foundation has these major goals:
 &nbsp;  
 &nbsp;  
 
-## the Peoples•Foundation approaches
+## the Peoples·Foundation approaches
 accomplishing the mission and goals described in the previous section takes a special kind of organization, one that is not beholden to the current way of doing things, which has proven to be flawed and manipulable  
 · we must use innovative and humane methods for developing, nurturing, and safeguarding an internet that guarantees that people’s rights over their personal·information are not ignored or trampled over  
 · the longevity of such organization must be guaranteed by protecting it from exits, pivots, takeovers, and purchasers motivated by greed  
@@ -301,7 +315,7 @@ the benefits of the relationships people enter in with profit·dedicated entitie
 brand·owners should also consider whether allowing another company (the owner of the hosting platform) to have such detailed information about their relationships with customers and advocates is strategically wise, given that the company could use that information to gain leverage over them  
 &nbsp;
 
-a public, open, and profit·agnostic platform, such as **Peoples•Cloud,** the data and content storage provider of Peoples•Foundation, helps both people and brand·owners  
+a public, open, and profit·agnostic platform, such as **Peoples·Cloud,** the data and content storage provider of Peoples·Foundation, helps both people and brand·owners  
 · placing our data, content, connections, and relationships under a platform owned and controlled by people for the benefit of people helps us to improve our digital lives and attain digital happiness  
 · this also helps the brand·owners that count on these relationships for publicity  
 
@@ -318,7 +332,7 @@ commodity
 · this produces more meaningful consumer-brand relationships and influence·networks, with stronger loyalty and, ultimately, generating more sales  
 &nbsp;
 
-Peoples•Cloud makes these business-consumer connections richer, more meaningful, and more valuable, both to businesses and consumers  
+Peoples·Cloud makes these business-consumer connections richer, more meaningful, and more valuable, both to businesses and consumers  
 &nbsp;
 &nbsp;
 
@@ -329,35 +343,35 @@ many people use **Twitter** to spread their thoughts to their Twitter audience
 why must Twitter or Facebook lie between you and your audience?  
 &nbsp;
 
-in **Peoples•Cloud,** *you* are the platform  
+in **Peoples·Cloud,** *you* are the platform  
 · you publish your thoughts directly to your family, friends, groups, communities, public·audience, or any combination of these general sets of relations  
 · you don not have to worry about a platform’s business·model or political sensitivities determining whether *your audience* can see the content you produce  
 · nobody tells you what to publish and what not to publish  
 · *however,* what you publish may reduce the number of entities interested in your content  
 · but that decision is up to you and you alone because *you* are the platform  
-· in Peoples•Cloud, you have a direct connection to your audience  
+· in Peoples·Cloud, you have a direct connection to your audience  
 
-Peoples•Cloud provides the infrastructure needed to make connections, create relationships, found groups and communities, and facilitate communication between communities, groups, and individuals  
+Peoples·Cloud provides the infrastructure needed to make connections, create relationships, found groups and communities, and facilitate communication between communities, groups, and individuals  
 · this ability to be your own platform is called **human·platformization**  
-· Peoples•Cloud offers platformization at several levels: individuals, groups, and communities  
-· the human·internet, thru Peoples•Cloud, does not rely on profit·dedicated companies to fulfill basic digital human needs of belonging (connection, relationship, and community)  
+· Peoples·Cloud offers platformization at several levels: individuals, groups, and communities  
+· the human·internet, thru Peoples·Cloud, does not rely on profit·dedicated companies to fulfill basic digital human needs of belonging (connection, relationship, and community)  
 · we have seen that profit·dedicated entities are not capable of doing that without adding questionable use of personal·information  
 &nbsp;
 
 what are people thinking, writing, saying, photographing, or recording?  
-· you can know this through the Peoples•Cloud facility that aggregates the public activity of individuals and makes it available to all human·internet denizens  
+· you can know this through the Peoples·Cloud facility that aggregates the public activity of individuals and makes it available to all human·internet denizens  
 · people can search and explore this treasure·trove of content because the content is **rich·content**, content that has context·information that makes is simple and efficient to classify, collate, and process  
 · big corporations can effectively use content with less context·information because they have the computing resources to *compute* context when they need it  
-· but Peoples•Cloud data and content always contain as much context·information as possible to make them easier to use by devices with more austere capabilities  
-· in addition, data and content are stored in a way that makes it easy for humans to read; that is, the native format of data and content in Peoples•Cloud is text·based  
+· but Peoples·Cloud data and content always contain as much context·information as possible to make them easier to use by devices with more austere capabilities  
+· in addition, data and content are stored in a way that makes it easy for humans to read; that is, the native format of data and content in Peoples·Cloud is text·based  
 · you do not need to use a special database or spreadsheet reader to read and understand the raw content that underlies a medical report   
 · think of this as a safer, smarter, more convenient, and more humane internet  
 &nbsp;
 
-Peoples•Cloud puts human convenience ahead of computational efficiency  
+Peoples·Cloud puts human convenience ahead of computational efficiency  
 · this is anathema to most computing·based enterprises, who want to extract every inch of performance they can from their infrastructure because by doing so increases their profit·margins  
-· the profit·margins of **Peoples•Foundation** are measured in individual convenience, and personal growth  
-· in Peoples•Cloud people manage their exposure to fake content, hate speech, and other undesirable information by disconnecting from the sources of such content  
+· the profit·margins of **Peoples·Foundation** are measured in individual convenience, and personal growth  
+· in Peoples·Cloud people manage their exposure to fake content, hate speech, and other undesirable information by disconnecting from the sources of such content  
 · a person can also choose to report illegal activity to authorities, who, with access to the perpetrator’s attested identity·information, are able to investigate the report and take appropriate action  
 · *the human·internet is not a haven for bullying and malfeasance*  
 · bad actors have no place in the human·internet, and have the law thrown at them for their misdeeds  
@@ -371,7 +385,7 @@ new laws and regulations are being introduced that protect and enforce the right
 · others are trying to [lobby-lawmakers](https://ernestbruce.tumblr.com/post/180322418655/achieving-digital-happiness-regulating-the) to weaken or curtail these laws  
 · some companies are coming up with solutions that help data·brokers and data·consumers to adapt their computing systems to the new environment  
 
-Peoples•Cloud is the people·centric solution that solves the problem from both sides:  
+Peoples·Cloud is the people·centric solution that solves the problem from both sides:  
 
   * it provides people with infrastructure and effective controls over their personal·information through a reliable and effective identity, authentication, and authorization system  
   * it also gives data·brokers and data·consumers a way to reduce their exposure to personal·information while continuing to execute their business prerogatives  
@@ -402,7 +416,7 @@ software should never ask us to perform tasks it can perform itself
 
 ### designing digital·organisms
 long·lived **digital·organisms** are the future of software and hardware engineering  
-· part of **Peoples•Foundation** mission is to ensure that technology always has human benefit as its main goal  
+· part of **Peoples·Foundation** mission is to ensure that technology always has human benefit as its main goal  
 
 to develop truly innovative, intelligent, and helpful software we must reexamine our software·development assumptions, principles, and practices  
 
@@ -418,17 +432,17 @@ expendable software components—database and messaging systems, started and sto
 · our new perspective on software·development will result in highly·reliable and trustworthy digital·assistants with which we will interact naturally and effortlessly  
 &nbsp;
 
-**Peoples•Foundation,** in its drive to improve the human·condition, will steward projects comprising hardware, software, science, and anthropology to develop humanistic digital·organisms that make the human·internet a reliable, safe, and nurturing environment for humans to interact with other humans, and other types of entities  
+**Peoples·Foundation,** in its drive to improve the human·condition, will steward projects comprising hardware, software, science, and anthropology to develop humanistic digital·organisms that make the human·internet a reliable, safe, and nurturing environment for humans to interact with other humans, and other types of entities  
 · digital·organisms represent a new playing field for all human activity  
-· **Peoples•Foundation** will be this field’s founder and its earliest adopter, ensuring that humans are its main beneficiary  
+· **Peoples·Foundation** will be this field’s founder and its earliest adopter, ensuring that humans are its main beneficiary  
 &nbsp;
 &nbsp;
 
 ### open-sourcing  everything
-while most profit·dedicated enterprises focus on amassing a treasure trove of patents to protect their revenue sources—and often to stifle competition—**Peoples•Foundation** and its subsidiaries, including Peoples•ID and Peoples•Cloud, has an *open-source everything* ethos  
+while most profit·dedicated enterprises focus on amassing a treasure trove of patents to protect their revenue sources—and often to stifle competition—**Peoples·Foundation** and its subsidiaries, including Peoples·ID and Peoples·Cloud, has an *open-source everything* ethos  
 · all innovations developed as part of the goal of improving the human condition are contributed to society to, well, *improve the human condition*  
 
-open·source-dedicated organizations, such as [**Linux Foundation**] [Linux·Foundation] and [**FreeBSD Foundation**] [FreeBSD·Foundation], have humanistic goals that are largely compatible with the goals of Peoples•Foundation  
+open·source-dedicated organizations, such as [**Linux Foundation**] [Linux·Foundation] and [**FreeBSD Foundation**] [FreeBSD·Foundation], have humanistic goals that are largely compatible with the goals of Peoples·Foundation  
 · they have steadfastly supported the sharing of technologies and innovations with the open·source community, and are good role models to follow  
 &nbsp;  
 &nbsp;  
@@ -436,14 +450,14 @@ open·source-dedicated organizations, such as [**Linux Foundation**] [Linux·Fou
 
 
 ## the components of digital·happiness
-the previous section lays out the **Peoples•Foundation** conceptual approaches to accomplishing its mission and goals  
+the previous section lays out the **Peoples·Foundation** conceptual approaches to accomplishing its mission and goals  
 · this section deals with the concrete software and hardware components that bring those into reality  
 &nbsp;
 &nbsp;
 
 ### personal·information ownership and control
-data and content stored in **Peoples•Cloud** has the highest degree of privacy and security  
-· by leveraging the services of Peoples•Cloud, companies that manage personal data on their own infrastructure have a way to determine their data·subjects’ wishes for the use, processing, sharing, and selling of their 
+data and content stored in **Peoples·Cloud** has the highest degree of privacy and security  
+· by leveraging the services of Peoples·Cloud, companies that manage personal data on their own infrastructure have a way to determine their data·subjects’ wishes for the use, processing, sharing, and selling of their 
 personal·information  
 · this makes it simpler for both individuals and companies to manage personal·information  
 · people are able to determine, in one place, how their personal·information is being collected, used, shared, 
@@ -470,7 +484,7 @@ tasks
 **cognitive·computing** is the practice of integrating learning and reasoning approaches to computing·platforms to create systems capable of reasoning and learning by themselves  
 · this is a popular field in many sciences, such as computer·science, neuroscience, and biology   
 
-this section describes how **Peoples•Cloud** leverages cognitive·computing to help people realize their goals by completing simple and boring tasks reliably  
+this section describes how **Peoples·Cloud** leverages cognitive·computing to help people realize their goals by completing simple and boring tasks reliably  
 &nbsp;
 
 #### artificial·intelligence
@@ -524,7 +538,7 @@ just like profit·dedicated enterprises have demonstrated that they cannot be tr
 · practical·intelligence allows no “black boxes” that hide critical·information from people  
 &nbsp;
 
-**Peoples•Foundation** is dedicated to the advancement of practical·digital·intelligence, regardless of what profit·dedicated entities think about the matter  
+**Peoples·Foundation** is dedicated to the advancement of practical·digital·intelligence, regardless of what profit·dedicated entities think about the matter  
 &nbsp;
 
 #### free·energy computing
@@ -553,7 +567,17 @@ as time goes on, we can incorporate trouble·free hardware that improves the per
 · that way, we end up with a highly capable and efficient computing environment that is controlled by people to benefit people without the influence of profit·dedicated entities  
 &nbsp;
 
-Peoples•Foundation will leverage neuromorphic·computing to ensure that people and humanity benefit from the significant advancements in cognitive·computing that this field promises  
+Peoples·Foundation will leverage neuromorphic·computing to ensure that people and humanity benefit from the significant advancements in cognitive·computing that this field promises  
+&nbsp;
+
+#### satisfying occupations
+cognitive·computing is redefining the meaning of *work*  
+· drone operator, user experience researcher, machine learning engineer, robotics engineer, climate and 
+energy analyst  
+· these are the emerging occupations of our increasingly tech·savvy and environment·respecting societies  
+· to perform these jobs, people need innovative, flexible interfaces to their powerful computing devices  
+· the software running on those device must be highly reliable and secure  
+· miscommunication due to confusing interfaces, failures, and errors are unacceptable in a world where we rely on computing devices for our livelihoods and our lives  
 &nbsp;
 &nbsp;
 
@@ -562,7 +586,7 @@ Peoples•Foundation will leverage neuromorphic·computing to ensure that people
 · these are not the expendable items that apps and services are  
 · these are valuable resources with evolution, knowledge, expertise, and history  
 · these are not processes that are spawned and killed on a whim  
-· digital·organisms are long·running software entities that exist on **Peoples•Cloud**  
+· digital·organisms are long·running software entities that exist on **Peoples·Cloud**  
 · they represent and do the bidding of entities in the human·internet  
 · they interact with entities and with other digital·organisms to help people complete tasks  
 &nbsp;
@@ -575,7 +599,7 @@ because of the ability of [**InterPlatetary File System** (IPFS)] [IPFS] to keep
 · this is *automated·reasoning*  
 &nbsp;
 
-**Peoples•Foundation** will ensure that the transformative power and adaptability of digital·organisms is used at the behest of humanity, not the corporate world    
+**Peoples·Foundation** will ensure that the transformative power and adaptability of digital·organisms is used at the behest of humanity, not the corporate world    
 &nbsp;
 &nbsp;
 
@@ -630,15 +654,15 @@ the time for an immersive, fluid content consumption experience has been with us
 we are in a winter of humanistic web·content consumption, just like we have gone through 
 several [artificial·intelligence·winters] [ai·winter]  
 · there is not enough profit in making web·content consumption helpful to people  
-· the goals of **Peoples•Foundation** include making such interactions a reality in the *human·web*  
+· the goals of **Peoples·Foundation** include making such interactions a reality in the *human·web*  
 &nbsp;
 
-the **human·web,** powered by [**InterPlanetary·File·System**] [IPFS] and **Peoples•Cloud,** will realize Ted·Nelson’s vision of parallel documents; connections between them thru two·way, visible links; live quotations; and different ways of displaying multimedia content on flat, interactive screens  
+the **human·web,** powered by [**InterPlanetary·File·System**] [IPFS] and **Peoples·Cloud,** will realize Ted·Nelson’s vision of parallel documents; connections between them thru two·way, visible links; live quotations; and different ways of displaying multimedia content on flat, interactive screens  
 &nbsp;
 &nbsp;
 
 ### profit·dedicated·entities
-profit·dedicated entities will want to tap into **Peoples•Cloud** to get access to the rich data and content that people store and manage there  
+profit·dedicated entities will want to tap into **Peoples·Cloud** to get access to the rich data and content that people store and manage there  
 · these entities *will pay* to get that access because the value of the data is greater than the personal·information they get using other less honorable and increasingly illegal approaches  
 
 the identity, privacy, security, and trust elements the human·internet provides, and the new humanistic ways in which people relate to their data and the content they generate or consume, will give people the confidence they need to manage their personal·information on a single, human·based and human·dedicated public platform  
@@ -650,7 +674,7 @@ the identity, privacy, security, and trust elements the human·internet provides
 to provide a complete and compelling experience based on a single vision, this humanistic·plan includes a hardware component  
 · there will be desktops, laptops, tablets, handsets, and watches that contain **humanistic·technology**, technology based on [open·hardware](https://opensource.com/resources/what-open-hardware "Opensource.com: What is open hardware?") that advances the human condition  
 · the hardware will be high·quality and low·cost so that every one is able to take part in the human·internet  
-· people who buy the *hardware of the people* will experience a complete humanistic digital platform, guided only by the needs and wants of people who manage their data and content on **Peoples•Cloud**  
+· people who buy the *hardware of the people* will experience a complete humanistic digital platform, guided only by the needs and wants of people who manage their data and content on **Peoples·Cloud**  
 &nbsp;
 
 why have hardware of, for, and by the people?  
@@ -679,23 +703,23 @@ developing hardware under open·hardware principles and practices has these main
   * people will have access to affordable, high·quality, and durable hardware, such as desktops, laptops, tablets, handsets, and watches  
 &nbsp;
 
-hardware will be part of the **Peoples•Foundation** vision of empowering human beings through technology  
+hardware will be part of the **Peoples·Foundation** vision of empowering human beings through technology  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 
 
 ## openness and transparency
-**Peoples•Foundation** will operate openly and transparently  
+**Peoples·Foundation** will operate openly and transparently  
 · it will be accessible and open to the public  
 · minutes, decisions, and resolutions will be publicly available  
 · it will also share long·term strategy and operational details openly  
 · to contribute development to humanity, it will share its work with open·source and open·hardware communities  
 
-this is not only because Peoples•Foundation will operate under 501(c)(3) rules, but also because it aims at being an active, open participant in society, with the principal goal of elevating humans and improving the human condition  
+this is not only because Peoples·Foundation will operate under 501(c)(3) rules, but also because it aims at being an active, open participant in society, with the principal goal of elevating humans and improving the human condition  
 &nbsp;  
 
-Peoples•Foundation will serve as the example of a responsible and trustworthy humanistic·enterprise we need so badly today  
+Peoples·Foundation will serve as the example of a responsible and trustworthy humanistic·enterprise we need so badly today  
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -750,30 +774,30 @@ the **human·internet** is a network that provides a solid infrastructure where 
 ![](img/human_internet_consortium.png)  
 
 the **Human·Internet·Consortium** will be a nonprofit organization that deals with issues such as personal identity, privacy, and security at a pragmatic level  
-· it will design rules and policies for acquiring, processing, and disposing of the personal·information of people who manage data and content in **Peoples•Cloud** (note that *sharing* is not mentioned here, that is because in Peoples•Cloud, entities do not share personal·information with other entities, not with subsidiaries, parent companies, or partners)  
+· it will design rules and policies for acquiring, processing, and disposing of the personal·information of people who manage data and content in **Peoples·Cloud** (note that *sharing* is not mentioned here, that is because in Peoples·Cloud, entities do not share personal·information with other entities, not with subsidiaries, parent companies, or partners)  
 · the consortium’s direct participants are individuals, businesses, educational·institutions, government agencies, and standards·bodies and regulatory·agencies  
 &nbsp;
 &nbsp;
 
-### Peoples•Foundation
+### Peoples·Foundation
 ![](img/peoples_foundation.png)  
 
-**Peoples•Foundation** is the nonprofit·organization with the responsibility of developing the infrastructure that makes the human·internet a reality  
-· it will manage projects like **Peoples•ID**, and **Peoples•Cloud** to provide digital·services to:  
+**Peoples·Foundation** is the nonprofit·organization with the responsibility of developing the infrastructure that makes the human·internet a reality  
+· it will manage projects like **Peoples·ID**, and **Peoples·Cloud** to provide digital·services to:  
   
-  * people who store their personal·information in Peoples•Cloud,  
+  * people who store their personal·information in Peoples·Cloud,  
   * entities who want to access personal·information in the most consumer·rights·regulation-compliant way, and  
   * entities who choose to keep managing personal·information on
-    their infrastructures but who want to connect with Peoples•Cloud
+    their infrastructures but who want to connect with Peoples·Cloud
     users who are also the subjects of the personal·information they possess
     · this is to determine their data·subjects’ wishes for the acquisition, processing, sharing, selling, 
     and disposal of personal·information  
 &nbsp;
 
 **Peoples** is the nonprofit·corporation who develops the common software people use to manage their information  
-· **Peoples•Foundation** will be a grantmaker to Peoples  
+· **Peoples·Foundation** will be a grantmaker to Peoples  
 · it will operate openly and transparently as a member of [**Software in the Public Interest**](https://www.spi-inc.org) or by following its example   
-· Peoples will also develop the desktops, laptops, tablets, handsets, and watches as [open·hardware](https://opensource.com/resources/what-open-hardware) to provide an all·encompassing platform with the Peoples•Foundation ethos of being bound only by humans’ and humanity’s benefit in its strategy and operations  
+· Peoples will also develop the desktops, laptops, tablets, handsets, and watches as [open·hardware](https://opensource.com/resources/what-open-hardware) to provide an all·encompassing platform with the Peoples·Foundation ethos of being bound only by humans’ and humanity’s benefit in its strategy and operations  
 
 Peoples’ main audience comprises “regular” people, users of Facebook, Twitter, and similar services, with little knowledge about computers, computing, operating·systems, and so on  
 · although nerds are welcome, Peoples caters principally to the needs of users who are not interested in the inner workings of their devices  
@@ -788,9 +812,9 @@ Peoples software and hardware will provide a consistent, trusted, reliable, and 
 &nbsp;  
 
 
-## Peoples•Foundation alternatives
-there are enterprises and projects that have goals and objectives similar to the **Peoples•Foundation** vision for bettering peoples’ and humanity’s digital·lives  
-· some of them are listed here to illustrate the different levels at which those initiatives operate compared to the Peoples•Foundation environment, and to explain why Peoples•Foundation offers a better approach to the internet·based problems society has today  
+## Peoples·Foundation alternatives
+there are enterprises and projects that have goals and objectives similar to the **Peoples·Foundation** vision for bettering peoples’ and humanity’s digital·lives  
+· some of them are listed here to illustrate the different levels at which those initiatives operate compared to the Peoples·Foundation environment, and to explain why Peoples·Foundation offers a better approach to the internet·based problems society has today  
 &nbsp;
 &nbsp;
 
@@ -804,9 +828,9 @@ there are enterprises and projects that have goals and objectives similar to the
 · people can then share those posts with others  
 
 other social·oriented alternatives to Facebook and Twitter are:  
-&nbsp; • [**Ello**](https://ello.co/)  
-&nbsp; • [**Digg**](http://digg.com)  
-&nbsp; • [**Steemit**](https://steemit.com)  
+&nbsp; · [**Ello**](https://ello.co/)  
+&nbsp; · [**Digg**](http://digg.com)  
+&nbsp; · [**Steemit**](https://steemit.com)  
 &nbsp;
 &nbsp;
 
@@ -816,8 +840,8 @@ other social·oriented alternatives to Facebook and Twitter are:
 [**MesInfos** (**MyData**)](http://mesinfos.fing.org/english) is a project that aims to convince organizations to share the personal·information they have on people with their **Cozy·Cloud** personal·cloud  
 · people will then be able to add more content to their personal·cloud and use and share that content as they 
   please    
-· the MesInfos goals are very similar to the **Peoples•Cloud** goals  
-· however, the Peoples•Cloud mission and goals (under the guidance of Peoples•Foundation) are bigger in scope and on their impact on the digital·lives of individuals and humanity as a whole  
+· the MesInfos goals are very similar to the **Peoples·Cloud** goals  
+· however, the Peoples·Cloud mission and goals (under the guidance of Peoples·Foundation) are bigger in scope and on their impact on the digital·lives of individuals and humanity as a whole  
 &nbsp;
 &nbsp;
 
@@ -829,13 +853,13 @@ other social·oriented alternatives to Facebook and Twitter are:
 &nbsp;
 &nbsp;
 
-### why Peoples•Foundation is better for you and humanity
-the **Peoples•Foundation** mission is the betterment of humanity by improving the digital lives of individuals  
+### why Peoples·Foundation is better for you and humanity
+the **Peoples·Foundation** mission is the betterment of humanity by improving the digital lives of individuals  
 · the main beneficiaries are individuals
 · so before looking at how data·brokers and profit·dedicated organizations could benefit from having better informed individuals, and individuals who can exercise more power over their personal·information, the *benefit to the individual* is what the foundation seeks first  
 · benefits to other entities are a secondary concern  
-· this is how we can ensure continuity in Peoples•Foundations decisions and ongoing practices  
-· there will never be conflicts of interest in the work that Peoples•Foundation does because its loyalty is singular: improving the lives of individuals through open technology, education, and empowerment  
+· this is how we can ensure continuity in Peoples·Foundations decisions and ongoing practices  
+· there will never be conflicts of interest in the work that Peoples·Foundation does because its loyalty is singular: improving the lives of individuals through open technology, education, and empowerment  
 
 the foundation will also ensure that there is real diversity in its people·force  
 · we cannot help humanity if we do not *reflect* humanity in all its beliefs, colors, cultures, gender·identities, and music tastes (go EDM!)  
@@ -844,10 +868,10 @@ the foundation will also ensure that there is real diversity in its people·forc
 &nbsp;  
 
 
-## Peoples•Foundation road·map
-Peoples•Foundation aims to be a beacon of humanism in society, technology, and consumer rights  
+## Peoples·Foundation road·map
+Peoples·Foundation aims to be a beacon of humanism in society, technology, and consumer rights  
 · its mission is to enrich, protect, and secure the digital·lives of every individual through technological advancements that seek to facilitate the digital·happiness of individuals, groups, communities, and societies  
-· to execute its mission Peoples•Foundation will operate as a nonprofit organization with humanity’s improvement through technology as its main goal  
+· to execute its mission Peoples·Foundation will operate as a nonprofit organization with humanity’s improvement through technology as its main goal  
 · other goals include the development of technologies, policies, and behaviors that prevent the abuse and murder of women and children from dangerous individuals  
 · in addition, enhancing the lives of people through education about the value of social and environmental awareness, the benefits of honest and truthful communication, and the worth of personal·information will always be part of the foundation’s daily activities  
 · to ensure its successful build-up and ongoing survival, there are short·term objectives and long·term goals that guide the development of its foundations  
@@ -856,18 +880,18 @@ the foundation will rely largely on contributions by individuals and humanistic 
 &nbsp;
 &nbsp;
 
-### Peoples•Foundation as 501(c)(3) nonprofit·organization
-one of the initial objectives of **Peoples•Foundation** is to become a [**505(c)(3)·organization**](https://en.wikipedia.org/wiki/501(c)(3)_organization)  
+### Peoples·Foundation as 501(c)(3) nonprofit·organization
+one of the initial objectives of **Peoples·Foundation** is to become a [**505(c)(3)·organization**](https://en.wikipedia.org/wiki/501(c)(3)_organization)  
 · under that structure, donations from individuals are tax·exempt  
 · the foundation will operate as a charitable, scientific, literary, and educational organization  
 · it will also dedicate resources to public·safety  
 
-Peoples•Foundation will loosely model itself after [**Internet Society**] [Internet·Society], [**Linux Foundation**] [Linux·Foundation], and [**FreeBSD Foundation**] [FreeBSD·Foundation], among other notable and humanistic nonprofit·organizations  
+Peoples·Foundation will loosely model itself after [**Internet Society**] [Internet·Society], [**Linux Foundation**] [Linux·Foundation], and [**FreeBSD Foundation**] [FreeBSD·Foundation], among other notable and humanistic nonprofit·organizations  
 · he foundation will dedicate itself to providing practical solutions to today’s personal·information abuses by giving people an effective way to identify themselves and others; a place to store their data and content, privately and securely; and new ways of exploring and discovering shared data and content  
 · it will also engage in research to improve human-machine interactions, develop efficient computing solutions, and devise ways of protecting children and women from abuse and violence  
 &nbsp;
 
-the purposes of Peoples•Foundation include:  
+the purposes of Peoples·Foundation include:  
 
   * support the human·internet as a private, secure, and safe place
     where people and other entities can connect, relate,
@@ -885,9 +909,9 @@ the purposes of Peoples•Foundation include:
 &nbsp;
 
 ### short·term objectives
-short·term objectives for Peoples•Foundation comprise a period of two years  
+short·term objectives for Peoples·Foundation comprise a period of two years  
 
-#### Peoples•ID
+#### Peoples·ID
 **2019**  
 
   * develop plan for handset·based **Attestation Authentication and Authorization** (AAA) prototype  
@@ -900,11 +924,11 @@ short·term objectives for Peoples•Foundation comprise a period of two years
 * review comments and feedback  
 &nbsp;
 
-#### Peoples•Cloud
+#### Peoples·Cloud
 **2019**  
   
   * design and implement **InterPlanetary File System** (IPFS)–based model for data and content storage  
-  * design and implement the **Data and Content  Store** (DCS) digital·service, which manages the **Peoples•Cloud** data·and·content storage·and·retrieval tasks   
+  * design and implement the **Data and Content  Store** (DCS) digital·service, which manages the **Peoples·Cloud** data·and·content storage·and·retrieval tasks   
 &nbsp;
 
 **2020**  
@@ -925,7 +949,7 @@ short·term objectives for Peoples•Foundation comprise a period of two years
 &nbsp;
 
 ### medium·term goals
-medium·term goals for Peoples•Foundation comprise a period of five years  
+medium·term goals for Peoples·Foundation comprise a period of five years  
 &nbsp;
 
 #### 2020
@@ -934,10 +958,10 @@ medium·term goals for Peoples•Foundation comprise a period of five years
   
     * educate people on the power they have over big internet·companies
       with their personal·information  
-    * educate internet·companies on the business benefits that Peoples•ID
-      and Peoples•Cloud offers, especially to early adopters: mindshare
+    * educate internet·companies on the business benefits that Peoples·ID
+      and Peoples·Cloud offers, especially to early adopters: mindshare
 
-  * **Peoples•Cloud:**  
+  * **Peoples·Cloud:**  
   
     * publicize working prototypes and plans for the human·internet  
     * develop initial data model to provide rich context to text  
@@ -946,23 +970,23 @@ medium·term goals for Peoples•Foundation comprise a period of five years
 
 #### 2021
 
-  * **Peoples•ID prototype:**  
+  * **Peoples·ID prototype:**  
   
     * expand to work with government agencies
 
-  * **Peoples•Cloud prototype:**  
+  * **Peoples·Cloud prototype:**  
   
     * expand to work with hypermedia content and transliterature  
     * expand writing assistant to work with hypermedia content  
     * implement the Entity, Person, Group, and Community digital·organisms  
 
   * **Peoples:**  
-    * develop Peoples•OS for desktops and laptops  
+    * develop Peoples·OS for desktops and laptops  
 &nbsp;
 
 #### 2022
 
-  * **Peoples•Cloud:**  
+  * **Peoples·Cloud:**  
   
     * deep integration with IPFS  
     * add visual data·version·exploration and content·version·exploration
@@ -985,18 +1009,18 @@ medium·term goals for Peoples•Foundation comprise a period of five years
 
 #### 2025
 
-  * make Peoples•ID officially available to the public, on secure devices  
-  * make Peoples•Cloud officially available to the public  
+  * make Peoples·ID officially available to the public, on secure devices  
+  * make Peoples·Cloud officially available to the public  
   * make adaptive·digital·assistants officially available to the public  
   * make device available for purchase by the public:  
     * includes 10 years of support  
-    * runs Peoples•OS  
+    * runs Peoples·OS  
 &nbsp;
 &nbsp;
 
 ### funding
-this is the funding plan for my work on **Peoples•Foundation** and related projects  
-· Peoples•Foundation seeks *people·capital*, not *venture·capital*  
+this is the funding plan for my work on **Peoples·Foundation** and related projects  
+· Peoples·Foundation seeks *people·capital*, not *venture·capital*  
 · *people*, not corporations, are the masters of the human·internet  
 &nbsp;
 
@@ -1017,8 +1041,8 @@ registered nonprofit·organization (501(c)(3) tax·exempt)
 &nbsp;
 
 ### revenue sources (2025 and later)
-**Peoples•Cloud**  
-proceeds from providing data·consumers and personal·agents access to Peoples•Cloud  
+**Peoples·Cloud**  
+proceeds from providing data·consumers and personal·agents access to Peoples·Cloud  
 
 **Peoples**  
 sale of devices  
@@ -1026,33 +1050,33 @@ sale of devices
 &nbsp;
 &nbsp;
 
-## Peoples•Foundation components
-Peoples•Foundation is dedicated to providing reliable identification and authentication services, secure access to personal·information, and technology that takes humanity forward  
+## Peoples·Foundation components
+Peoples·Foundation is dedicated to providing reliable identification and authentication services, secure access to personal·information, and technology that takes humanity forward  
 · these are the components that make this happen  
 &nbsp;
 &nbsp;
 
-### Peoples•ID
-the Peoples•ID service comprises these capabilities:  
+### Peoples·ID
+the Peoples·ID service comprises these capabilities:  
 
   * government·authority-attested identification  
   * private, semipermanent credentials managed by ondevice secure·elements  
-  * private, permanent credentials managed by Peoples•ID  
+  * private, permanent credentials managed by Peoples·ID  
   * support ondevice biometric·authentication, on request by any entity  
   * support authorization·service  
 &nbsp;
 &nbsp;
 
-### Peoples•Cloud
-the Peoples•Cloud service comprises these capabilities:  
+### Peoples·Cloud
+the Peoples·Cloud service comprises these capabilities:  
 
-  * uses Peoples•ID to enable an entity to grant another entity access to digital·organism functionalities  
+  * uses Peoples·ID to enable an entity to grant another entity access to digital·organism functionalities  
   * **agents** (read and write access to entity data and content) and **consumers** (read access to data and content) interact with digital·organisms to modify entity data and content  
 &nbsp;
 &nbsp;
 
 ### humane data·model
-the **data·model** used to store data and content in Peoples•Cloud is context·rich  
+the **data·model** used to store data and content in Peoples·Cloud is context·rich  
 · it facilitates intricate interconnection between data and content items to enable seamless and natural navigation, based on context, categorization, and relation  
 
 consumers and agents use data·manipulation interfaces to access and manage all entity data  
@@ -1076,8 +1100,8 @@ when people create content with the help of assistants, the content is annotated
 #### assistant·software
 **assistant·software** comprises software components that help people accomplish objectives and tasks  
 · this software is reliable and helpful to a level that “apps” using standard development practices are incapable achieving  
-· this software runs on macOS, BSD·like, Windows, iOS, Android, and Peoples•OS systems  
-· it interacts with Peoples•Cloud digital·organisms  
+· this software runs on macOS, BSD·like, Windows, iOS, Android, and Peoples·OS systems  
+· it interacts with Peoples·Cloud digital·organisms  
 &nbsp;
 
 #### consumer·hardware
@@ -1086,12 +1110,16 @@ Peoples will develop affordable, high·quality, and durable desktop, laptop, tab
 · every piece of hardware will be developed under open·hardware practices and principles, including central·processing·units (CPUs), which will be based on [RISC-V] [risc·v·foundation]  
 &nbsp;
 
-#### Peoples•OS operating·system
-Peoples•OS will be based on [**TrueOS**](https://www.trueos.org), an operating system that exemplifies the commitment to security and reliability that Peoples is all about  
+#### Peoples·OS operating·system
+Peoples·OS will be based on [**TrueOS**](https://www.trueos.org), an operating system that exemplifies the commitment to security and reliability that Peoples is all about  
 · it will introduce system·software written in the [**D**](https://dlang.org/) programming·language  
 · user·centric software components will be written in the [**Swift**](https://swift.org) programming·language  
-· Peoples•OS will be optimized for commercial, [**AMD**](https://www.amd.com/en)·based (Zen 2, Ryzen, Epyc) architectures for the deployment of digital·organisms in Peoples•Cloud  
-· to run on Peoples consumer·hardware (laptop, table, handset), Peoples•OS will be optimized for the RISC-V architecture  
+· Peoples·OS will be optimized for commercial, [**AMD**](https://www.amd.com/en)·based (Zen 2, Ryzen, Epyc) architectures for the deployment of digital·organisms in Peoples·Cloud  
+· to run on Peoples consumer·hardware (laptop, table, handset), Peoples·OS will be optimized for the RISC-V architecture  
+---
+2019.02.20:06
+
+
 
 [ai·winter]: https://en.wikipedia.org/wiki/AI_winter "Wikipedia: AI Winter"
 [Udanax]: http://udanax.xanadu.com/green/febe/philosophy.html "Udanax Philosophy and Motivation"  
