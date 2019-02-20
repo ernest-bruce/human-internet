@@ -176,7 +176,7 @@ the advertiser can present content to the user only if the user chooses to conne
 
 ### federated ecosystem
 through open standards and collaboration, other platforms, apart from Peoples·Cloud, can provide datavault·services  
-· these platforms include the [MesInfos][MesInfos] initiative  
+· these platforms include the [MesInfos][MesInfos] initiative, [System76][System76], and [postmarketOS][postmarketOS]  
 · this initiative has been researching for years the shared use of a person’s data by several parties  
 &nbsp;
 &nbsp;
@@ -210,7 +210,7 @@ initiative documents:
 
 
 ---
-2019.02.18:1945-UTC
+2019.02.20:12
 
 [ineffective_laws]: https://github.com/ernest-bruce/human-internet/blob/master/ineffective_laws/ineffective_laws.md#laws-are-ineffective-at-protecting-personal-information
 [internet_plan]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md
@@ -228,6 +228,9 @@ initiative documents:
 [Mastodon]: https://mstdn.io/about
 [TrueOS]: https://www.trueos.org "TrueOS.org"
 [FreeBSD]: https://www.freebsd.org/about.html "FreeBSD.org: About FreeBSD"
+[System76]: https://system76.com/about "System76: About Us"
+[postmarketOS]: https://en.wikipedia.org/wiki/PostmarketOS "Wikipedia: PostmarketOS"
+
 
 
 
