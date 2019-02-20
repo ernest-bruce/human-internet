@@ -62,23 +62,24 @@ the rest of this document describes the rationale for the **human·internet,** i
 
 sections:
 
-  * [the internet](#the-internet)
-  * [the human·internet](#the-humaninternet)
-  * [the Peoples·Foundation mission](#the-peoplesfoundation-mission)
-  * [the Peoples·Foundation approaches](#the-peoplesfoundation-approaches)
-  * [the components of digital·happiness](#the-components-of-digitalhappiness)
+  * [internet](#the-internet)
+  * [human·internet](#the-humaninternet)
+  * [Peoples·Foundation mission](#the-peoplesfoundation-mission)
+  * [Peoples·Foundation approaches](#the-peoplesfoundation-approaches)
+  * [components of digital·happiness](#the-components-of-digitalhappiness)
   * [openness and transparency](#openness-and-transparency)
-  * [the human·internet structure](#the-humaninternet-structure)
+  * [human·internet structure](#the-humaninternet-structure)
   * [Peoples·Foundation alternatives](#peoplesfoundation-alternatives)
   * [Peoples·Foundation road·map](#peoplesfoundation-roadmap)
   * [Peoples·Foundation components](#peoplesfoundation-components)
+  * [federated alternative to monolithic hegemony](#federated-alternative-to-monolithic-hegemony)
  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 
 
-## the internet
+## internet
 
 ![](img/internet.png)
 
@@ -95,7 +96,7 @@ the internet is not broken, but the entities who use it to make profits do not a
 &nbsp;
 &nbsp;
 
-### the internet: a very brief history
+### internet: a very brief history
 the internet dates back to a 1960s United States government·backed project whose objective was to build a robust and resilient communications infrastructure using computer networks
 
 the **Advanced Research Projects Agency Network (ARPANET)** project led to the development of protocols for *internetworking* through which multiple networks could be joined into a *network of networks*  
@@ -105,7 +106,7 @@ the **Advanced Research Projects Agency Network (ARPANET)** project led to the d
 &nbsp;
 &nbsp;
 
-### the internet: principles for flexibility, robustness, and expandability
+### internet: principles for flexibility, robustness, and expandability
 the principles of the internet are largely about its function, which is to provide a medium for robust communication between computer networks  
 · every user of the internet benefits from these principles  
 &nbsp;
@@ -145,7 +146,7 @@ the principles of the internet are:
 &nbsp;
 &nbsp;
 
-### the internet: impact on society
+### internet: impact on society
 there is no question that the internet has brought society innovative ways of performing activities, making connections, and interacting between and among individuals, communities, and organizations throughout the world  
 · because of its extreme focus on providing open, efficient communications facilities, the internet serves as an amoral and efficient information·sharing platform that can be used to provide benefits and services unimaginable before its introduction, or realizable because of its existence  
 · its main societal benefit is its capability to connect people, communities, and countries around the world openly, effectively, and resiliently—except, of course, in places where people’s interactions between themselves and with the rest of the world are controlled by authoritarian and oppressive governments
@@ -174,7 +175,7 @@ but these advances have come at a hefty price
 &nbsp;  
 &nbsp;  
 
-## the human·internet
+## human·internet
 
 ![](img/human_internet.png)  
 
@@ -229,7 +230,7 @@ public content
 &nbsp;  
 &nbsp;  
 
-## the Peoples·Foundation mission
+## Peoples·Foundation mission
 in short, the **Peoples·Foundation** mission is to elevate the human condition  
 · Peoples·Foundation always puts the interests of human·beings and humanity first  
 · every decision, every purchase, every hire will answer, how does this benefit humanity?  
@@ -283,7 +284,7 @@ Peoples·Foundation has these major goals:
 &nbsp;  
 &nbsp;  
 
-## the Peoples·Foundation approaches
+## Peoples·Foundation approaches
 accomplishing the mission and goals described in the previous section takes a special kind of organization, one that is not beholden to the current way of doing things, which has proven to be flawed and manipulable  
 · we must use innovative and humane methods for developing, nurturing, and safeguarding an internet that guarantees that people’s rights over their personal·information are not ignored or trampled over  
 · the longevity of such organization must be guaranteed by protecting it from exits, pivots, takeovers, and purchasers motivated by greed  
@@ -449,7 +450,7 @@ open·source-dedicated organizations, such as [**Linux Foundation**] [Linux·Fou
 &nbsp;  
 
 
-## the components of digital·happiness
+## components of digital·happiness
 the previous section lays out the **Peoples·Foundation** conceptual approaches to accomplishing its mission and goals  
 · this section deals with the concrete software and hardware components that bring those into reality  
 &nbsp;
@@ -725,7 +726,7 @@ Peoples·Foundation will serve as the example of a responsible and trustworthy h
 &nbsp;  
 
 
-## the human·internet structure
+## human·internet structure
 ![](img/human_internet_structure.png)  
 
 many types of entities relate to and interact with each other on the **internet**  
@@ -1116,8 +1117,35 @@ Peoples·OS will be based on [**TrueOS**](https://www.trueos.org), an operating 
 · user·centric software components will be written in the [**Swift**](https://swift.org) programming·language  
 · Peoples·OS will be optimized for commercial, [**AMD**](https://www.amd.com/en)·based (Zen 2, Ryzen, Epyc) architectures for the deployment of digital·organisms in Peoples·Cloud  
 · to run on Peoples consumer·hardware (laptop, table, handset), Peoples·OS will be optimized for the RISC-V architecture  
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## federated alternative to monolithic hegemony
+the Peoples platform is but one platform on the human·internet    
+· it follows one vision of what the internet of the future should be  
+· but it need not be the only one  
+· the human·internet could be a federation of entities with like visions, sharing the goals of the human·internet but with their own specializations  
+· other upcoming platforms, such as Ubuntu Touch and innovation leaders like System76, can become part of the human·internet, providing people with privacy·respecting, open, and humanistic alternatives to the internet behemoths  
+
+examples of possible platforms on the human·internet are:  
+
+* [System76][System76]
+* [OpenBSD][OpenBSD]
+* [FreeBSD][FreeBSD]
+* [TrueOS][TrueOS]
+* [illumos][illumos]
+* [Debian][Debian]
+* [Ubuntu][Ubuntu]
+* [Ubuntu Touch][Ubuntu_Touch]
+* [postmarketOS][postmarketOS]
+* [LineageOS][LineageOS]  
+
+together, all these open platforms could represent a formidable challenger and example to the most valuable companies in the world, to motivate them adapt to the future that is sure to come  
+
 ---
-2019.02.20:06
+2019.02.20:10
 
 
 
@@ -1131,38 +1159,14 @@ Peoples·OS will be based on [**TrueOS**](https://www.trueos.org), an operating 
 [thenextplatform:neuromorphic·computing·os]: https://www.nextplatform.com/2017/08/02/os-neuromorphic-computing-von-neumann-devices "The Next Platform: neuromorphic·computing OS"
 [IPFS]: https://ipfs.io "InterPlanetary File System" 
 [risc·v·foundation]: https://riscv.org/risc-v-foundation "RISC-V Foundation"
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[TrueOS]: https://www.trueos.org "TrueOS"
+[FreeBSD]: https://www.freebsd.org/about.html "About FreeBSD"
+[OpenBSD]: https://en.wikipedia.org/wiki/OpenBSD "Wikipedia: OpenBSD"
+[System76]: https://system76.com/about "System76: About Us"
+[Debian]: https://www.debian.org/intro/about "About Debian"
+[Ubuntu]: https://www.ubuntu.com/about "About Ubuntu"
+[Ubuntu_Touch]: https://ubuntu-touch.io "About Ubuntu Touch"
+[postmarketOS]: https://en.wikipedia.org/wiki/PostmarketOS "Wikipedia: PostmarketOS"
+[LineageOS]: https://en.wikipedia.org/wiki/LineageOS "Wikipedia: LineageOS"
+[illumos]: https://wiki.illumos.org/display/illumos/About+illumos "About illumos"
 
