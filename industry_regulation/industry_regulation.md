@@ -107,7 +107,7 @@ organizations like the Internet Association and TechNet, backed with the vast re
 ### the financial·industry’s past criminal behavior earned its current, effective regulation
 although privacy·laws such as CCPA aim to give people control over their personal·information, they can be viewed as manipulable [**blue·sky·laws**](https://www.investopedia.com/terms/b/blueskylaws.asp), laws that on their face seem effective but are easily subverted by companies invested in the current state of affairs  
 · to effectively protect personal·information, we need more than subvertible laws  
-· we need drastic infrastructure change and strong policies that make it effectively impossible for unauthorized entities to get access to protected personal·information, of for authorized entities to use personal·information for questionable or criminal purposes  
+· we need drastic infrastructure change and strong policies that make it effectively impossible for unauthorized entities to get access to protected personal·information, or for authorized entities to use personal·information for questionable or criminal purposes  
 
 we have seen that when it comes to personal·information abuse, we need to take preventive·action because actions after the fact do not adequately protect people’s rights  
 · people can do very little to protect the personal·information that companies have on them or have lost track of because of negligence, incompetence, or criminal intent  
