@@ -3,7 +3,31 @@
 ![](_images/warren_on_big_tech.png)
 &nbsp;
 
----
+instead of *legislating* our way out of our data·privacy and data·security problems, we must *engineer* our way out of those problems, producing a more effective, permanent, and humane solutions  
+· the legislative approach is a good one, and it should be pursued  
+· but the engineering approach is better because it is actionable, testable, and can improve over time  
+
+a people-centric and people-driven ecosystem where human and nonhuman entities can operate privately, securely, and safely is the best alternative to the dominance and criminality of internet behemoths like Facebook  
+· the **human·internet** is the network that gives you total control over your personal·data and the personal·information entities create from your data and your online and offline activities  
+· the ecosystem comprises many open and public computing platforms that provide alternatives to Amazon, Apple, Facebook, Google, Microsoft, Twitter, Uber, and many powerful yet unaccountable internet entities that give profit and dominance higher priority than human·rights, fairness, and justice, which is their legal mandate  
+
+the human·internet protects personal·data from abandonment by entities focused on growth, exits, and pivots  
+· by offering a common data·language, many data·processors can speak the same language when it comes to accessing and manipulating a personal data and information  
+· through federated distributed·computing models, people have many options for storing their personal·data, which will no longer be hosted by the entities who trade on that data and amass it to become the go-to places for advertisers to present their content to people of their choosing  
+· companies like Facebook use deceptive and illegal practices to obtain as much personal·data as possible to allow the surgical targeting of ads to people who use their “free” platforms to perform their human activities  
+
+ecommerce companies like Amazon use their dominance to target and neutralize smaller businesses  
+· by providing a platform for ecommerce and also being a participant in the platform, Amazon bullies its way to positions of dominance in any successful business area, while making it hard or impossible for the originators of those successful products to reap the benefits of their innovations  
+· open ecommerce platforms that compete with Amazon’s platforms is how humanity neutralizes Amazon, regardless of any other legal approaches governments take to curb Amazons cancerous influence in our digital lives  
+
+instead of promoting the creation of unicorns, the human·internet supports the founding and nourishment of specialized businesses, who focus their expertise and resources on one or a few aspects of an industry  
+· these entities do not pursue sky high revenue and billions of human users  
+· instead they provide the components that people use to create their custom digital·life, something that the internet behemoths—with their gaze glued to their bottom lines—are unwilling and incapable of doing  
+
+the remainder of this document discusses the values, principles, and policies of the human·internet, how they provide a humane, secure, and safe alternative to the behemoths, and how businesses benefit from participating on an open, egalitarian, and humanistic ecosystem, where *people* and humanity are its principal beneficiaries  
+
+&nbsp;
+
 >to ensure our continued existence, humanity must dedicate itself to [populating other parts of the solar system](https://www.livescience.com/62109-hawking-last-tv-appearance-leaving-earth.html "LiveScience: In a Final TV Appearance, Stephen Hawking Imagines Humanity Colonizing Alien Worlds") in the next 100 years and [other star systems][Living_Universe] within the next 1000 years  
 · this makes *technological advancement* our highest priority  
 · this makes *profit* for profit’s sake irrelevant  
@@ -11,7 +35,7 @@
 · this makes *care for our environment,* *efficient use of resources,* and *the advancement of humanity* our only worthy goals  
 · dedicating ourselves to these goals will give each of us [fulfilling occupations](https://youtu.be/tRHsq40f0pE "YouTube: The Drone Engineer Helping Farmers Work Smarter") and [new sources of food](https://youtu.be/of-fBY2Zj3Y "YouTube: Food Computers Are Here And They’re About To Revolutionize Agriculture"), and will ensure a bright and safe future for our descendants   
 · working together on those goals will help us to cherish and respect one another for the contributions each of us makes to humanity’s progress  
----
+
 &nbsp;
 
 the internet·community includes cisgender and transgender people, scientists, politicians, strangers, friends, and criminals  
@@ -62,12 +86,11 @@ all its users
 · people need alternatives that are compatible with their sensibilities and tastes, and thru which they can interact effectively with the *only* family, friends, and acquaintances they have  
 &nbsp;
 
----
 
-> the time when innovative, transcendent products and services die because of competition from entrenched internet behemoths using unfair tactics and their control over personal·information *is over*    
+> the time when innovative, transcendent products and services die because of competition from entrenched internet behemoths using unfair tactics and their control over personal·information ***is over***    
 
----
 &nbsp;  
+
 personal·information is a valuable resource that must be respected and protected, not treated like an expendable commodity (a lure) to target people with ads or to manipulate their thoughts and opinions at a large scale  
 · companies collect vast amounts of personal·data from you, your devices, the businesses you visit, and from entities dedicated to the trafficking of personal·information such as **[eXelate][eXelate]** and **[BlueKai][BlueKai]** (now part of **[Oracle][Oracle]**)  
 · instead of using that information to help you or humanity, those companies use it to target you with ads, to sell you stuff, to feed their artificial·intelligence models, to shape your thinking, to make you act against other individuals based on their gender, race, culture, ancestry, or way of thinking  
@@ -121,14 +144,14 @@ this document introduces the solution to the internet’s identity, privacy, and
 sections:  
 
   * [WHAT IS THE HUMAN·INTERNET](#what-is-the-humaninternet)
-  * [LURING CUSTOMERS WITH BAIT](#luring-customers-with-bait)
+  * [CUSTOMERS AND BAIT](#customers-and-bait)
   * [EYES FORWARD](#eyes-forward)
   * [VISION, PRINCIPLES, VALUES](#vision-principles-values)
   * [IDENTITY, ENCRYPTION](#identity-encryption)
   * [POWER TO YOU](#power-to-you)
   * [POWER TO THE PEOPLE](#power-to-the-people)
   * [DIGITAL ECOSYSTEM](#digital-ecosystem)
-  * [GETTING STARTED](#getting-started)
+  * [LET’S BUILD IT](#lets-build-it)
 
 &nbsp;  
 &nbsp;  
@@ -148,8 +171,12 @@ the human·internet is the internet based on human values and principles
 &nbsp;  
 
 
-## LURING CUSTOMERS WITH BAIT
-> *you* are the bait  
+## CUSTOMERS AND BAIT
+> you are *not* the customer  
+> you are the **bait**  
+
+&nbsp;
+
 
 internet·companies can do a lot with personal·data  
 · current technology allows them to find out a lot about us  
@@ -747,49 +774,47 @@ an internet with human principles and values, the human·internet, can do for ou
 
 
 ### providing compelling experiences
-software must be smart, it must help people, not give people things to do  
-· it must make people’s digital·lives simpler, not more complicated with “error” messages, or intricate, hard-to-understand interfaces 
-
-a compelling experience is one full of options for performing tasks, with the certainty that those tasks will be completed timely and correctly  
-· this is similar to how you have options for going from your home to the airport: you could drive yourself, use a ride·sharing service, or take a taxi  
+a compelling digital·experience is one that gives people confidence that their tasks are completed correctly by providing accurate feedback about task progress or incompletion    
+· systems that provide compelling experiences can also give people options about how to perform tasks, similar to how you have options for going from your home to the airport: you could drive yourself, use a ride·sharing service, take a taxi, or ask a friend to give you a ride  
 · each of those options offers advantages and limitations  
 · but all of them take you from your home to the airport  
 
-people need hardware that lasts  
-· our love affair with gadgets will diminish  
-· battery, capacitor, and other energy·storage technologies will become a lot better in the coming years, to the point where charging devices is something people do not think about, either because it is done automatically, or the need for it is nonexistent  
-
-an efficient, distributed, and federated infrastructure is flexible and resilient  
-· core service providers basing their operations on the [InterPlanetary File System][IPFS] will provide the resiliency, redundancy, and security needed to guarantee human·internet users that their data remains private and secure, accessible only to those they authorize   
+compelling digital·experiences are built on efficient, distributed, and federated infrastructure that is flexible and resilient  
+· service providers, basing their operations on the [InterPlanetary File System][IPFS], provide the resiliency, redundancy, and security needed to guarantee human·internet users that their data remains private and secure, accessible only to those they authorize   
 · but federation is an implementation detail  
-· users do not have to know which service providers a person uses to host eir data and content  
-· the human·internet is one large community of people and other entities that can request an introduction and make connections to one another, safely and respecting everyone’s privacy  
-· this is what it needs to be an effective alternative to Facebook  
+· users do not have to know which service providers a person uses to host data and content  
+· the human·internet is one large community of people and other entities who can request an introduction and make connections with other entities, safely and respecting everyone’s privacy  
+· this is what it needs to be an effective alternative to Google and Facebook  
 · its single vision gives people confidence in its operation, while its federated structure lets many entities provide products that are tailored to specific communities whose members can interact and relate to each other seamlessly  
 · Facebook cannot provide that level of specialization because its purpose is to *unite the world under Facebook*, so that it can serve ads to that world  
 · it is not really interested in meeting the needs of its product (the users)  
-· instead, if focuses on making its product attractive to its customers: entities who want to reach people using a wide array of parameters Facebook makes available from its treasure trove of personal·information  
-· in this model, Facebook facilitates transactions between strangers, but Shapr would facilitate meaningful *relationships* between entities with things in common  
+· instead, Facebook focuses on making its product attractive to its customers: entities who want to reach people using the wide array of parameters it makes available from its treasure trove of personal·information  
+· in this model, Facebook facilitates transactions between strangers, but Shapr facilitates meaningful *relationships* between entities with things in common  
 
-the human·internet will provide the same advertisers a more humane way to reach people  
-· instead of pushing products and services either blindingly by using dishonorable tactics, advertisers will be able to rely on *personal introductions*  
-· they will make meaningful and lasting connections to each person thru a trusted entity that both find capable of representing their interests and handling personal·information privately and securely  
+the human·internet provides entities a more humane way to reach people  
+· instead of blindingly pushing products and services by using dishonorable tactics, advertisers rely on *personal introductions*  
+· people and advertisers make meaningful and lasting connections through a trusted entity that both find capable of representing their interests and handling personal·information privately and securely  
 · these intermediaries are data·specialists who vouch for the trustworthiness and competence of the advertisers to their human customers  
-· for example, if you trust Shapr to handle your social·data and provide you with social·services, and allow it to recommend connections to nonhuman entities, it may recommend entities that are compatible with your tastes without disclosing any of your personal·information  
-· this will obsolete business models that rely on the capture and control of personal·information, and make *personal·connection* the new business advantage  
+· for example, if you trust Shapr to handle your social·data and to provide you with social·services, and allow it to recommend connections to nonhuman entities, it may recommend entities that are compatible with your tastes without disclosing any of your personal·information  
+· this model obsoletes business models that rely on the capture and control of personal·information, and makes *personal·connection* the new business advantage  
 
-what will move us are forward is trust, security, and safety, something we lack today  
-· the software that will make that happen will run on powerful, reliable, open hardware that is operational for 20 years or longer  
+what will move humanity forward is meaningful trust, strong security, true safety, and reliability, something we lack today  
+· for us to truly value or digital·environment, we must feel that we are control  
+· the components that make up our devices must be serviceable by professionals or even ourselves  
+· and the software that we run on such devices must run reliably and securely for many years  
+· artificial support windows or limits on how people can repair their own devices are not beneficial to people who do not have the means or desire to update their hardware every few years  
+· a compelling, integrated hardware and software experience includes having the option to keep using hardware as long as possible  
 
 &nbsp;  
 &nbsp;  
+
 
 ### designing a human-focused infrastructure
 people need an environment that respects their privacy, ensures the security of their data, and strives for their safety  
-· people will not accept privacy-violating practices that normal now  
-· requiring your phone number to use a service will not be tolerated  
-· services like [GroupMe][GroupMe] that require the phone numbers of all participants are not humane because, instead of facilitating real connections between people, they require the disclosure of personal·information for basic functionality  
-· real personal·connections are between people, not their devices or specific communication infrastructure  
+· people will not accept the privacy-violating practices that are normal today  
+· requiring your phone number to use a service will also not be tolerated  
+· services like [GroupMe][GroupMe], WhatsApp, and Signal, which require the phone numbers of all participants, are not humane because, instead of facilitating real connections between people, they require the disclosure of personal·information for basic functionality  
+· personal·connections are between people, not their devices or cellular·service identifiers    
 
 data·collection, data·processing, and data·disposition rules are different in different countries or regions  
 · the data·processing and data·disposition rules followed by your datapod host must comply with the law and rules for the region on which it operates  
@@ -798,18 +823,18 @@ data·collection, data·processing, and data·disposition rules are different in
 U.S. organizations  
 
 different societies and cultures may have particular ways for structuring and dealing with data  
-· your datapod host must fully support your language, culture, and other characteristics that define you and your society  
+· your datapod host fully supports your language, culture, and other characteristics that define you and your society  
 
 &nbsp;  
 &nbsp;  
 
 
 ### establishing a common data·language
-just like a society benefits from speaking the same language, entities using a common data language when working with personal·information makes it simpler and more efficient to process information  
-· the Human·Internet Consortium would ensure that data·models are not duplicated so that, for example, entities that deal with data from fitness gear use one language to interact with many types of fitness devices from many manufacturers  
-· a data language maintained by an entity separate from the entities who use it ensures that data remains viable even after the pioneering entity who introduced it disappears or switches priorities  
-· the long-lasting viability of data is essential for people to trust that companies cannot harm their existing data, and that new data is not abandoned  
-· this will make it easier for people to try services in search of the perfect one, while keeping their data safe and usable all along  
+just like a society benefits from speaking the same language, entities using a common data·language when working with personal·information makes it simpler and more efficient to process information  
+· the Human·Internet Consortium ensures that data·models are not duplicated so that, for example, entities that deal with data from fitness gear use one language to interact with many types of fitness devices from many manufacturers  
+· a data language maintained by an organization separate from the entities who use it ensures that data remains viable even after the pioneering entity who introduced it disappears, or switches priorities or business·models  
+· the long-lasting viability of data is essential for people to trust that companies cannot harm their existing data, and that new data is never abandoned  
+· this makes it easier for people to try services in search of the perfect one, while keeping their data safe and usable all along  
 
 &nbsp;  
 &nbsp;  
@@ -829,11 +854,51 @@ there is only one of you, all the services you deal with in the physical world d
 
 
 ### performing exhaustive testing and quality·control
-before new data·models and methods for processing them are introduced to the human·internet, they will be tested for a number of years  
+before new data·models and methods for processing them are introduced to the human·internet, they are tested for a number of *years*  
 · in the human·internet, we move slow and break nothing because we care about people and their data  
-· the usability, safety, and security of data is goal number one  
+· the usability, safety, and security of data is *goal number one*  
 · this applies to all products and services offered on the human·internet  
-· entities will not be allowed to put peoples’ data at risk, regardless of their size  
+· entities are not allowed to put peoples’ data at risk, regardless of their size  
+
+[Autopilot?](https://techcrunch.com/2019/05/01/tesla-sued-in-wrongful-death-lawsuit-that-alleges-autopilot-caused-crash "TechCrunch: “Tesla sued in wrongful death lawsuit that alleges Autopilot caused crash”") no  
+
+[MCAS?](https://www.theverge.com/2019/5/2/18518176/boeing-737-max-crash-problems-human-error-mcas-faa "The Verge: “REDLINE—The many human errors that brought down the Boeing 737 Max”") hell no!  
+
+Tesla should have known that Autopilot may drive straight into medians and not released that faulty product on unsuspecting individuals  
+· it either was incompetent in not discovering the problem or it irresponsibly released a defective product  
+· no, telling people to keep their hands on the wheel is not enough  
+· the thing is called Autopilot  
+· instead of maintaining a steady course on a highway, Autopilot actively steering into a solid object while accelerating  
+· that is a HUGE *bug*  
+
+Boeing was greedy, and treated pilots with contempt  
+· whoever decided that MCAS was a good feature on an airliner that carried human beings—mothers, fathers, sisters, brothers, babies—and was piloted by them should be *prosecuted* and *jailed*  
+· Boeing SHOULD HAVE KNOWN BETTER   
+
+companies who produce products responsible for human life must share with everybody how their products are developed and tested  
+· Tesla uses a misleading name for technology that has killed its users (Tesla’s marketing overrides human safety)  
+· what testing procedures does Tesla use?  
+· has Tesla requested **National Transportation Safety Board** and **Department of Transportation** assistance in determining the causes of its Autopilot failures that make vehicles using it drive straight into highway medians?  
+· or is Tesla behaving like a spoiled brat and not participating in investigations out of hubris, spite, and pride, placing itself above the lives of its customers?  
+· what has Tesla done to ensure that its Autopilot product stops steering people into solid walls?  
+· people need answers to these questions if they are to trust Tesla’s technological expertise ad well as its marketing acumen  
+
+the Boeing 737 Max shows not only Boeing’s prioritization profit over human life, but it also represents its hubris in tacitly stating that its MCAS system is more capable that professionally trained pilots to control a plane that they have invested time and effort in mastering  
+· MCAS has killed 350 people  
+· public disclosure of every safety aspect of a product is required for all participants on the human·internet  
+· people will not be exposed to products that put their data or their lives at risk  
+
+in the human·internet, people can determine whether to use a particular product by knowing exactly how the product was designed, developed, and tested  
+· this information includes the methodologies used throughout the development process, the qualifications of the people involved, the level of testing and quality assurance performed, and other aspects, such as whether artificial·intelligence-based software includes [ethical evaluation](https://overcast.fm/+EHc1Tv1I0 "This Week in HPC: “Episode 261: NVIDIA Accelerates Autonomous Driving; HPC Looks at Brexit”") of circumstances while reacting to life-threatening situation, aspects of complex products that companies do not normally publicize  
+· the human·internet encourages such disclosures because they contribute to safety and user trust  
+· for example, companies like Tesla and Boeing should disclose how they test the software in their products, that is the *only* way people can begin to regain trust in the judgment and engineering prowess of those companies  
+· software plays an outsize role in the safety of billions of individuals every day  
+· companies cannot hide behind patents and trade·secrets in denying people the information they need to make the life and death decisions involved in getting from point A to point B on an car or a plane  
+
+with today’s information, these decisions are easy:  
+
+* no, Tesla, i am not riding in your cars because your engineering is shoddy, and your marketing is misleading and irresponsible  
+* no **Southwest Airlines**, i am not flying on your planes because their manufacturer is dishonorable and negligent   
 
 &nbsp;  
 &nbsp;  
@@ -841,7 +906,7 @@ before new data·models and methods for processing them are introduced to the hu
 
 ### ensuring security and reliability
 the infrastructure you and the entities you authorize to access your personal·data must guarantee the privacy and security of your data when it is stored and when it is transmitted  
-· banks do not rely only on safes to secure cash and security instruments  
+· banks do not rely only on safes to secure cash and security·instruments  
 · they put those vaults in secure areas within secure buildings with strong doors, alarms, guards, security services, *and* arrangements with police departments  
 · they key is *redundancy*  
 · we must take a similar approach to ensure that personal·information is always secure  
@@ -851,9 +916,9 @@ while in their custody, entities are fully responsible and accountable for the s
 · if your data is not encrypted and the entity’s systems are breached, the entity is accountable for its loss and misuse  
 
 reliability is also paramount  
-· the software that makes up the backbone of the human·internet (the foundation·software) will be released every five years, after two years of development, two years of engineering testing, two years of user testing, and one year of integration and upgrade testing (engineering and user testing run concurrently)  
-· the foundation·software will comprise software technologies and components that have been in use without problems for at least five years  
-· except for security issues, such software will not be updated until the next release of the 
+· the software that makes up the backbone of the human·internet (the foundation·software) is released every five years, after two years of development, two years of engineering testing, two years of user testing, and one year of integration and upgrade testing (engineering and user testing run concurrently)  
+· the foundation·software comprises software technologies and components that have been in use without problems for at least five years  
+· except for security issues, such software is not updated until the next release of the 
 human·internet’s software  
 
 &nbsp;  
@@ -861,49 +926,51 @@ human·internet’s software
 
 ### providing a plethora of options
 people need options to create their own user·experiences  
-· one of two providers of *anything* is not enough  
-· for example, we need more than two options for the operating systems that run our handsets  
-· by facilitating the creation of products and services that operate on the same personal·data and business·data, the human·internet facilitates the creation and growth of entities that create products that provide varied user·experiences, giving people many options to choose from  
+· one or two providers of *anything* is not enough  
+· for example, we need more than two options for the operating·systems that run our handsets  
+· by facilitating the creation of products and services that operate on the same personal·data and business·data, the human·internet facilitates the creation and nurture of entities that create products that provide varied user·experiences, giving people many options to choose from  
 
-because personal·data and business·data belongs to the individual or the business that data is about, not the entity who collects or stores that data, the business·models and priorities of data·processors are much less relevant to the administration of personal and business data  
+because personal·data and business·data belong to the individual or the business the data is about, not the entity who collects or stores the data, the business·models and priorities of data·processors are much less relevant to the administration of personal and business data  
 · data owners can use more than one product or service provider to perform the same functions  
-· when a data·processor changes it business·model, goes out of business, or is purchased, the owner of the data can deauthorize that data·processor from accessing the data and give access to the data to another processor  
+· when a data·processor changes its business·model, is purchased, or goes out of business, the owner of the data can deauthorize that data·processor from accessing the data and give access to the data to another processor  
 · the human·internet’s infrastructure, policies, and rules ensure that data is not used to keep people and business·entities tied to particular data·processors  
 
 the Human Internet Consortium ensures that no data·categories are controlled by fewer than three entities  
-· when data·specialists introduce new data·categories to the ecosystem, the consortium will require that at least five data·specialists commit to supporting that data·category in perpetuity  
-· and when, through mergers, acquisitions, or other mechanisms, the number of data·specialists operating on a particular data·category goes below four, the consortium with look for additional data·specialists to support that category, or will fund two or more data·specialists so that they create and support products and services that operate on the category   
+· when data·specialists introduce new data·categories to the ecosystem, the consortium requires that at least five data·specialists commit to supporting that data·category in perpetuity  
+· and when, through mergers, acquisitions, or other mechanisms, the number of data·specialists operating on a particular data·category goes below four, the consortium looks for additional data·specialists to support that category, or funds two or more data·specialists so that they create and support products and services that operate on the category   
 · ***data·categories will not be abandoned in the human·internet***  
 &nbsp;  
 &nbsp;  
 
 
 ### facilitating real cooperation between businesses
----
-> Amazon runs two kinds of businesses: 
+> Amazon runs two kinds of businesses:  
 > • one is a platform, the place where small businesses trade, and buyers and sellers meet  
 > · Amazon runs the platform but also sucks out tons of information from every single transaction  
 > • it then uses that information, which no one else is privy to, to identify profitable businesses, which it then competes against  
 > · it then puts out a product in competition with the Pet Pillow sales guy, and moves that profitable business back to page 6, and puts Amazon’s own business at the front   
 > 
 > using a baseball analogy, you could be the umpire (the platform), or you could have a team in the game (running individual businesses that meet on the platform)  
->  but you don’t get to do both simultaneously  
-> [Elizabeth Warren](https://youtu.be/9b1iDMW0y7s "YouTube: Elizabeth Warren on Breaking Up “Big Tech”")
+>  · but you don’t get to do both simultaneously  
+> [Elizabeth Warren](https://youtu.be/9b1iDMW0y7s "YouTube: Elizabeth Warren on Breaking Up “Big Tech”")  
 
----
-businesses are like kids playing in the same playpen  
+&nbsp;
+
+businesses should learn from kids who play in the same playpen  
 · to be happy and have real fun, kids learn to share, take turns, and show others how rewarding a particular 
 activity can be  
-· businesses today are selfish, domineering, and bully their way through life  
-· this has produced entities that put the environment and human·lives at risk because the goal is not to help people be better or even to guarantee their safety but to defeat almost everyone else, at any cost  
-· this is how companies that started with altruistic goals, such as Google and Facebook, have degenerated into the inhumane entities they are today  
-· staying focused on the needs and rights of individuals is how companies can remain helpful to society and humanity despite changes in business realities and demands from shareholders  
+· businesses today are selfish and domineering, bullying their way through life  
+· this behavior has produced entities that put the environment and human·lives at risk because the goal is not to help people be better or even to guarantee their safety, but to defeat almost everyone else, at any cost  
+· this is how companies who started with altruistic goals, such as Google and Facebook, have degenerated into the inhumane entities they are today  
+· staying focused on the needs and rights of individuals is how companies can remain helpful to societies and humanity despite changes in business realities and demands from shareholders  
 
-Amazon is both a marketplace and the largest participant of that marketplace, which it has used to leverage the data it collects through marketplace interactions to copy *and* eliminate its competition  
-· instead of being selfish bullies, business can cooperate on open platforms that facilitate business-to-business interactions, knowing that no one business will have an unfair advantage over the other participants  
-· businesses can contribute their knowledge and expertise in developing highly capable and flexible platforms that raise everybody’s changes at success, and they get to compete on merit with their business siblings  
+Amazon is both a marketplace and the largest participant of that marketplace  
+· it has used that position to leverage the data it collects through marketplace interactions to copy *and* eliminate its competition  
+· instead of being selfish bullies, business should cooperate on open platforms that facilitate business-to-business interactions, knowing that no one business has an unfair advantage over the other participants  
+· by contributing their knowledge and expertise in developing highly capable and flexible platforms that raise everybody’s changes at success, businesses can compete on merit with their business siblings, while being a positive influence on humanity   
 
-a strong identity framework (described earlier) will be instrumental in allowing business-to-business trust, and honest and transparent cooperation, something that will benefit not only business entities, but the human·beings who participate in that environment    
+in the human·internet, a strong identity framework is instrumental in allowing business-to-business trust, and honest and transparent cooperation, something that benefits not only business entities, but the human·beings who participate in that environment    
+
 ---
 instead of developing proprietary data·models and their essential algorithms, in the human·internet entities cooperate to build open data·models and processing·methods that benefit every person and can be used by any data-processing entity  
 · to introduce changes to human·internet data·models and processing·methods, an entity must submit its proposal with at least four other provably unrelated entities, whom can also make use of the new data and methods in their products and services  
@@ -959,7 +1026,7 @@ regulation and antitrust proceedings can address Amazon’s dominance over inter
 &nbsp;  
 
 
-## GETTING STARTED
+## LET’S BUILD IT
 exciting, right?  
 · so, what do we need to get this futuristic, humanistic, and humane digital ecosystem going?  
 
