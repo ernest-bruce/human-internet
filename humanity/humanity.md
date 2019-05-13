@@ -1,5 +1,5 @@
 # Disrupting the Disruptors Because, Humanity
-## Beyond Regulation—Forever Changing People’s and Companies’ Relationship with Data
+## beyond regulation, forever changing everybody’s relationship with data
 ![](_images/warren_on_big_tech.png)
 &nbsp;
 
@@ -1049,7 +1049,7 @@ the *same* people travel over the same roads using *different* vehicles
 · they take you from place to place but do not own or control you  
 · in the same vein, on the human·internet, data·processors interact with your data using a standard language and methods, they do not own, control, or store your data  
 · on the internet of today, companies have behaved so incompetently, irresponsibly, and criminally with personal·data
- (and entity·data) that they do not deserve to have control over personal or entity in the next evolution of the internet   
+ (and entity·data) that they do not deserve to have control over personal or entity data in the next evolution of the internet   
 
 ---
 the human·internet implements the common language that participants use to work privately and security with personal·information in a way that keeps human·beings at the center of its operations  
@@ -1066,8 +1066,8 @@ the human·internet implements the common language that participants use to work
 
 &nbsp;
 
-as [Senator Warren](https://www.warren.senate.gov) often says, we need to level the playing·field when it comes to how Amazon operates and benefits from its marketplace  
-· Amazon is an incredibly powerful closed marketplace that lets it [compete unfairly](https://overcast.fm/+HWy4kXj1k "Decrypted: “As Amazon Gets Bigger, Sellers Feel the Squeeze” [25:21]") with its participants (sellers do not have access to information such as product availability, inventory levels, and purchasing details, like Amazon has)
+as [Senator Warren](https://www.warren.senate.gov) often says, we need to level the playing·field when it comes to how Amazon and other companies operate platforms on which they compete against platform users who do not have the same information the platform operator has  
+· Amazon operates an incredibly powerful, closed marketplace, which lets it [compete unfairly](https://overcast.fm/+HWy4kXj1k "Decrypted: “As Amazon Gets Bigger, Sellers Feel the Squeeze” [25:21]") with its participants (sellers do not have access to information such as product availability, inventory levels, and purchasing details, like Amazon has)  
 · the human·internet facilitates the creation of open marketplaces that provide the same flexibility and name recognition Amazon provides but without the threat of competition from its operator  
 · business entities can participate in or create their own marketplaces using common data·models and processing·workflows  
 · all data processing in the marketplaces is done for the benefit of their participants including sellers, buyers, and shippers  
@@ -1075,19 +1075,23 @@ as [Senator Warren](https://www.warren.senate.gov) often says, we need to level 
 an open marketplace·model specifies how a marketplace operates  
 · anybody can examine its data·model and algorithms  
 · all business·entities can participate in the development and implementation of the data·models and algorithms  
-· this is what makes these marketplaces truly open and transparent  
+· this is what makes these marketplaces truly open, transparent, and fair  
 
-the human·internet will feature the *open·market*  
+the human·internet features the *open·market*  
 · the open·market aggregates the business·data (products for sale, shipping services offered, and so on) of entities who make that data available to *market·agents*  
-· **market·agents** present the business·data they are authorized to access by market·participants to customers  
+· **market·agents** present the business·data they are authorized to access by **market·sources** (product sellers or service providers) to customers  
 · they let customers search for products, analyze their features, and purchase them without giving preference to products from any particular seller  
-· the experience is driven by the customer’s preferences and choices, not by the business·priorities of the operator  
-· the more market·agents a business gives access to its business·data, the wider its customer·base becomes  
+· the experience is driven by the customer’s preferences and choices, not by the business priorities of the operator  
+· the more market·agents a business gives access to its business·data the wider its customer·base becomes  
 
-market·agents cannot participate in the open·market themselves, that is, they cannot sell or buy products  
+market·agents cannot participate in the marketplaces they publish   
 · the service they offer is that of an interface between customers and sellers using the business·data they are authorized to access as their data·source  
 · this means that multiple market·agents give customers choice over their buying experience  
-· instead of Amazon being the *Google* of business·transactions, the human·internet facilitates the creation of many businesses, who may specialize in selling products or in providing a compelling shopping experience, but not both  
+· instead of Amazon being the *Google* of business·transactions, the human·internet facilitates the creation of many businesses, who may specialize in selling products or in providing a compelling shopping experience, but not on both activities   
+
+to customers, marketplaces themselves become commodities  
+· when a person searches for information about a product or service’s availability in the open·market, the search results include all the marketplaces—published by market·agents—that offer that product or service for sale  
+· instead of one large marketplace controlled by one company, the person sees many marketplaces that are ultimately controlled by the product manufacturers or service providers because they *own and control* the information the market agents use to compose the marketplaces  
 
 regulation and antitrust proceedings can address Amazon’s dominance over internet digital·commerce  
 · but emulating its platform’s capabilities and features in the open, for any business·entity to use without the fear of competition from the all-knowing platform owner is a better, organic approach  
