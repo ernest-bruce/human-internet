@@ -3,20 +3,20 @@
 ![](_images/warren_on_big_tech.png)
 &nbsp;
 
-instead of *legislating* our way out of our data·privacy and data·security problems, we must *engineer* our way out of those problems, producing a more effective, permanent, and humane solutions  
+instead of *legislating* our way out of our data·privacy and data·security problems, we must *engineer* our way out of these problems, developing robust, tamper-free, effective, permanent, and humane solutions  
 · the legislative approach is a good one, and it should be pursued  
-· but the engineering approach is better because it is actionable, testable, and can improve over time  
+· but the engineering approach, building something better than fungible laws are regulations, is better because it is actionable, testable, and can improve over time  
 
 a people-centric and people-driven ecosystem where human and nonhuman entities can operate privately, securely, and safely is the best alternative to the dominance and criminality of internet behemoths like Facebook  
-· the **human·internet** is the network that gives you total control over your personal·data and the personal·information entities create from your data and your online and offline activities  
+· the *human·internet* is the network that gives you total control over your personal·data and the personal·information entities create from your data and your online and offline activities  
 · the ecosystem comprises many open and public computing platforms that provide alternatives to Amazon, Apple, Facebook, Google, Microsoft, Twitter, Uber, and many powerful yet unaccountable internet entities that give profit and dominance higher priority than human·rights, fairness, and justice, which is their legal mandate  
 
-the human·internet protects personal·data from abandonment by entities focused on growth, exits, and pivots  
+the human·internet protects personal·data from abandonment by entities focused on growth, pivots, and exits  
 · by offering a common data·language, many data·processors can speak the same language when it comes to accessing and manipulating a personal data and information  
 · through federated distributed·computing models, people have many options for storing their personal·data, which will no longer be hosted by the entities who trade on that data and amass it to become the go-to places for advertisers to present their content to people of their choosing  
 · companies like Facebook use deceptive and illegal practices to obtain as much personal·data as possible to allow the surgical targeting of ads to people who use their “free” platforms to perform their human activities  
 
-ecommerce companies like Amazon use their dominance to target and neutralize smaller businesses  
+ecommerce companies like Amazon use their dominance to identify, target, and marginalize smaller businesses  
 · by providing a platform for ecommerce and also being a participant in the platform, Amazon bullies its way to positions of dominance in any successful business area, while making it hard or impossible for the originators of those successful products to reap the benefits of their innovations  
 · open ecommerce platforms that compete with Amazon’s platforms is how humanity neutralizes Amazon, regardless of any other legal approaches governments take to curb Amazons cancerous influence in our digital lives  
 
@@ -24,9 +24,40 @@ instead of promoting the creation of unicorns, the human·internet supports the 
 · these entities do not pursue sky high revenue and billions of human users  
 · instead they provide the components that people use to create their custom digital·life, something that the internet behemoths—with their gaze glued to their bottom lines—are unwilling and incapable of doing  
 
-the remainder of this document discusses the values, principles, and policies of the human·internet, how they provide a humane, secure, and safe alternative to the behemoths, and how businesses benefit from participating on an open, egalitarian, and humanistic ecosystem, where *people* and humanity are its principal beneficiaries  
+to wield the same power the behemoths use—their control over personal·data—this new breed of smaller businesses leverage the public and open infrastructure of the human·internet, which provides private and secure access to customer data  
+· companies cooperate to develop the data·models and interaction·models that form the *common language* companies use to work with personal·data  
+· they are able to leverage data they did not collect in standard and predictable ways  
+· this allows them to focus their special expertise on the features and capabilities that differentiate their products and services from the competition  
+· like the nimble Lilliputians, each company concentrates on what it is good at, while the aggregate tackles the slow-moving giant  
+
+with many options for performing essential digital·life functions, such as make connections and communicate with friends and colleagues, people can design their own, personalized digital·experience  
+· they do not have to settle on one behemoth’s way of engendering emotional connection (Facebook’s Stories or )
+
+this document discusses the values, principles, and policies of the human·internet, how they provide a humane, secure, and safe alternative to the behemoths, and how businesses benefit from participating on an open, egalitarian, and humanistic ecosystem, where *people* and humanity are its principal beneficiaries  
+· the document introduces the solution to the internet’s identity, privacy, and security problems, and problems with the credibility of content on the internet    
+· the solution, the human·internet, gives you, your friends, your family, and humanity the power of your data, a superpower that has been stolen, sold, shared, and abused without your permission or consultation (for the most part) by entities dedicated not to *your* well being, your privacy, or your self·improvement, but to *their* own enrichment, at *any cost*  
 
 &nbsp;
+
+sections:  
+
+  * [INTRODUCTION](#introduction)
+  * [THE HUMAN·INTERNET](#the-humaninternet)
+  * [CUSTOMERS AND BAIT](#customers-and-bait)
+  * [EYES FORWARD](#eyes-forward)
+  * [VISION, PRINCIPLES, VALUES](#vision-principles-values)
+  * [IDENTITY, ENCRYPTION](#identity-encryption)
+  * [POWER TO YOU](#power-to-you)
+  * [POWER TO THE PEOPLE](#power-to-the-people)
+  * [DIGITAL ECOSYSTEM](#digital-ecosystem)
+  * [LET’S BUILD IT](#lets-build-it)
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+
+## INTRODUCTION
 
 >to ensure our continued existence, humanity must dedicate itself to [populating other parts of the solar system](https://www.livescience.com/62109-hawking-last-tv-appearance-leaving-earth.html "LiveScience: In a Final TV Appearance, Stephen Hawking Imagines Humanity Colonizing Alien Worlds") in the next 100 years and [other star systems][Living_Universe] within the next 1000 years  
 · this makes *technological advancement* our highest priority  
@@ -139,29 +170,8 @@ organizations like Peoples will use the open·source software that defines the n
 · you will not need to *transfer* any data from one service to another  
 · all you have to do is deauthorize one service and authorize the other to access your one set of personal·data  
 
----
-this document introduces the solution to the internet’s identity, privacy, and security problems, and problems with the credibility of content on the internet    
-· the solution is the **human·internet,** and it will give you, your friends, your family, and humanity the power of your data, a superpower that has been stolen, sold, shared, and abused without your permission or consultation (for the most part) by entities dedicated not to *your* well being, your privacy, or your self·improvement, but to *their* own enrichment, at *any cost*  
-&nbsp;
 
-sections:  
-
-  * [WHAT IS THE HUMAN·INTERNET](#what-is-the-humaninternet)
-  * [CUSTOMERS AND BAIT](#customers-and-bait)
-  * [EYES FORWARD](#eyes-forward)
-  * [VISION, PRINCIPLES, VALUES](#vision-principles-values)
-  * [IDENTITY, ENCRYPTION](#identity-encryption)
-  * [POWER TO YOU](#power-to-you)
-  * [POWER TO THE PEOPLE](#power-to-the-people)
-  * [DIGITAL ECOSYSTEM](#digital-ecosystem)
-  * [LET’S BUILD IT](#lets-build-it)
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
-
-## WHAT IS THE HUMAN·INTERNET
+## THE HUMAN·INTERNET
 the human·internet is the internet based on human values and principles  
 · it is the internet we should have created in the first place  
 · with time and by the misdeeds of powerful entities, we have learned that need to impose rules that specify what entities can and cannot do with personal·information  
@@ -234,10 +244,8 @@ the advertisers who request entity·introductions to specific persons must prove
 
 
 ## EYES FORWARD
----
 > to move humanity forward, *people* must reshape the business·model of the [personal·information oligarchs][personal·information_oligarchs], who mine, package, and process your life for profit, while putting your identity, privacy, and security at risk  
 
----
 &nbsp;  
 
 the future *is not* intelligent computing available only to big corporations  
@@ -369,10 +377,9 @@ a second necessary aspect of protecting a person’s privacy is encryption
 
 
 ## POWER TO YOU
----
 >the human·internet has human values  
 · it serves you, and helps businesses serve you privately, securely, respectfully, and honorably  
----
+
 &nbsp;
 
 the closer you are to your data, the more use you get our of it  
@@ -681,6 +688,8 @@ collections of datapods can become valuable repositories of personal·data, data
 
 ### Facilitating real competition
 >only a large group of cooperating nonprofit, public·benefit, and profit-dedicated entities, united under the principles and values of the human·internet, can be a capable and effective alternative to the internet oligarchy pilfering and profiting from our personal·information, and using their vast, ill-gained resources, to bend rules and laws in their favor  
+
+&nbsp;
 
 people need alternatives to closed, monolithic, untrustworthy, abusive, and criminal companies  
 · several honorable, trustworthy companies of all sizes whose differentiators are the features and quality of their products, not the data they hold hostage, make for a richer, more diverse, and safer ecosystem, which can more closely match the needs and wants of people  
@@ -1027,8 +1036,8 @@ Amazon is both a marketplace and the largest participant in that marketplace
 
 instead of being selfish bullies, businesses should cooperate on open platforms that facilitate business-to-business interactions, knowing that no one business has an unfair advantage over the other participants  
 · by contributing their knowledge and expertise to the development of highly capable and flexible platforms that raise the chances at success for all platform users, businesses can compete on merit with their siblings, while being a positive influence on humanity   
----
 
+---
 in the human·internet, data·administrators cooperate to build open data·models, interaction·models, and processing·methods that benefit every person and can be used by any data·processor   
 · to introduce changes to human·internet infrastructure, five otherwise provably unrelated entities submit their tested proposal to the Human·Internet Consortium  
 · these entities have concrete plans for offering products and services that use the proposed subinfrastructure  
@@ -1102,6 +1111,7 @@ regulation and antitrust proceedings can address Amazon’s dominance over inter
 
 
 ## LET’S BUILD IT
+---WORK IN PROGRESS---
 exciting, right?  
 · so, what do we need to get this futuristic, humanistic, and humane digital ecosystem going?  
 
@@ -1161,9 +1171,9 @@ while the preliminary infrastructure of the human·internet is implemented, enti
 
 
 ---
-##  
+2019.05.14:12  
 
-[free_humanity]: https://github.com/ernest-bruce/human-internet/blob/master/free_humanity/free_humanity.md#freeing-humanity-from-the-shackles-of-greed "Freeing Humanity fom the Shackles of Greed"
+[free_humanity]: https://github.com/ernest-bruce/human-internet/blob/master/free_humanity/free_humanity.md#freeing-humanity-from-the-shackles-of-greed "Freeing Humanity from the Shackles of Greed"
 [internet_plan-internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#internet "Internet (A Plan for a Private, Safe, and Secure Internet)"
 [industry_regulation]: https://github.com/ernest-bruce/human-internet/blob/master/industry_regulation/industry_regulation.md#regulating-the-personalinformation-industry "Regulating the Personal·Information Industry"
 
