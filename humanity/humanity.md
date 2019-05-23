@@ -12,13 +12,13 @@ a people-centric and people-driven ecosystem where human and nonhuman entities c
 · the ecosystem comprises many open and public computing platforms that provide alternatives to Amazon, Apple, Facebook, Google, Microsoft, Twitter, Uber, and many powerful yet unaccountable internet entities that give profit and dominance higher priority than human·rights, fairness, and justice, which is their legal mandate  
 
 the human·internet protects personal·data from abandonment by entities focused on growth, pivots, and exits  
-· by offering a common data·language, many data·processors can speak the same language when it comes to accessing and manipulating a personal data and information  
-· through federated distributed·computing models, people have many options for storing their personal·data, which will no longer be hosted by the entities who trade on that data and amass it to become the go-to places for advertisers to present their content to people of their choosing  
+· by offering a common data·language, many data·processors can speak the same language when it comes to accessing and manipulating a person’s data and information  
+· through federated distributed·computing models, people have many options for storing their personal·data, which is no longer be hosted by the entities who trade on that data and amass it to become the go-to places for advertisers to present their content to people of their choosing  
 · companies like Facebook use deceptive and illegal practices to obtain as much personal·data as possible to allow the surgical targeting of ads to people who use their “free” platforms to perform their human activities  
 
 ecommerce companies like Amazon use their dominance to identify, target, and marginalize smaller businesses  
 · by providing a platform for ecommerce and also being a participant in the platform, Amazon bullies its way to positions of dominance in any successful business area, while making it hard or impossible for the originators of those successful products to reap the benefits of their innovations  
-· open ecommerce platforms that compete with Amazon’s platforms is how humanity neutralizes Amazon, regardless of any other legal approaches governments take to curb Amazons cancerous influence in our digital lives  
+· open ecommerce platforms that compete with Amazon’s platforms is how humanity neutralizes Amazon, regardless of any other legal approaches governments take to curb Amazon’s cancerous influence in our digital lives  
 
 instead of promoting the creation of unicorns, the human·internet supports the founding and nourishment of specialized businesses, who focus their expertise and resources on one or a few aspects of an industry  
 · these entities do not pursue sky high revenue and billions of human users  
@@ -70,7 +70,7 @@ sections:
 &nbsp;
 
 the internet·community includes cisgender and transgender people, scientists, politicians, strangers, friends, and criminals  
-· the technological foundation that allows this community to exist is the [internet protocol suite][internet·protocol·suite] which, while facilitating reliable and resilient communication, does not ensure verifiable identity, reliable privacy, and strong security in our increasingly digitized lives  
+· the technological foundation that allows this community to exist is the [internet protocol suite][internet·protocol·suite], which—while facilitating reliable and resilient communication—does not ensure verifiable identity, reliable privacy, and strong security in our increasingly digital lives  
 · ***this is why people cannot trust the internet***  
 
 many of the companies who operate on the internet, such as Facebook and Google, who publicly promise to be agents of good, have behaved dishonorably at best and criminally at worst  
@@ -82,24 +82,23 @@ Amazon, Apple, Facebook, and Google are good examples of entities who have impro
 · also, in many cases and at [many levels][when_google_comes_to_town] these companies treat their customers as testers of their products and initiatives, putting customer data at risk and costing their customers significantly in wasted investment and unrealized value   
 · some of these companies, like Facebook, have [behaved criminally](https://www.nytimes.com/2019/03/13/technology/facebook-data-deals-investigation.html "The New York Times: Facebook’s Data Deals Are Under Criminal Investigation")  
 · and, even after many perfunctory apologies, they continue to misbehave  
-· that may be the reason behind young people’s [growing disdain](https://www.marketplace.org/2019/03/06/tech/exclusive-look-numbers-showing-users-leaving-facebook-by-the-millions "Marketplace: U.S. users are leaving Facebook by the millions, Edison Research says") for the Facebook brand     
 
 ---  
-humanity needs a better foundation, a better internet, one that guarantees verifiable identity, reliable privacy, and strong security, so that the companies who operate on it but still fail to protect people’s identity and data—due to negligence, incompetence, or criminality—can be admonished or punished appropriately  
+humanity needs a better internet, one that guarantees verifiable identity, strong privacy, and reliable security, so that the companies who operate in it but still fail to protect people’s identity and data—due to negligence, incompetence, or criminality—can be admonished or punished appropriately  
 · new, powerful and influential entities are being formed all the time, including [travel and lodging specialists](https://qz.com/1567574/airbnb-is-buying-hoteltonight "Quartz: Airbnb is buying into the hotel industry by acquiring HotelTonight"), [entertainment powerhouses](https://www.nytimes.com/2019/03/20/business/media/walt-disney-21st-century-fox-deal.html "The New York Times: Disney Moves From Behemoth to Colossus With Closing of Fox Deal"), and [media conglomerates](https://www.businessinsider.com/att-time-warner-acquisition-what-it-will-own-2018-6 "Business Insider: Here's everything AT&T will own after it buys Time Warner")  
-· in addition to the assets, expertise, and reach entities acquire to improve their business prospects, they obtain control over the personal·data of large numbers of individuals, and the business·data of business·entities who rely on them to carry-out their missions  
 
-**[Airbnb,][Airbnb]** with its purchase of **[HotelTonight,][HotelTonight]** may gain access to the locations and travel plans of HotelTonight’s human customers, which would help Airbnb, but may be detrimental to the privacy and security of HotelTonight’s customers  
+in addition to the assets, expertise, and reach entities acquire to improve their business prospects, they obtain control over the personal·data of large numbers of individuals, and the business·data of business·entities who rely on them to carry-out their missions  
+· **[Airbnb,][Airbnb]** with its purchase of **[HotelTonight,][HotelTonight]** may gain access to the locations and travel plans of HotelTonight’s human customers, which would help Airbnb, but may be detrimental to the privacy and security of HotelTonight’s customers  
 · control over more personal·information may help Airbnb grow its business and make it more attractive to investors  
 · however, while HotelTonight appears to [respect](https://build.hoteltonight.com/handle-with-care-using-data-responsibly-9a0e6bcc5710) their human·customer’s data, Airbnb’s track record in that respect is [not great](https://www.theverge.com/2017/4/14/15308736/airbnb-multi-device-authentication-security-hackers "The Verge: Airbnb adds new security measures to prevent"), which makes the new entity’s effectiveness at keeping personal·information secure an unknown quantity  
 · therefore, after the merger, the security of the personal·data under HotelTonight’s control may be diminished in the newly·formed entity  
 · this situation does not instill confidence in the security of the expanded collection of personal·data under the control of the new entity  
 
 HotelTonight’s human·customers were not consulted about the new entity’s use of their personal·information, which includes payment·information  
-· but it did not need to so because those customers agreed that HotelTonight could share their information with potential buyers and investors on its [privacy policy:](https://www.hoteltonight.com/terms-of-use/privacy-policy "HotelTonight Privacy Policy")
+· but it did not need to do so because those customers agreed that HotelTonight could share their information with potential buyers and investors on its [privacy policy:](https://www.hoteltonight.com/terms-of-use/privacy-policy "HotelTonight Privacy Policy")
 
-> With whom do we share your personal information?
-> ...
+> With whom do we share your personal information?  
+> ...  
 > Potential buyers or investors - In the unlikely event that we wished to sell our business, we may need to share your personal information with a potential buyer or an investor.  
 
 &nbsp;
@@ -114,7 +113,7 @@ all its users
 · its focus is on *eliminating competition* (using tactics such as acquisitions and mergers) or seeking user growth by applying its business·model to different markets  
 · this makes sense, from a business·growth perspective   
 · but, from a humanistic perspective, a person staying in a service only because eir friends, family, and acquaintances are also in the service—even as the service exhibits fundamental problems—says very little about the quality of the service itself  
-· people stay in it because they do not have a real alternative for staying connected to their family, friends, and acquaintances   
+· people stay on it because they do not have a real alternative for staying connected to their family, friends, and acquaintances   
 · people need alternatives that are compatible with their sensibilities and tastes, and thru which they can interact effectively with the *only* family, friends, and acquaintances they have  
 &nbsp;
 
@@ -133,13 +132,13 @@ with their actions, these companies have earned their own disruption
 
 it has become fashionable for companies like Facebook to [call for regulation][Facebook_calls_for_regulation]  
 · that is because, thru lobbying and other practices, they aim to get *friendly* regulation, like the [California Consumer Privacy Act,][California_Consumer_Privacy_Act] which was made substantially weaker from its original vision by companies like Facebook, Microsoft, and Google  
-· while regulation and even breaking up big corporations like Facebook and Amazon may be beneficial to humanity, a better approach is to fundamentally change the relationship between companies and their customers’ data (both personal·data and business·data) into one in which they are *agents* who are given access to data 
-by the **data·owner**  
-· the owner can revoke such access at any time, with the same ease with which a person can change the visibility of a Facebook post, or block a particular users  
+· while regulation, and even breaking up big corporations like Facebook and Amazon, may be beneficial to humanity, a better approach is to fundamentally change the relationship between companies and their customers’ data (both personal·data and business·data) into one in which they are *agents* who are given access to data 
+by the *data·owner*  
+· the owner can revoke such access at any time, with the same ease with which a person can change the visibility of a Facebook post, or block a specific user  
 
 the **People Own Data** (POD) approach to managing personal·data represents the rights of individuals and business·entities to control and manage data about themselves and any data that can be used to identify them  
 · legally, individuals *own* such data (regardless of how it was captured or produced) and are free to allow access to their data to other entities and to dictate to those entities how that data is to be used and disposed of  
-· these entities are *not* allowed to share **owned·data** with other entities, including parent companies, sibling entities, and business partners  
+· these entities are *not* allowed to share *owned·data* with other entities, including parent companies, sibling entities, and business partners  
 · entities who want or need to use any owned·data, must obtain authorization from the data·owner  
 
 ---
@@ -147,22 +146,22 @@ what the internet needs is *federated centralization of personal·data*
 · this means that personal·data is centrally controlled and managed by its owner (you, your business) but the means thru which it is stored, retrieved, processed, and disposed of is federated among a set of entities 
 chosen by the owner  
 · among these entities is **Peoples**, a platform that aims at giving Facebook, Google, Apple, Amazon, and other internet behemoths real competition through open·source, open·standards, transparency, honor, responsibility, and accountability, things that do not exist in the internet (and in business in general) today  
-· there is not a single entity operating on the internet today that can claim to rightly posses and exhibit all those attributes  
-· **Peoples·Foundation** is the nonprofit organization whose main goal is to fund Peoples’ operations and promote the development and operation of the *next-generation internet*  
+· there is not a single entity operating in the internet today who can claim to rightly posses and exhibit all those attributes  
+· **Peoples·Foundation** is the nonprofit organization whose main goal is to fund Peoples operations and promote the development and adoption of the *next-generation internet*  
 
 there are other projects, similar to Peoples, that strive to bring us personal·data centralization  
 · one of them is **[MesInfos][MesInfos]** (MyData)  
 · other companies, platforms, and organizations with the capability of giving the behemoths real competition are **[System76,][System76]** **[UBPorts,][UBPorts]** and **[RISC-V Foundation][risc·v·foundation]**  
 · however, they operate separately, without single overarching vision informing their activities  
 · the behemoths have the luxury of exercising their power under a single vision  
-· to marshal the considerable resources and to inspire the experienced engineers, scientists, technologists, anthropologists, psychologists, doctors, and advocates needed to give humanity a real alternative to the behemoths, these up and coming platforms must operate under a strong common vision, policies, and rules, to ensure that the next evolution of humanity’s digital life is geared for, accountable to, and in the best interest of *people*  
+· to marshal the considerable resources—to inspire the experienced engineers, scientists, technologists, anthropologists, psychologists, doctors, and advocates—needed to give humanity a real alternative to the behemoths, these up and coming platforms must operate under a strong common vision, policies, and rules, to ensure that the next evolution of humanity’s digital life is geared for, accountable to, and in the best interest of *people*  
 
 
-no one company shall have exclusive control over the data·models and algorithms used to manipulate personal·data  
-· the models and essential methods for processing personal·data shall be open and usable by any **data·manager** (an entity who controls personal·data)  
+no one company shall have exclusive control over the infrastructure used to manipulate personal·data  
+· the data·models and algorithms used to store and process personal·data must be open and usable by any **data·administrator** (an entity who manages personal·data on behalf of the data·owner)  
 · in fact, this is how the next-generation internet ensures the security and safety of personal·information  
-· data·loss and data·corruption problems will be drastically reduced or eliminated by exposing the formats of the data and the methods that manipulate it to the public  
-· anybody, everybody is able to view the specifications and analyze the source·code that implements them to ensure that they are work correctly (do not damage data), operate securely (protect data from unauthorized access), and ensure the safety of the data they manipulate  
+· data·loss and data·corruption problems are drastically reduced or eliminated by exposing the formats of the data and the methods that manipulate it to the public  
+· anybody, everybody is able to view the specifications and analyze the source·code that implements them to ensure that they work correctly (do not damage data), operate securely (protect data from unauthorized access), and ensure the safety of the data they manipulate  
 
 organizations like Peoples will use the open·source software that defines the next-generation internet to manipulate all personal·information  
 · this means that any company can manage your personal·data  
@@ -170,15 +169,42 @@ organizations like Peoples will use the open·source software that defines the n
 · you will not need to *transfer* any data from one service to another  
 · all you have to do is deauthorize one service and authorize the other to access your one set of personal·data  
 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 
 ## THE HUMAN·INTERNET
-the human·internet is the internet based on human values and principles  
-· it is the internet we should have created in the first place  
-· with time and by the misdeeds of powerful entities, we have learned that need to impose rules that specify what entities can and cannot do with personal·information  
-· without rules, companies like Facebook, Google, and many others feel free to do whatever they want with personal·information as long as they make money from those actions  
+a lot of the problems we find in the internet stem from the fact that it has no human·values  
+· other than redundancy, speed, and efficiency, the internet is a amoral construct, created to provide a reliable means of communication to humanity  
+· we need a humane internet with values and principles that reflect the best of humanity  
+
+with time and by the misdeeds of powerful internet-based entities we have learned that we need to impose rules that specify what entities can and cannot do with personal·information  
+· without effective rules, companies like Facebook, Google, and many others feel free to do whatever they want with personal·data as long as they make money from those actions  
 · through their actions (and sometimes through public announcements), companies are asking to be regulated  
 · the human·internet is the answer to their requests  
 
+> the **human·internet** aims to leverage the most advanced technology available to people to protect their identity, enforce their right to privacy, and secure their personal data
+
+in the human·internet, entities are punished if they do not follow the rules  
+· but, as we have seen time and time again, companies cannot be trusted to abide by rules on their own, even with the threat of punishment    
+· these companies attribute any fines incurred by breaking the rules as another operating cost  
+· however, the human·internet provides infrastructure that makes it easy for companies who work with personal·data to follow the rules  
+· the infrastructure of the human·internet uses the policies and rules of the ecosystem as the framework on which its operations are implemented  
+· therefore, the natural state of personal·data in the ecosystem is *private*  
+· only the entities that the data·owner authorizes can access that person’s data, and the data is kept secured through minimal effort by those entities   
+· entities who put personal·data at risk do so because they perform perilous, nonstandard actions on data, such as not protecting it using strong security measures including encryption     
+· the ecosystem facilitates remedial actions against entities who put personal·data, and the safety of its owners, at risk  
+
+in addition to securing personal·data, the human·internet provides its users stronger means of 
+managing their identity  
+· the human·internet does not support anonymity  
+· when people publish content that others can view, the viewers can readily identity the source of the content  
+· this helps to combat the spread of false information by entities with nefarious motives, such as the **Russian Federation** does in its drive to sew mistrust and hate throughout the world  
+
+the human·internet also provides more useful ways to consume content that are possible on the internet  
+· the ecosystem follows closely the concepts and ideas spoused by [**Ted Nelson**][Ted·Nelson], the originator of hypertext and hypermedia   
+· his concepts provide for a more immersive and information content-consumption experience, one that is especially useful for people who do a lot of research  
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -522,7 +548,7 @@ when you give another person or entity direct·access to your datapod, that pers
 &nbsp;  
 
 
-### *you* are the *platform*
+### *You* are the *platform*
  the internet of today is full of companies that create *platforms*  
 · Amazon is an ecommerce platform  
 · Facebook is a social and communication platform  
@@ -1218,3 +1244,4 @@ while the preliminary infrastructure of the human·internet is implemented, enti
 [Boeing]: https://www.boeing.com/company "About Boeing"
 [Eli_Lilly]: https://www.lilly.com/who-we-are "About Eli Lilly"
 [Airbus]: https://www.airbus.com/company/we-are-airbus.html "About Airbus"
+[Ted·Nelson]: https://en.wikipedia.org/wiki/Ted_Nelson "Wikipedia: Ted Nelson"
