@@ -42,10 +42,10 @@ this document discusses the values, principles, and policies of the human·inter
 sections:  
 
   * [INTRODUCTION](#introduction)
+  * [THE FUTURE](#the-future)
   * [THE HUMAN·INTERNET](#the-humaninternet)
-  * [CUSTOMERS AND BAIT](#customers-and-bait)
-  * [EYES FORWARD](#eyes-forward)
   * [VISION, PRINCIPLES, VALUES](#vision-principles-values)
+  * [CUSTOMERS AND BAIT](#customers-and-bait)
   * [IDENTITY, ENCRYPTION](#identity-encryption)
   * [POWER TO YOU](#power-to-you)
   * [POWER TO THE PEOPLE](#power-to-the-people)
@@ -174,102 +174,7 @@ organizations like Peoples will use the open·source software that defines the n
 &nbsp;  
 
 
-## THE HUMAN·INTERNET
-a lot of the problems we find in the internet stem from the fact that it has no human·values  
-· other than redundancy, speed, and efficiency, the internet is a amoral construct, created to provide a reliable means of communication to humanity  
-· we need a humane internet with values and principles that reflect the best of humanity  
-
-with time and by the misdeeds of powerful internet-based entities we have learned that we need to impose rules that specify what entities can and cannot do with personal·information  
-· without effective rules, companies like Facebook, Google, and many others feel free to do whatever they want with personal·data as long as they make money from those actions  
-· through their actions (and sometimes through public announcements), companies are asking to be regulated  
-· the human·internet is the answer to their requests  
-
-> the **human·internet** aims to leverage the most advanced technology available to people to protect their identity, enforce their right to privacy, and secure their personal data
-
-in the human·internet, entities are punished if they do not follow the rules  
-· but, as we have seen time and time again, companies cannot be trusted to abide by rules on their own, even with the threat of punishment    
-· these companies attribute any fines incurred by breaking the rules as another operating cost  
-· however, the human·internet provides infrastructure that makes it easy for companies who work with personal·data to follow the rules  
-· the infrastructure of the human·internet uses the policies and rules of the ecosystem as the framework on which its operations are implemented  
-· therefore, the natural state of personal·data in the ecosystem is *private*  
-· only the entities that the data·owner authorizes can access that person’s data, and the data is kept secured through minimal effort by those entities   
-· entities who put personal·data at risk do so because they perform perilous, nonstandard actions on data, such as not protecting it using strong security measures including encryption     
-· the ecosystem facilitates remedial actions against entities who put personal·data, and the safety of its owners, at risk  
-
-in addition to securing personal·data, the human·internet provides its users stronger means of 
-managing their identity  
-· the human·internet does not support anonymity  
-· when people publish content that others can view, the viewers can readily identity the source of the content  
-· this helps to combat the spread of false information by entities with nefarious motives, such as the **Russian Federation** does in its drive to sew mistrust and hate throughout the world  
-
-the human·internet also provides more useful ways to consume content that are possible on the internet  
-· the ecosystem follows closely the concepts and ideas spoused by [**Ted Nelson**][Ted·Nelson], the originator of hypertext and hypermedia   
-· his concepts provide for a more immersive and information content-consumption experience, one that is especially useful for people who do a lot of research  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
-
-## CUSTOMERS AND BAIT
-> you are *not* the customer  
-> you are the **bait**  
-
-&nbsp;
-
-
-internet·companies can do a lot with personal·data  
-· current technology allows them to find out a lot about us  
-· unfortunately for us, we are not their customer  
-· they use information about us to provide services or advise to their real customers, such as advertisers, insurance companies, and banks  
-
-internet·companies can do many “innovative” things with personal·data because they 
-practice *irresponsible·disruption*  
-· they make products and services available for purchase that are little more than experiments  
-· they “move fast and break things”  
-· they are beholden only to their mantra of generating growth and maximizing value for their shareholders  
-· they use data about us in any way they want, not only because of the lack of laws and rules but also because we are being desensitized to the value of our data  
-
-we share freely our social, health, location, financial and other kinds of intimate information, which we used to keep secret  
-· internet·companies have developed innocent-looking and practical mechanisms to push us to share things like our tastes (likes), our whereabouts (check-ins), and our political leanings (groups)  
-· by collating such information about hundreds, thousands, and millions of us, a few powerful companies have the resources needed to manipulate large swaths of people, *to change our minds*  
-· our data is the key to our souls, and the holders of those keys are no [angels](https://youtu.be/C2Ag1iQKWeM "Data spies: The dark and shady practices of Silicon Valley | Roger McNamee")  
-· our data is not being used with our best interest in mind   
-
----
-advertisers spend a lot of resources getting their ads to be viewed by a specific audience, but they are not spending enough on the ad-consumption experience    
-· ads are content that we do not want to see and mostly ignore (except, for some of us, on the first Sunday in February)  
-· this means that, systemically, resources are being used inefficiently  
-
-![](_images/ads.png)  
-&nbsp;
-
-content that is more tailored to you and your sensitivities would be more effective in helping advertisers to establish real connections with you that are mutually beneficial  
-· content companies should not treat you as bait for advertisers  
-· they should consider you another customer, who has needs for connection similar to the needs of the advertisers they serve  
-
-the human·internet uses *entity·introductions* instead of ads  
-· **entity·introductions** are very similar to introductions made by matchmakers  
-· the matchmaker knows information about two parties that help sie determine whether they should connect  
-· the two other parties may not know each other, but they trust the matchmaker implicitly because of their past experiences with sie or eir reputation and knowledge   
-
-in the human·internet, instead of advertisers targeting the members of a network either blindly or using certain criteria, they share information with a content·provider, which could provide information services 
-to content·consumers  
-· the advertiser can request an introduction to a particular person or anyone matching some criteria  
-· the content·provider then may present the introduction to the person, identifying to sie the information used to make the match  
-· if the content·provider presents the invitation to the person (or a set of people), sie is then free to act on it as sie sees fit, depending on the options the invitation provides   
-· the content·provider, however, may decide that the introduction is not appropriate for any reason, and may, or may not, notify the advertiser of its decision  
-
-the advertisers who request entity·introductions to specific persons must prove that the information they provide that identifies the individual (name, picture, birthplace, and so on) was obtained from an entity authorized by the person to have that information  
-· the content·provider is responsible for ensuring that the advertiser obtained the personal·information used to request the entity·introduction from an authorized·entity  
-· if content·providers make many inappropriate or annoying introductions to a particular person, the person may not let the content provider present sie entity·invitations, or sie may stop using that particular content·provider and switch to another that provides a better experience and shows more respect for it content·consumers  
-· this will contribute to a better “ad” experience for people, and better relations with customers for advertisers, based on respect for the individual    
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
-
-## EYES FORWARD
+## THE FUTURE
 > to move humanity forward, *people* must reshape the business·model of the [personal·information oligarchs][personal·information_oligarchs], who mine, package, and process your life for profit, while putting your identity, privacy, and security at risk  
 
 &nbsp;  
@@ -278,7 +183,7 @@ the future *is not* intelligent computing available only to big corporations
 · the future *is* people having the power of today’s desktop workstations on their wrists, today’s [high·performance·computing][high·performance·computing] available in their hands, and [exascale·computing][exascale·computing] power available on their laps and desks  
 
 the future *is not* your information spread over data·silos everywhere, controlled by profit-blinded, unscrupulous, and criminal organizations  
-· the future *is* a **datapod** (a managed collection of data and content controlled by you, the data·owner) with your data, accessed by trusted, responsible, and principled entities, who process your information on *your* behalf  
+· the future *is* a **datapod** (a managed collection of data and content controlled by you, the data·owner) with your data, accessed by trusted, responsible, and principled entities, who process your information on *your* behalf not theirs  
 
 the future *is not* one monumentally flawed interpretation of [social·computing][social·computing]  
 · the future *is* many interpretations of social·computing that are culturally sensitive, catered towards entertainers, politicians, intellectuals, teenagers, seniors, rocket·scientists, astronomers, biologists, swimmers, sky·divers, race·car·drivers, bicyclists, runners, dentists, surgeons, teachers, tailors, architects, runway·models, firefighters, police·officers, and lawyers, each with their own practices, norms, acceptable content, and so forth, which are *not* specified by companies with their eyes glued to the bottom lines of their balance sheets  
@@ -298,18 +203,62 @@ and this amazing power will be owned and controlled by *people*
 the internet has gotten the way it is—dominated by entities who use personal·information to make money, and the home of criminals who steal information from its rightful owners—because it was developed without human 
 values or principles  
 · its creators could not have imagined the wonderful innovation it would facilitate  
-· they also could not have imagined the abuse, disrespect, and contempt for digital·life that its major users would bring to humanity  
+· they also could not have imagined the abuse, disrespect, and contempt for the digital·life of individuals that its major users would bring to humanity  
 
 *we* must take the initiative in the digitization of our lives  
 · companies, *all of them,* have demonstrated that their motives are always skewed toward profit, 
 if not pure greed  
 · while making a profit is good in general, something is lost when every aspect of humanity is viewed through the lens of profitability  
-· [Boeing][Boeing] had this view when it decided to offer for sale a [flawed, unsafe plane,][Boeings_plane] to try to compete against better-designed planes by [Airbus][Airbus], and put in peril the lives of the millions of people who fly every day  
-· [Eli Lilly][Eli_Lilly] and other drug manufacturers make [large profits][insulin_prices] out of the lives of people with diabetes because they can; people generally pay anything to stay alive  
+· [Boeing][Boeing] had this view when it decided to offer for sale a [flawed, unsafe plane,][Boeings_plane] to try to compete against better-designed planes from [Airbus][Airbus], and put in peril the lives of the millions of people who fly every day  
+· [Eli Lilly][Eli_Lilly] and other drug manufacturers make [large profits][insulin_prices] out of the lives of people with diabetes because *they can*; people generally pay anything to stay alive  
 · and Facebook uses the data we willingly (and unwillingly) provide about ourselves to generate large amounts of revenue and profits without regard to the risks to our privacy and safety, despite any public pronunciations of its executive officers, as former employees and internal communications demonstrate  
 
 no, we, *the people,* must take charge of our own digital·life  
 · the behemoths can join us under our terms or stay behind  
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+
+## THE HUMAN·INTERNET
+> the internet needs to reflect humanity, and humanity needs digital·connection  
+
+&nbsp;  
+
+a lot of the problems we find in the internet stem from the fact that it has no human·values  
+· even though it provides fast, efficient, and resilient digital·communication, the internet is a amoral construct, created to provide a reliable means of communication to humanity  
+· we need a *humane* internet, possessing values and principles that reflect the best of humanity  
+
+with time and through the misdeeds of powerful internet-based entities, we have learned that we need to impose rules that specify what entities can and cannot do with our personal·information  
+· without effective rules, companies like Facebook, Google, and many others feel free to do whatever they want with personal·data as long as they make money from those actions  
+· through their actions (and sometimes through public announcements), companies are asking to be regulated  
+· the *human·internet* is the answer to their requests  
+
+> the **human·internet** aims to leverage the most advanced technology available to people to protect their identity, enforce their right to privacy, and secure their personal data
+
+companies ask for regulation, but why should we trust that they will follow new rules when they have shown so much disdain and disregard for *existing* rules?  
+· as we have seen time and time again, companies cannot be trusted to abide by rules on their own, even with the threat of punishment    
+· these companies attribute any fines incurred by breaking the rules as another operating cost  
+· they also lobby intensely to curtail or weaken rules that are incompatible with their goals or business·practices  
+
+in the human·internet, entities are punished if they do not follow the rules  
+· however, the human·internet provides infrastructure that makes it easy for companies who work with personal·data to follow the rules  
+· the infrastructure of the human·internet uses the policies and rules of the ecosystem as the framework on which its operations are implemented  
+· therefore, the natural state of personal·data in the ecosystem is *private*  
+· only the entities that the data·owner authorizes can access that person’s data, and the data is kept secured through minimal effort by those entities   
+· entities who put personal·data at risk do so because they perform perilous, nonstandard actions on data, such as not protecting it using strong security measures including encryption     
+· the ecosystem facilitates remedial actions against entities who put personal·data, and the safety of its owners, at risk  
+
+in addition to securing personal·data, the human·internet provides its users stronger means of 
+managing their identity  
+· the human·internet does not support anonymity  
+· when people publish content that others can view, the viewers can readily identity the source of the content  
+· this helps to combat the spread of false information by entities with nefarious motives, such as the **Russian Federation** does in its drive to sew mistrust and hate throughout the world  
+
+the human·internet also provides more useful ways to consume content that are possible on the internet  
+· the ecosystem follows closely the concepts and ideas spoused by [**Ted Nelson**][Ted·Nelson], the originator of hypertext and hypermedia   
+· his concepts provide for a more immersive and informative content-consumption experience, one that is especially useful for people who do a lot of research  
 
 &nbsp;  
 &nbsp;  
@@ -370,6 +319,77 @@ the human·internet values describe the behaviors expected of all participants i
   · we provide first-class service to people and to those who help them  
   * **excellence**  
   · we strive for and seek excellence in everything we do  
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+
+## CUSTOMERS AND BAIT
+> you are *not* the customer  
+> you are the **bait**  
+
+&nbsp;
+
+the goals of internet companies, like those of most companies, include maximizing profits and shareholder value  
+· they accomplish their goals through objectives like these:  
+
+* collecting data about people, either directly or through data·brokers    
+* convincing people to share as much intimate information as possible  
+* using data about people to target them with advertising and other messaging that may be detrimental to them  
+* innovating in data·collection and data·processing using artificial·intelligence and other techniques  
+* using *any* approach necessary to grow their data collections, even breaking laws and regulations, disrespecting  individuals, and trampling on their right to privacy  
+
+the human·internet changes the way advertisers get their message to people, making it more respectful of people’s personal·data, their privacy, and their time  
+
+&nbsp;
+
+internet·companies can do a lot with personal·data  
+· current technology allows them to find out a lot about us  
+· unfortunately for us, we are not their customer  
+· they use information about us to provide services or advise to their real customers, such as advertisers, insurance companies, and banks  
+
+internet·companies can do many “innovative” things with personal·data because they 
+practice *irresponsible·disruption*  
+· they make products and services available for purchase that are little more than experiments  
+· they “move fast and break things”  
+· they are beholden only to their mantra of generating growth and maximizing value for their shareholders  
+· they use data about us in any way they want, not only because of the lack of laws and rules but also because we are being desensitized to the value of our data  
+
+we share freely our social, health, location, financial and other kinds of intimate information, which we used to keep secret  
+· internet·companies have developed innocent-looking and practical mechanisms to push us to share things like our tastes (likes), our whereabouts (check-ins), and our political leanings (groups)  
+· by collating such information about hundreds, thousands, and millions of us, a few powerful companies have gained the resources needed to manipulate large swaths of people, *to change our minds*  
+· our data is the key to our souls, and the holders of those keys are no [angels](https://youtu.be/C2Ag1iQKWeM "Data spies: The dark and shady practices of Silicon Valley | Roger McNamee")  
+· our data is not being used with our best interest in mind   
+
+---
+advertisers spend a lot of resources getting their ads to be viewed by a specific audience, but they are not spending enough on the ad-consumption experience    
+· ads are content that we do not want to see and mostly ignore (except, for some of us, on the first Sunday in February)  
+· this means that, systemically, resources are being used inefficiently  
+
+![](_images/ads.png)  
+&nbsp;
+
+content that is more tailored to you and your sensitivities would be more effective in helping advertisers to establish real connections with you that are mutually beneficial  
+· content companies should not treat you as bait for advertisers  
+· they should consider you another customer, who has needs for connection similar to the needs of the advertisers they serve  
+
+the human·internet uses *entity·introductions* instead of ads  
+· **entity·introductions** are very similar to introductions made by matchmakers  
+· the matchmaker knows information about two parties that help sie determine whether they should connect  
+· the two other parties may not know each other, but they trust the matchmaker implicitly because of their past experiences with sie or eir reputation and knowledge   
+
+in the human·internet, instead of advertisers targeting the members of a network either blindly or using certain criteria, they share information with a content·provider that provides information services 
+to consumers  
+· the advertiser can request an introduction to a particular person or anyone matching some criteria  
+· the content·provider may then present the introduction to people, identifying to them the information used to make the match  
+· if the content·provider presents the invitation to people, they are free to act on it as they see fit, depending on the options the invitation provides   
+· the content·provider does not identify the people who received the invitation to the advertiser  
+
+entity·introductions protect personal·data and provide people with a pleasant experience while interacting with advertiser content  
+· advertisers who request entity·introductions to specific persons must prove that the information they provide that identifies the individual (name, picture, birthplace, and so on) was obtained from an entity authorized by the person to have that information  
+· if content·providers make many inappropriate or annoying introductions to a particular person, the person may not let the content provider present sie entity·invitations, or sie may stop using that particular content·provider and switch to another that provides a better experience and shows more respect for its human customers  
+· this will contribute to a better “advertising” experience for people, and better relations with potential customers for advertisers, based on respect for the individual    
 
 &nbsp;  
 &nbsp;  
@@ -1197,7 +1217,7 @@ while the preliminary infrastructure of the human·internet is implemented, enti
 
 
 ---
-2019.05.23:12  
+2019.05.28:13  
 
 [free_humanity]: https://github.com/ernest-bruce/human-internet/blob/master/free_humanity/free_humanity.md#freeing-humanity-from-the-shackles-of-greed "Freeing Humanity from the Shackles of Greed"
 [internet_plan-internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#internet "Internet (A Plan for a Private, Safe, and Secure Internet)"
