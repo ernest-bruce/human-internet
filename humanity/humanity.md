@@ -274,10 +274,10 @@ the internet lacks values
 without a vision and values geared towards humans, the internet infrastructure is incapable of 
 reflecting humane traits  
 · nothing in its specifications and implementation say anything about guaranteeing the privacy, security, and safety of its human participants  
-· because of that, it is easy for many entities on the internet to dedicate themselves to separate people from their money or to capture data about them and use it to obtain revenue, not to improve the human condition  
+· because of that, it is easy for many entities on the internet to dedicate themselves to separating people from their money, or to capturing data about them and use it to obtain revenue, not to improving the human condition  
 · *this is unsustainable, self-destructive behavior*  
 · people eventually revolt against entities that operate against their best interests    
-· just as with the [financial sector][industry_regulation] years ago, people will not take this anymore and will rebel against the companies that abuse them  
+· just as with the [financial·sector][industry_regulation] decades ago, people will get fed up and rebel against the companies that abuse them  
 
 the internet of tomorrow, the human·internet, has a vision, principles, *and* values that guide its participants in their journey to help people be better people, and to move humanity forward  
 
@@ -285,7 +285,7 @@ the internet of tomorrow, the human·internet, has a vision, principles, *and* v
 &nbsp;  
 
 ### Vision
-the human·internet vision guides every aspect of its operation:  
+the **Human·Internet Vision** guides every aspect of the network’s design, implementation, and operation:  
 
   * **bring technological advancement** to individuals, societies, and humanity  
   * **educate** entities in the humane treatment of individuals and their personal·information  
@@ -295,7 +295,7 @@ the human·internet vision guides every aspect of its operation:
 
 
 ### Principles
-the human·internet principles guide the development of human-centric technologies, policies, and rules used in the ecosystem:
+the **Human·Internet Principles** guide the development of human-centric technologies, policies, and rules used in the ecosystem:
 
   * entity·data belongs to the owner, who maintains total control over it  
   * entity·data must remain *private*   
@@ -307,7 +307,7 @@ the human·internet principles guide the development of human-centric technologi
 
 
 ### Values
-the human·internet values describe the behaviors expected of all participants in the ecosystem  
+the **Human·Internet Values** describe the behaviors expected of all participants in the ecosystem  
 · violations to these values are grounds for suspension or expulsion from the ecosystem  
 · you can remember these values using the acronym RISE:  
 
@@ -398,24 +398,30 @@ entity·introductions protect personal·data and provide people with a pleasant 
 
 ## IDENTITY, ENCRYPTION
 the current internet infrastructure does not provide the protections required to guarantee the privacy and security of personal·data  
-· a new infrastructure is needed, based on *real·identity* and strong encryption  
+· a new infrastructure is needed that is based on *attested·identity* and *strong·encryption*  
+· to effectively protect your identity and your personal·data, this infrastructure must:
+
+* guarantee that you deal with *real people* and the ones you expect, and that others know that they are dealing with you and not an imposter  
+* make the natural state of your personal·data *unreadable* by entities you have not authorized to access it  
+
+&nbsp;
 
 there are a number of [initiatives](http://identity.foundation "Decentralized Identity Foundation") and [projects](https://www.theverge.com/2019/3/4/18249895/web-authentication-webauthn-world-wide-web-consortium-w3c-standard-browsers "The Verge: The web just took a big step toward a password-free future") that aim at providing strong identity on the internet  
-· but they are *worthless* if they do not have as their foundation a link to a person’s *real* identity (using credentials such as passports or other government-issued identification which include identifiers such as photo, name, and birthdate) and are unable to guarantee that someone cannot assume a fake identity (or an identity that does not belong to that person) using contrived or stolen credentials  
+· but they are *worthless* if they do not have as their foundation a link to a person’s *real* identity (using credentials such as passports or other government-issued documents that include identifiers such as photo, name, and birthdate)  
+· without those guarantees, these systems are unable to guarantee that someone cannot assume a fake identity (or an identity that does not belong to that person) using contrived or stolen credentials  
 · *privacy* is not the same as *anonymity*  
-· in the human·internet, the former is desired, the latter is not  
+· in the human·internet, privacy is enforced and anonymity is not allowed  
 
 you must be able to trust that every entity you deal with in the digital·world is real  
-· the infrastructure on which entities operate must guarantee that they (individuals and organizations) are legal entities whose identities have been attested by trusted and accredited human·beings, such as notaries·public  
-· this attestation must be done every five years  
+· the infrastructure on which entities operate must guarantee that they (individuals and organizations) are legal entities whose identities have been attested by trusted and accredited human·beings, such as notaries·public (this attestation must be done every five years)  
 · no entity can be anonymous or use false identifying information to connect with other entities or publish content  
 · you must be able to easily and *immediately* verify the source of any content you see to determine its authenticity  
 
-a second necessary aspect of protecting a person’s privacy is encryption  
-· personal·information must be strongly digitally locked so that entities who somehow get access to that information are not able to read it  
-· only entities with authorization from the owner of a particular set of data should have the key with which that data can be decrypted  
+a second necessary aspect of protecting a person’s privacy is *encryption*  
+· personal·information must be digitally locked so that entities who somehow get access to that information are not able to read it  
+· only entities with authorization from the owner of a particular set of data should have the key with which that data can be unlocked (decrypted)  
 · entities with control over encrypted personal·data must perform decryption operations in specialized devices that are strongly protected from access by all entities  
-· these devices are called secure elements  
+· these devices are called [secure·elements][secure·element]  
 
 &nbsp;  
 &nbsp;  
@@ -428,7 +434,7 @@ a second necessary aspect of protecting a person’s privacy is encryption
 
 &nbsp;
 
-the closer you are to your data, the more use you get our of it  
+the closer you are to your data, the more use you get out of it  
 · your data should be at your fingertips, without the need for a phone call or email requesting it from those with control over what is rightfully yours  
 · reviewing your latest medical test with your doctor’s notes while comfortably sitting on your couch is your right  
 · being able to do that on your 4K television would be nothing short of amazing  
@@ -442,15 +448,23 @@ your personal·information is more important than any corporation’s business·
 when you stop liking an airline, you fly with another one  
 · there will not be another copy of you continuing to fly that undesirable airline  
 
-*in the human·internet, your data is the center of the universe, all things and entities revolve around it*  
+&nbsp;
+
+> in the human·internet, your data is the center of the universe, all things and entities revolve around it  
+
+&nbsp; 
+
+to give power to you, the human·internet:  
 
 &nbsp;  
 &nbsp;  
 
 
-### Eliminating data·silos
+### 1. Eliminates data·silos
 ![](_images/data_silos.png)
 &nbsp;
+
+*your data, instead of being duplicated and distributed among the companies you deal with, is stored in one place, and is managed by you*  
 
 internet·companies control your personal·information to make you use their products because those products may be inferior to similar products from other providers (remember, your benefit is a miniscule component of their growth strategy)  
 · their goal is to collect as many users as possible, not to actually be helpful to them  
@@ -461,7 +475,7 @@ internet·companies control your personal·information to make you use their pro
 these companies generally form **data·silos,** places that maintain collections of personal·data that provide them with business advantages  
 · but for individuals and society, data·silos are both wasteful *and* ineffective  
 · for example, healthcare providers would provide more effective service if they were able to access your entire body of health·information, not just the information they obtained directly from you or from other medical organizations that use compatible systems, or information they received through email, regular mail, or *faxes*  
-· they would benefit from knowing that you actually took the medicine doctor prescribed at the appropriate times, and that you have been active the past week, by being able to see how many steps you took and your heart·rate  
+· they would benefit from knowing that you actually took the medicine doctors prescribed at the appropriate times, and that you have been active the past week, by being able to see how many steps you took, and your heart·rate during that activity  
 · with comprehensive information in digital·form, doctors would make thoroughly informed and timely decisions, and the system as a whole would be more efficient, wasting fewer resources on the storage and maintenance of duplicate or redundant copies of health·information  
 
 the data·silos healthcare·providers and health·plans rely on make for an ecosystem that forces you to ensure that the records each entity keeps on you are correct  
@@ -477,7 +491,7 @@ credit reporting agencies duplicate data amongst themselves, and control data th
 · while such information would be modifiable only by them, you would be able to view and analyze it at no cost, anytime you like  
 · with that information readily available (not only once a year), you would be able to make informed decisions related to your creditworthiness and would not have to seek reports from several agencies to ensure that all of them have the correct information  
 · and when they fix their mistakes, you would be able to confirm it on the spot, in the place that serves as the authoritative store of that information  
-· a single store of credit·data in your datapod would result in more efficient interactions regarding your credit·information  
+· a single store of credit·data results in more efficient interactions regarding your credit·information  
 · not to mention that these entities have proven incapable to protect the valuable information they control, with Equifax putting millions of people in [peril][Equifax·breach], for example  
 · in addition to not protecting your information, companies like Equifax do their best not to disclose the extent of the damage their negligence or incompetence causes people, which shows how little respect they have for their product (you *are not* their customer; you and your data are the *product* they offer their real customers)  
 
@@ -485,7 +499,9 @@ credit reporting agencies duplicate data amongst themselves, and control data th
 &nbsp;  
 
 
-### Owning your data
+### 2. Gives you real ownership over your data
+*companies that work with your data operate on your datapod, the authoritative store of your personal·data; your data is permanent and universal, which gives you options regarding how your data is processed and by whom it is processed; entities who collect data about you must have your permission to do so, and they must store that data in your datapod*  
+
 personal·data outlasts any [product](https://www.theverge.com/2019/3/1/18246794/microsoft-band-refunds-apps-services-end-of-support-may-fitness-tracker "The Verge: Microsoft to offer Band refunds, announces end of apps and services"), any company, and any business·model  
 · as the owner of your data, you must be able to have any capable entity manage and process it on your
  behalf  
@@ -494,23 +510,28 @@ personal·data outlasts any [product](https://www.theverge.com/2019/3/1/18246794
 
 businesses come and go, your data is permanent and universal  
 · a diabetic wants easy and immediate access to eir glucose levels from eir handheld, tablet, and desktop devices at all times  
-· the comprehensive health·data you capture today, such as your step count and heart rate, may provide you and healthcare·professionals critical information while researching a health issue 20 years from now  
+· the comprehensive health·data you capture today, such as your step·count and heart·rate, may provide you and healthcare·professionals critical information while researching a health issue 20 years from now  
 · that health·data must be as useful in 20 years as it is today, regardless of the hardware and software used to capture it  
 
 to ensure that data remains useful to its owner as long as the owner is alive or a going·concern, we need lasting data·models that are not tied to a particular company  
-· when companies introduce products that have to do with personal·information, they need to submit those plans for consideration and further development to the **Human·Internet·Consortium** (an organization composed of entities who participate in the human·internet)  
+· when companies introduce products that have to do with personal·information, they need to submit those plans for consideration and further development to the **Human Internet Consortium** (an organization composed of entities who participate in the human·internet)  
 · there, those ideas are considered as part of a “whole person” and “whole society” data·infrastructure with the aim of ensuring that records produced using the resulting data·models and interaction·models are supported by the entire ecosystem, not just by the company who introduced the models  
-· in other words, universal data usability is assured at a fundamental level during feature design, not as an afterthought  
+· in other words, *universal data usability* is assured at a fundamental level during feature design, not as an afterthought  
 · we have seen how often companies introduce products to the marketplace that they view as testing platforms (funded by individuals sold on sales pitches), and later they leave individuals and even other companies and governments in the lurch, with data that is largely useless, unless it is translated into a different format or structure  
 · in the human·internet, companies are free to innovate, but they innovate responsibly, with the needs and rights of individuals and humanity as their guiding light  
-· *the human·internet leaves no data behind*  
+
+&nbsp;
+
+> the human·internet leaves no data behind  
+
+&nbsp;
 
 the beneficiaries of rich personal·datasets must include the subjects and owners of that data, not just the entities who collect or compute the data  
 · the companies who collect your data have shown that they are incapable of respecting 
 and protecting it  
 · they also have a tendency to abuse their access to your data  
 · no matter their size, they are often breached, share your data with entities you do not know, or use it in ways they have not disclosed to you  
-· or if they have, they did it on the legally binding contract you entered with them when you clicked Agree before starting to use their product or service
+· or if they have, they did it on the legally binding contract you entered with them when you clicked Agree before starting to use their product or service  
 · have you read *any* of those usage·agreements?  
 
 in a people-centric digital·universe, *all* your data (all data about you) is stored in your datapod  
@@ -537,7 +558,9 @@ your data stored in a datapod provides several benefits:
 &nbsp;  
 
 
-### Authorizing data·specialists to access your data
+### 3. Allows entities that specialize in particular types of data to operate on people’s personal·data
+*you authorize such entities, known as *data·specialists*, to access your datapod to work on your behalf with the type of data you authorize*  
+
 a **data·specialist** is an entity capable of interacting with datapods  
 · there can be health·data·specialists, such as healthcare·providers, and health·plans; social·data·specialists, such as social·services; and financial·data·specialists, such as banks and investment·firms  
 · these specialists are further divided into *data·consumers* and *data·managers*  
@@ -558,17 +581,23 @@ only the entities a datapod’s owner authorizes can manipulate eir datapod data
 &nbsp;  
 
 
-### Sharing your data with trusted people
+### 4. Lets you give others direct access to your data
+*you can designate trusted people as your *personal·agents,* which allows them to access your datapod so that they can perform actions on your behalf in case you are incapacitated; this facilitates their access to information that you want kept from everybody else but that would be useful for them to have when you cannot provide it yourself*  
+
 a strong identity·infrastructure provides people and organizations with significant capabilities  
-· the flexible authentication and authorization features available in the human·internet allow you to grant trusted individuals (and even some organizations) direct·access to your data, in case you are incapacitated or need others to have such access, such as your spouse  
+· the flexible authentication and authorization features available in the human·internet allow you to grant trusted individuals (and even some organizations) direct·access to your data, in case you are incapacitated or need others to have such access, such as your spouse or a person with power·of·attorney privileges  
 
-when you give another person or entity direct·access to your datapod, that person can access it with the same flexibility you have, through the data·specialists you have authorized to access your datapod   
+when you give another person or entity direct·access to your datapod, that person, known as a **personal·agent,** can access it with the same flexibility you have, through the data·specialists you have authorized to access 
+your datapod   
+· however, you may limit the access of each personal·agent (or attorney·in·fact) to specific areas, such as health·data or financial·data  
 
 &nbsp;  
 &nbsp;  
 
 
-### *You* are the *platform*
+### 5. Makes *you* the platform  
+*instead of going through intermediaries like Twitter or Facebook, you publish content as your own platform; people can follow your thoughts or your more comprehensive posts, not your Twitter tweets or your Facebook posts*  
+
  the internet of today is full of companies that create *platforms*  
 · Amazon is an ecommerce platform  
 · Facebook is a social and communication platform  
@@ -596,7 +625,7 @@ the human·internet has no social·networks, it has *social·services*
 · the network is you  
 · people follow you, they subscribe to your content, they get notified when you publish new articles dealing with sports, the automobile industry, or politics  
 · Facebook, Twitter, Medium, and similar entities do not stand in between you and your audience  
-· you are the content producer, moderator, and editor in chief  
+· you are the content producer, moderator, and editor·in·chief  
 · a social·service (a role that any entity can take) uses your network as the source of social·data about you  
 · therefore, any social·service you use works off the same information, which gives you great flexibility regarding your social·experience  
 
@@ -608,64 +637,75 @@ whether you are an influencer or a newbie, you do not need a platform like Insta
 &nbsp;  
 
 
-### Publishing and viewing whatever you want
+### 6. Lets you publish and view any content you want
+*you have total control over the content you publish and view; you are the master of your domain and are free to express yourself in whatever way you see fit; you can also view any content you want from any source you choose; but you bear total responsibility for the content you publish*
+
 in the human·internet, no one dictates what content you can publish and what content you can view on your devices  
 · you are your own platform, and you have freedom of speech  
 · you can publish any legal content you want  
-· no one can tell you what to publish and what not to publish  
+· no one tells you what to publish and what not to publish  
 
-on the other hand, you can specify the type of content you want to view, and your desired sources for content  
+on the other hand, you can specify the type of content you want to view, and your desired sources for that content  
 · if you do not find a source credible (even after verifying its identity), you can add it to your undesirable·sources list, or remove it from your desirable·sources list  
 
 you have total control over the content you publish and the content you view because this is the human·internet, *your* internet  
 · however, you bear *total responsibility* for the content you publish  
-· publishing unlawful and harmful content, such as shootings and murders, can put you the cross·hairs of law enforcement, whom may arrest, prosecute, and convict you  
-· remember, you cannot hide under a false identity in the human·internet  
+· publishing unlawful and harmful content, such as shootings and murders, can put you in the cross·hairs of law·enforcement, whom may arrest, prosecute, and convict you  
+· remember, you cannot hide under anonymity or a false identity in the human·internet  
 
 &nbsp;  
 &nbsp;  
 
 
-### Sharing different aspects of your life
+### 7. Allows you to divide your digital·life into facets
+*each facet represents an aspect of your life that you want your followers to be able to follow individually, without bothering with the rest of your digital·life; for example, people are able to follow only your professional·life and avoid getting pictures of your cute cat’s life*  
+
 you may have a personal life, a professional life, and a political life, which you manage using three social-networking platforms, such as Facebook, LinkedIn, and Twitter  
 · some platforms let you crosspost to others, for example, a Facebook post can be duplicated in a Twitter tweet  
-· because of the different capabilities and limitations of the platforms (for example, Twitter’s limit on the length of tweets) this is a broken way to bridge multiple aspects of your life  
+· because of the different capabilities and limitations of the platforms (for example, Twitter’s limit on the length of tweets) this is a flawed way to bridge multiple aspects of your life  
 
-in the human·internet *you* are your own platform; therefore, you do not need other platforms to define you or any aspect of your digital·life  
-· you can use different *facets* of digital·life to compartmentalize your life both for your sake and for the benefit of those who are interested in your life, making it easier on you and your followers to produce and consume content  
+in the human·internet, *you* are your own platform; therefore, you do not need other platforms to define you or any aspect of your digital·life  
+· you can use different *facets* of digital·life to compartmentalize your life both for your sake and for the benefit of those who are interested in your life, making it easier on you to produce content and your followers to consume it  
 · people can follow the “whole you” or only the “professional you”  
 · although you have a single identity, it can be separated into facets that can be used across services  
-· therefore, instead of “follow me at @*you*,” you can tell people interested in your political musings “follow me at *you*~politics”  
-· and, when you need to publish a though or comment on more than facet, the same item is expressed on all the appropriate facets, giving its consumers the complete item without artificial limits placed on its expression  
+· therefore, instead of “follow me at @*you*,” you can tell people interested in your political musings “follow me at @*you~politics*”  
+· and, when you need to publish a though or comment on more than facet, the same item is expressed on all your chosen facets, giving its consumers the complete item without artificial limits placed on its representation  
 
 &nbsp;  
 &nbsp;  
 
 
-### Founding groups and communities
+### 8. Provides the means to create groups and communities
+*these entities are platforms of their own, allowing you to develop connections with a large number of people with common interests*  
+
 you can found groups and communities that are platforms of their own  
-· if you want to be part of a platform that is bigger than yourself, you can start groups or communities that exhibit traits you share with others  
+· if you want to create a platform that is bigger than yourself, you can start groups or communities that exhibit traits you share with others  
 · groups and communities can establish rules for membership and acceptable content   
 · they may also develop capabilities that present specialized content or facilitate custom interactions 
 between members  
 
-these entities could be the foundation of mini social·services that may satisfy the belonging needs of most people, eliminating the need to join generalized social-networking platforms that are incapable of catering to particular audiences, and whose goals are not to help individuals, societies, or humanity, but to enrich themselves by collecting revenue from their real customers, advertisers  
+these entities could be the foundation of mini social·services that satisfy the belonging needs of most people, eliminating the need to join generalized social-networking platforms that are incapable of catering to particular audiences, and whose goals are not to help individuals, societies, or humanity, but to enrich themselves by collecting revenue from their real customers, advertisers  
+· like personal·data, these groups and communities are separate from the software people use to interact with them, allowing individuals to choose the product that best meets their needs, while guaranteeing that data is not duplicated, and that the proven and tested basic interactions are reliable and error-free  
 
 &nbsp;  
 &nbsp;  
 
 
-### Universal privacy settings
+### 9. Lets you specify how data·specialists can use your personal·data
+*just like you can specify how apps can use your location and other data on your phone, you will be able to specify how data·specialists use and dispose of your personal·data; you can think of this are your human·internet **preferences,** which all entities who want to access your personal·data must adhere to*  
+
 in the human·internet, you set the parameters for access and disposition of your personal·data, which the entities you authorize to interact with your datapod must adhere to  
 · you do this thru an easy-to-use interface on your personal·device, no emails or phone calls needed   
-· the parameters specify, for example, how long a data·specialist can keep local copies of your data before they must be destroyed, or archived (for compliance with regulations)  
+· the parameters specify, for example, how long a data·specialist can keep local copies of your data before they must be destroyed or archived (for compliance with regulations, for example)  
 
 &nbsp;  
 &nbsp;  
 
 
-### Your personal·information dashboard
-with your personal·data stored in a datapod, you can view and analyze all activity on your data at any point  
+### 10. Lets you view and analyze logs and stats about your personal·data
+*you can view which entities access your data and for what reason, at any time, directly on your personal·device*  
+
+with your personal·data stored in a datapod, you can view and analyze all activity on your data at anytime  
 · this way, you know what entities modified your data and why  
 · for example, you can monitor your financial·activity and see what medical·services your health·plan has paid for, and know when your last lab·tests are ready for your doctor to analyze  
 
@@ -1224,6 +1264,7 @@ while the preliminary infrastructure of the human·internet is implemented, enti
 [industry_regulation]: https://github.com/ernest-bruce/human-internet/blob/master/industry_regulation/industry_regulation.md#regulating-the-personalinformation-industry "Regulating the Personal·Information Industry"
 
 [digital·organisms]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#digitalorganisms "digital·organisms"
+[secure·element]: https://www.rambus.com/blogs/what-is-a-secure-element "Rambus: What is a Secure Element?"
 
 [internet·protocol·suite]: https://en.wikipedia.org/wiki/Internet_protocol_suite "Wikipedia: internet protocol suite"
 [network·effect]: https://en.wikipedia.org/wiki/Network_effect "Wikipedia: network effects"
