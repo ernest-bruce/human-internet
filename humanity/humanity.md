@@ -1257,7 +1257,7 @@ while the preliminary infrastructure of the human·internet is implemented, enti
 
 
 ---
-2019.05.28:13  
+2019.06.09:14  
 
 [free_humanity]: https://github.com/ernest-bruce/human-internet/blob/master/free_humanity/free_humanity.md#freeing-humanity-from-the-shackles-of-greed "Freeing Humanity from the Shackles of Greed"
 [internet_plan-internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#internet "Internet (A Plan for a Private, Safe, and Secure Internet)"
