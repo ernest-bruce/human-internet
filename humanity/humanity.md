@@ -1376,23 +1376,24 @@ while the preliminary infrastructure of the human·internet is implemented, enti
 
 
 
-#GLOSSARY#
-##business_data##
+#GLOSSARY  
+
+##business_data
 data about the operations of an entity that provides services or products to other entities  
 
-###entity_data###
+###entity_data
 data that is used to identify an entity or in the course of providing the entity a service  
 
-###market_agent###
+###market_agent
 facilitate interactions between many *market_sources* and *market_consumers* on a *marketplace*  
 
-###market_source###
+###market_source
 
-###marketplace_specification###
+###marketplace_specification
 document that describes how a marketplace operates, detailing its data_model, interaction_model, 
 and algorithms
 
-###personal_data###
+###personal_data
 [entity_data](#entity_data) that refers to a person (a human being or a legal person) 
 
 ---
