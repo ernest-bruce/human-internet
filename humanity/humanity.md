@@ -8,50 +8,52 @@ did you meet that interesting person on Facebook, Twitter, LinkedIn, or Shapr?
 · did you copy your resume on iCloud Drive to Google Drive?  
 · when is your next dental appointment?  
 
-to answer these questions you need to launch different apps from different service providers to get access to different repositories of *your* [personal_data](#personal_data)  
+to answer these questions you need to launch different apps from different service providers to get access to different repositories of *your* [**personal_data**][personal_data])  
 · that is inefficient, cumbersome, annoying, and error·prone  
 
-you must be able to access any of your personal_data on any device, at any time, thru an efficient, responsive, and helpful interface  
-· you also should be in total control over your perosnal_data, determining who can view it, who can change it, and how it must be disposed of  
-· your data deserves one interface, one place to control *all* of it  
+you should be able to access *any* of your personal_data on any device, at any time, thru an efficient, responsive, and helpful interface  
+· you should also be in total control over your perosnal_data, specifying who can view it, who can change it, and how it must be disposed of  
+· you deserve one interface, one place to control *all* your data  
 
-in addition, the companies that constantly misappropriate and misuse your personal_data must be encouraged to stop doing that by removing their superpower, your data  
-· you do that by placing your personal_data on secure repositories that make it easy for businesses to behave responsibly, honestly, and lawfully with your data, because they would be unable to do otherwise without suffering dire consequences, which include losing access to *all* such data   
-· only an environment that is not controlled by for·profit organizations can help develop and nurture these platforms  
+in addition, the companies that constantly misappropriate and misuse your personal_data must be encouraged to stop doing that by removing their superpower, *your data*  
+· you do that by placing your personal_data on secure repositories that make it easy for businesses to behave responsibly, honestly, and lawfully with your data
+· they would suffer *real* consequences if they do otherwise, including losing access to *all* such data by being banned from the network (after all, when criminals get caught breaking the law, stealing from people, or putting their lives in danger, they go to prison)  
+· only an environment that is not controlled by for·profit organizations—who do not have your benefit as their North Star, and who have shown time and time again that keeping your data safe will *never* their top priority—can help develop and nurture these platforms  
 
-instead of *legislating* our way out of our data·privacy and data·security problems, we must *engineer* our way out of these problems, developing robust, tamper-free, effective, permanent, and humane solutions  
+instead of *legislating* our way out of our data·privacy and data·security problems, we must *engineer* our way out of them, developing robust, tamper·free, effective, permanent, and humane solutions  
 · the legislative approach is a good one, and it should be pursued  
-· but the engineering approach, constructing an infrastructure that implements the data·access, data·processing, and data·disposal policies that *you* specify, is better because it is actionable, testable, and can only improve 
+· but the engineering approach, the creation of infrastructure that implements the data_access, data_processing, and data_disposal policies that *you* specify, is better because it is actionable, testable, and improves 
 over time  
 · this is better than the fungible laws and regulations that the internet behemoths ignore with impunity, or whose costs are managed as the *cost of doing business* by these entities  
 
 a people·centric and people·driven ecosystem where human and nonhuman entities operate privately, securely, and safely is the best alternative to the dominance and criminality of the internet behemoths  
-· the **human_internet** is the network, infrastructure, and ecosystem that gives you total control over your personal_data and the personal information entities create from your data and your online and offline activities  
-· the ecosystem, comprising many open and public computing platforms, provides effective alternatives to Amazon, Apple, Facebook, Google, Microsoft, Twitter, Uber, and many powerful yet unaccountable internet entities that give the pursuit of profit higher priority than safeguarding human_safety and protecting human_rights  
+· the [**human_internet**][human_internet] is the network, infrastructure, and ecosystem that gives you total control over your personal_data and the personal information entities create from your data and your online and offline activities  
+· the ecosystem, comprising many open and public computing platforms, provides effective alternatives to Amazon, Apple, Facebook, Google, Microsoft, Twitter, Uber, and many powerful yet unaccountable internet entities that give the pursuit of profit higher priority than safeguarding human safety and protecting human rights  
 
 the human_internet also protects personal_data from abandonment by entities focused on growth, profit, pivots, and exits  
-· by offering a common *data_language*, the human_internet allows many data_processors to speak the same language when it comes to accessing and manipulating both personal_data and business_data   
-· by using a distributed and federated computing_model, the human_internet provides people and businesses many options for housing data, which no longer needs to be hosted by entities who trade on that data and amass it to become go-to places for advertisers to target people with ads and to perform other—often nefarious—activities, including vote suppression and psychological manipulation    
-· companies like Facebook use deceptive and illegal practices to obtain as much personal_data as possible, to allow the surgical targeting of ads to people who use “free” platforms to live their digital_life  
+· by offering a common [**data_language**][data_language], the human_internet allows many [**data_specialists**][data_specialist] to speak the same language when it comes to accessing and manipulating both personal_data 
+and [**business_data**][business_data]   
+· by using a distributed and federated computing model, the human_internet provides people, businesses, and other entities, many options for housing data, which no longer needs to be hosted by entities who trade on that data and amass it to become go·to places for advertisers to target people with ads and to perform other—often nefarious—activities, including vote suppression and psychological manipulation    
+· companies like Facebook use deceptive and illegal practices to obtain as much personal_data as possible, to allow the surgical targeting of ads to people who use these “free” platforms to conduct their digital lives  
 
 ecommerce companies like Amazon use their dominance to identify, target, and marginalize smaller businesses  
-· by implementing a platform for ecommerce and also being a participant in the platform, Amazon bullies its way to positions of dominance in any successful business area, while making it hard or impossible for the originators of those successful products to reap the benefits of their innovations  
-· open ecommerce platforms that compete with Amazon’s platforms is how humanity neutralizes Amazon, regardless of any other legal approaches governments take to curb Amazon’s cancerous influence in business and peoples digital_lives  
+· by implementing a platform for ecommerce and also being a participant in the platform, Amazon bullies its way to positions of dominance in many successful business areas, while making it hard or impossible for the originators of those successful products to reap the benefits of their innovations  
+· the creation and nurturing of open ecommerce platforms that compete with Amazon’s platforms is how humanity neutralizes Amazon, regardless of any other legal approaches governments take to curb Amazon’s cancerous influence in business and peoples digital lives  
 
-instead of promoting the creation of unicorns, the human·internet supports the founding and nourishment of specialized businesses that focus their expertise and resources on one or a few aspects of an industry  
-· these entities do not pursue sky·high revenue and billions of users, at least not at the expense of the privacy, security, and safety of the people and businesses who use their services    
-· these humane entities provide the software and hardware components that work seamlessly with each other thru common data_languages and interaction_languages, and that people use to customize their digital_life to their own liking, something that the internet behemoths—with their gaze glued to their bottom lines—are incapable of doing  
+instead of promoting the creation of [unicorns](https://www.investopedia.com/terms/u/unicorn.asp "Investopedia: Finding the Unicorns in Finance"), the human_internet supports the founding and nourishment of specialized businesses that focus their expertise and resources on one or a few sectors of an industry  
+· these entities do not pursue sky·high revenue and billions of users, at least not at the expense of the privacy, security, and safety of the people and organizations who use their services    
+· these humane entities provide the software and hardware components that work seamlessly with each other thru common languages, and that people use to tailor their digital life to their own liking, something that the internet behemoths—with their gaze glued to their bottom lines—are incapable of doing  
 
-to wield the same power the behemoths leverage—control over data—this new breed of smaller and more focused businesses leverages the public and open infrastructure of the human_internet, which provides private and secure access to personal and business data  
-· companies cooperate to develop the data and interaction that form the common data_language they use to 
-work with data  
-· they are able to leverage personal_data and business_data in standard and predictable ways  
-· this allows these companies to focus their expertise on the features and capabilities that differentiate their services from the competition  
+to wield the same power the behemoths exploit, this new breed of smaller and more focused businesses leverages the public and open infrastructure of the human_internet, which provides private and secure access to personal and business data  
+· companies cooperate to develop the data and interaction models that form the common language they use to 
+work with specific types of data  
+· they are able to leverage [**entity_data**][entity_data] in standard and predictable ways  
+· this allows these companies to focus their expertise on the features and capabilities that differentiate their services from their peers  
 
-with many options for performing essential digital·life functions, such as making connections and communicating with friends and colleagues, people can design their own, personalized digital_experiences  
-· they do not have to settle on one behemoth’s way of facilitating personal_connections  
+with many options for performing essential digital·life functions, such as making connections and communicating with friends and colleagues, people can design their own, personalized [**digital_experiences**][digital_experience]  
+· they do not have to settle on one behemoth’s way of facilitating [**personal_connections**][personal_connection]  
 
-this document discusses the values, principles, and policies of the human_internet, how they provide a humane, secure, and safe alternative to the behemoths, and how businesses benefit from participating on an open, egalitarian, and humanistic ecosystem, where *people* and *humanity* are its principal beneficiaries  
+this document discusses the values, principles, and policies of the human_internet, how they provide a humane, secure, and safe alternative to the costly services the behemoths offer, and how businesses benefit from participating on an open, egalitarian, and humanistic ecosystem, where *people* and *humanity* are its principal beneficiaries  
 · the document describes solutions to the internet’s identity, privacy, and security problems, and problems with the credibility of content on the internet    
 
 &nbsp;
@@ -82,7 +84,7 @@ sections:
 · this makes *war* a thing of the past  
 · this makes *care for our environment,* *efficient use of resources,* and *the advancement of humanity* our only worthy goals  
 · dedicating ourselves to these goals will give each of us [fulfilling occupations](https://youtu.be/tRHsq40f0pE "YouTube: The Drone Engineer Helping Farmers Work Smarter") and [new sources of food](https://youtu.be/of-fBY2Zj3Y "YouTube: Food Computers Are Here And They’re About To Revolutionize Agriculture"), and will ensure a bright and safe future for our descendants   
-· working together on those goals will help us to cherish and respect one another for the contributions each of us makes to humanity’s progress  
+· working together on these goals will help us to cherish and respect one another for the contributions each of us makes to humanitys progress  
 
 &nbsp;
 
@@ -101,16 +103,16 @@ Amazon, Apple, Facebook, and Google are good examples of entities who have impro
 · and, even after many perfunctory apologies, they continue to misbehave  
 
 ---  
-humanity needs a better internet, one that guarantees verifiable identity, strong privacy, and reliable security, so that the companies who operate in it but still fail to protect people’s identity and data—due to negligence, incompetence, or criminality—can be *immediately* admonished or punished   
+humanity needs a better internet, one that guarantees verifiable identity, strong privacy, and reliable security, so that the companies who operate in it but still fail to protect peoples identity and data—due to negligence, incompetence, or criminality—can be *immediately* admonished or punished   
 · new, powerful and influential entities are being formed all the time, including [travel and lodging specialists](https://qz.com/1567574/airbnb-is-buying-hoteltonight "Quartz: Airbnb is buying into the hotel industry by acquiring HotelTonight"), [entertainment powerhouses](https://www.nytimes.com/2019/03/20/business/media/walt-disney-21st-century-fox-deal.html "The New York Times: Disney Moves From Behemoth to Colossus With Closing of Fox Deal"), and [media conglomerates](https://www.businessinsider.com/att-time-warner-acquisition-what-it-will-own-2018-6 "Business Insider: Here's everything AT&T will own after it buys Time Warner")  
-· but the people whose data these new businesses manage are seldom informed of their data’s new managers, whom may not offer the same level of data_protection that the original entities provided  
+· but the people whose data these new businesses manage are seldom informed of their data’s new managers, who may not offer the same level of data_protection that the original entities provided  
 
-in addition to the assets, expertise, and reach companies acquire to improve their business prospects, they obtain control over the personal_data of large numbers of individuals who rely on them to carry out their digital_lives, and the business_data of business_entities who rely on them to carry-out their missions  
+in addition to the assets, expertise, and reach companies acquire to improve their business prospects, they obtain control over the [**personal_data**][personal_data] of large numbers of individuals who rely on them to carry out their digital lives, and the business_data of business_entities who rely on them to carry out their missions  
 · **[Airbnb,][Airbnb]** with its purchase of **[HotelTonight,][HotelTonight]** gains access to the locations and travel plans of HotelTonight’s human customers, which helps Airbnb but may be detrimental to the privacy and security of HotelTonight’s customers  
 · control over more personal information may help Airbnb grow its business and make it more attractive to investors  
-· however, while HotelTonight appears to [respect](https://build.hoteltonight.com/handle-with-care-using-data-responsibly-9a0e6bcc5710) its human customer’s data, Airbnb’s track record in that respect is [not great](https://www.theverge.com/2017/4/14/15308736/airbnb-multi-device-authentication-security-hackers "The Verge: Airbnb adds new security measures to prevent"), which makes the new entity’s effectiveness at keeping personal information secure an unknown quantity  
+· however, while HotelTonight appears to [respect](https://build.hoteltonight.com/handle-with-care-using-data-responsibly-9a0e6bcc5710  "Hotel Tonight: Handle with Care — Using Data Responsibly") its human customer’s data, Airbnb’s track record in that respect is [not great](https://www.theverge.com/2017/4/14/15308736/airbnb-multi-device-authentication-security-hackers "The Verge: Airbnb adds new security measures to prevent"), which makes the new entity’s effectiveness at keeping personal information secure an unknown quantity  
 · therefore, after the merger, the security of the personal_data under HotelTonight’s control may be diminished in the newly formed entity  
-· this situation does not instill confidence in the security of the expanded collection of personal_data under the control of the new entity  
+· this situation does not instill confidence in the security and safety of the expanded collection of personal_data under the control of the new entity  
 
 HotelTonight’s human customers were not consulted about the new entity’s use of their personal information, which includes payment information  
 · but it did not need to do so because those customers *agreed* that HotelTonight could share their personal_data with potential buyers and investors on its [privacy_policy:](https://www.hoteltonight.com/terms-of-use/privacy-policy "HotelTonight Privacy Policy")
@@ -121,14 +123,14 @@ HotelTonight’s human customers were not consulted about the new entity’s use
 
 &nbsp;
 
-in addition to a strong foundation, to satisfy the needs of its diverse population, the internet needs a similar diversity of business_models and experiences, closely tailored to the culture, tastes, and sensibilities of the people who are the source of most of the value the internet provides    
+in addition to a strong foundation, to satisfy the needs of its diverse population, the internet needs a similar diversity of [**business_models**][business_model] and experiences, closely tailored to the culture, tastes, and sensibilities of the people who are the source of most of the value the internet provides    
 · just a few corporations dominating every aspect of your digital_life is neither fair nor sustainable  
-· it has been proven many times and in many areas that diversity creates environments where fresh ideas are explored, nurtured, and allowed to grow, where different points of view and cultures are part of acclaimed 
+· it has been proven many times and in many areas that diversity facilitates the creation of environments where fresh ideas are explored, nurtured, and allowed to grow, where different points of view and cultures are part of acclaimed 
 products and services  
-· a monolithic company, whose success is based only on the network_effects its users generate, is incapable of satisfying the nuanced needs of all its users  
+· a monolithic company, whose success is based only on the [**network_effects**][network_effect] its users generate, is incapable of satisfying the nuanced needs of all its users  
 · what it does very well is attract users through its size and influence but not its features, some of which may not be what people need or want but are pushed onto people to fulfill the company’s business goals    
 · such a company is not motivated to make its services *better* than the competition  
-· its focus is on *eliminating competition* (using tactics such as acquisitions and mergers) or seeking user growth by applying its business·model to different markets  
+· its focus is on *eliminating competition* (using tactics such as acquisitions and mergers), or seeking user growth by applying its business_model to different markets  
 · this makes sense, from a business·growth perspective   
 · but, from a humanistic perspective, a person staying in a service only because eir friends, family, and acquaintances are also in the service—even as the service exhibits fundamental problems—says very little about the quality of the service itself  
 · people stay on it because they do not have a real alternative for staying connected to their family, friends, and acquaintances   
@@ -150,51 +152,51 @@ with their actions, these companies have earned their own disruption
 
 it has become fashionable for companies like Facebook to [call for regulation][Facebook_calls_for_regulation]  
 · that is because, thru lobbying and other practices, they aim to get *friendly* regulation, like the [California Consumer Privacy Act,][California_Consumer_Privacy_Act] which was made substantially weaker from its original vision by companies like Facebook, Microsoft, and Google  
-· while regulation, and even breaking up big corporations like Facebook and Amazon, would be beneficial to humanity, a better approach to addressing the societal problems these companies cause is to fundamentally change the relationship between companies and customer data (both personal_data and business_data) into one in which they are *data_managers* who are given access to data by *data_owners*  
-· in other words, data_owners *contract-out* the management of their data  
-· the owner can then end the relationship at any time and for any reason, without losing any of eir data, and without having to then *transfer* eir data to the new service provider  
+· while regulation, and even breaking up big corporations like Facebook and Amazon, would be beneficial to humanity, a better approach to addressing the societal problems these companies cause is to fundamentally change the relationship between companies and customer data (both personal_data and business_data) into one in which they are *data_managers* who are given access to data by [**data_owners**][data_owner]   
+· in other words, data_owners *contract-out* the management of their data to [**data_managers**][data_manager]    
+· the owner can then end the relationship at any time, and for any reason, without losing any of eir data, and without having to then *transfer* eir data to the new service provider  
 · all the owner does is grant the new provider access to eir data  
 
 ---
 what people need to combat the data misuse and abuse designs of the behemoths is *centralized and federated* **personal data management**  
-· from the point of view of the data_owner, data management is *federated* among data_specialists, who, with the owner’s authorization, access and process **owned_data**    
-· from the point of view of a **data_specialist** (a data_manager, data_processor, or data·architect), data management is *centralized* on one entity: the data_owner  
+· from the point of view of the data_owner, data management is *federated* among *data_specialists*, who, with the owner’s authorization, access and process eir data    
+· from the point of view of a [**data_specialist**][data_specialist] (a data_manager, data_processor, or data_architect), data management is *centralized* on one entity: the data_owner  
 · by procuring the services of data_specialists, the data_owner grants access to eir data to entities that specialize in the processing or maintenance of particular types of data such as social_data, communication_data, inventory_data, and logistics_data  
-· this way, the specialists provide services to the owner (such as social_services, communication_services, inventory_services, and logistics_services), synchronizing their efforts by using a single data repository under the owner’s control  
-· to facilitate the data_owner’s and data_manager’s adherence to the laws of the different jurisdictions on which they operate, the owner can distribute eir data among several datapods, with each **datapod·host** (a service provider who houses and provides access to datapods) adhering to local rules for data_acquisition, data_processing, data_storage, and data_disposition    
+· this way, the specialists provide services to the owner (such as social services, communication services, inventory services, and logistics services), synchronizing their efforts by using a single data repository under the owner’s control  
+· to facilitate data_owners and data_managers adherence to the laws of the different jurisdictions on which they operate, the owner can distribute eir data among several datapods, with each [**datapod_host**][datapod_host] adhering to local rules for data_acquisition, data_processing, data_storage, and data_disposition    
 
-the **Peoples Own Data** (POD) architecture implements data_ownership rights, rules, and policies that give people and other entities absolute control over data that they own, and data that identifies them  
-· regardless of how that data is captured, acquired, or produced, the data_subjects have rights over it, which allow them to specify how that data is to be accessed, shared, and disposed of  
-· data_specialists are *not* allowed to share owned_data with other entities, including parent companies, sibling entities, and business partners  
+the **Peoples Own Data** (POD) architecture implements data ownership rights, rules, and policies that give people and other entities absolute control over data that they own ([**owned_data**][owned_data]), and data that identifies them  
+· regardless of how that data is captured, acquired, or produced, the [**data_subjects**][data_subject] have rights over it, which allow them to specify how that data is to be accessed, shared, and disposed of  
+· data_specialists are *not* allowed to share personal_data with other entities, including parent companies, sibling entities, and business partners  
 · entities who want or need to use any owned_data, must obtain authorization directly from the data_owner  
 
 data_specialists operate on top of this flexible infrastructure  
-· they include entities of any kind who need to access or operate on personal_data as part of the services they provide to people or other entities  
-· among these entities is **Peoples**, a humanistic and humane entity dedicated to individual and public good through open source, open standards, privacy, security, transparency, honor, responsibility, and accountability  
-· there is not a single entity operating in the internet today that can claim to rightly posses and exhibit all those attributes  
+· they include entities of any kind who need to access or operate on personal_data as part of the services they provide to people and other entities  
+· among these entities is **Peoples Benefit Corporation**, a humanistic and humane entity dedicated to individual and public good through open source, open standards, privacy, security, transparency, honor, responsibility, and accountability  
+· there is not a single entity operating in the internet today who can claim to posses all those attributes  
 · one of Peoples main goals is to promote the development and adoption of the *next·generation internet*  
 
 there are other initiatives and entities, similar to Peoples, that aim to give people more power over their personal_data  
 · one of them is **[MesInfos][MesInfos]** (MyData)  
 · other companies, platforms, and organizations with the capability of giving the behemoths real competition are **[System76,][System76]** **[UBPorts,][UBPorts]** and **[RISC-V Foundation][risc·v·foundation]**  
-· however, they operate separately, without single overarching vision informing their activities  
+· however, they operate separately, without a single overarching vision informing their activities  
 · the behemoths have the luxury of exercising their power under a single vision  
-· to inspire and point toward a single goal the experienced engineers, scientists, technologists, anthropologists, psychologists, doctors, and advocates needed to give humanity a real alternative to the behemoths, these up·and·coming platforms must operate under a strong common vision, and shared principles and values, that ensure that the next evolution of humanity’s digital_life is geared for, accountable to, and in the best interest of *people*  
+· to inspire and point toward a single goal the experienced engineers, scientists, technologists, anthropologists, psychologists, doctors, and advocates needed to give humanity a real alternative to the behemoths, these up·and·coming platforms must operate under a strong common vision, and shared principles and values, that ensure that the next evolution of humanity’s digital life is geared for, accountable to, and in the best interest of *people*  
 
 
 no one company shall have exclusive control over the infrastructure used to manipulate personal_data  
 · the data_models and algorithms used to store and process personal_data must be open and usable by any 
 data_specialist   
 · in fact, this is how the next·generation internet ensures the security and safety of personal information  
-· data·loss and data·corruption problems are drastically reduced or eliminated by exposing the formats of the data and the methods that manipulate it to the public  
-· anybody is able to view the specifications and analyze the source_code that implements them to ensure that they work correctly (do not damage data), operate securely (protect data from unauthorized access), and ensure the safety of the data they manipulate  
+· data loss and data corruption are drastically reduced or eliminated by making the formats of the data and the methods that manipulate it open to the public  
+· anybody should be able to view the specifications and analyze the source_code that implements them to ensure that they work correctly (do not damage data), operate securely (protect data from unauthorized access), and ensure the safety of the data they manipulate  
 
-organizations like Peoples will use the open·source software that defines the next·generation internet to manipulate all personal information  
+organizations like Peoples Benefit Corporation will use the open·source software that defines the next·generation internet to manipulate all personal information  
 · this means that any company can manage your personal_data  
-· you can change social_services (like Facebook, Mastodon, and others) as easily as you change clothes: while the clothes are different, it is the same *you* underneath  
+· you can change social services (like Facebook, Mastodon, and others) as easily as you change clothes: while the clothes are different, it is the same *you* underneath  
 · you will not need to *transfer* any data from one service to another  
 · all you have to do is deauthorize one service and authorize the other to access your one set of personal_data  
-· or you can authorize several service providers to access your social_data to create a customized social digital_experience  
+· or you can authorize several service providers to access your social_data to create a customized social experience  
 
 &nbsp;  
 &nbsp;  
@@ -202,38 +204,38 @@ organizations like Peoples will use the open·source software that defines the n
 
 
 ## THE FUTURE
-> to move humanity forward, *people* must reshape the business·model of the [personal·information oligarchs][personal·information_oligarchs], who collect, mine, process, package, and share your life for profit, while putting your identity, privacy, and security at risk  
+> to move humanity forward, *people* must reshape the business model of the [personal information oligarchs][personal·information_oligarchs], who collect, mine, process, package, and share your life for profit, while putting your identity, privacy, security, and safety at risk  
 
 &nbsp;  
 
 the future *is not* intelligent computing available only to big corporations  
-· the future *is* you having the power of today’s desktop workstations on your wrists, today’s [high_performance_computing][high·performance·computing] available in your hands, and [exascale·computing][exascale·computing] power available on your lap and your desk  
+· the future *is* you having the power of today’s desktop workstations on your wrists, today’s [high performance computing][high·performance·computing] available in your hands, and [exascale computing][exascale·computing] power available on your lap   
 
-the future *is not* your information spread over data silos everywhere, controlled by profit-blinded, unscrupulous, and criminal organizations  
-· the future *is* a **datapod** (a managed collection of data and content controlled by you) with your data, accessed by trusted, responsible, and principled entities, who process your information on *your* behalf not theirs  
+the future *is not* your information spread over data silos everywhere, controlled by profit·blinded, unscrupulous, and criminal organizations  
+· the future *is* the [**datapod**][datapod] (a managed collection of data and content controlled by you) with your data, accessed by trusted, responsible, and principled entities, who process your information on *your* behalf not theirs  
 
-the future *is not* one monumentally flawed interpretation of [social_computing][social·computing]  
-· the future *is* many interpretations of social_computing that are culturally sensitive, catered towards entertainers, politicians, intellectuals, teenagers, seniors, rocket_scientists, astronomers, biologists, swimmers, skydivers, racecar drivers, bicyclists, runners, dentists, surgeons, teachers, tailors, architects, runway models, firefighters, police officers, and lawyers, each with their own practices, norms, acceptable content, and so forth, which are *not* specified by companies with their eyes glued to the bottom lines of their balance sheets  
+the future *is not* one monumentally flawed interpretation of [social computing][social·computing]  
+· the future *is* many interpretations of social computing that are culturally sensitive, catered for entertainers, politicians, intellectuals, teenagers, seniors, rocket scientists, astronomers, biologists, swimmers, skydivers, racecar drivers, bicyclists, runners, dentists, surgeons, teachers, tailors, architects, runway models, firefighters, police officers, lawyers, each with their own practices, norms, acceptable content, and so forth, which are *not* specified by companies with their eyes glued to the bottom lines of their balance sheets  
 
-the future *is* *hyperdata*  
+the future *is* [**hyperdata**][hyperdata]  
 · by leveraging more capable and flexible digital devices, data no longer has to be a one·dimensional collection of facts and content  
-· **hyperdata** uses your devices (and other devices available to it) to provide you the information you need when you need it, unbiased  
+· hyperdata uses your devices (and other devices available to it) to provide you the information you need when you need it, unbiased  
 · backed by public knowledge and interactions with appropriate entities, hyperdata works for you, providing you information that is always useful to you because hyperdata knows you, what you need at a specific moment, and what you like the most  
 · Waze showing you an ad for a newrby Burger King as you as you stop at a stoplight *is not* hyperdata; that is just Google making money  
 · your TV suggesting [*Braveheart*](https://en.wikipedia.org/wiki/Braveheart "Wikipedia: Braveheart") Sunday afternoon after you did some research last Monday for your upcoming visit to Europe, and booked that paintball event for your nephew on Thursday *is* hyperdata (plus, it has been a little more than a year since you last saw the movie)  
 
-the future *is* the **hyperweb,** a dynamic network of hyperdata, cooperating to improve the lives of their owners behind the scenes but never behind their backs  
+the future *is* the [**hyperweb,**][hyperweb] a dynamic network of hyperdata, cooperating to improve the lives of their owners behind the scenes but never behind their backs  
 
 and this amazing power will be owned and controlled by *people*  
 · this technology will be open to everyone  
 · it *will not* be controlled by entities bent on making profits at any cost  
-· in the future, when it comes to personal information, people will have the first and last word because on Mars, on Europa, and on Proxima b there is no Facebook (Facebook is not an instrument of human exploration, of human advancement, it is an instrument of profit, for few)  
-· people will take their data and their own internet with them when populating other planets and moons, and when traveling our galaxy, no Facebook needed or wanted  
+· in the future, when it comes to personal information, people will have the first and last word because on Mars, on Europa, and on Proxima b there is no Facebook (Facebook is not an instrument of human exploration, of human advancement, it is an instrument of naked profit, for few)  
+· people will take their data and their own *humane* internet with them when populating other planets and moons, and when traveling our galaxy, no Facebook needed or wanted  
 
 the internet has gotten the way it is—dominated by entities who use personal information to make money, and the home of criminals who steal information from its rightful owners—because it was developed without human 
 values or principles  
 · its creators could not have imagined the wonderful innovation it would facilitate  
-· they also could not have foreseen the abuse, disrespect, and contempt for the digital_life of individuals that its major users would bring to humanity  
+· they also could not have foreseen the abuse, disrespect, and contempt for the digital life of individuals that its major users would bring to humanity  
 
 *we* must take the initiative in the digitization of our lives  
 · most companies have demonstrated that their motives are always skewed toward profit, 
@@ -241,9 +243,9 @@ if not pure greed
 · while making a profit is good in general, something is lost when every aspect of humanity is viewed through the lens of profitability  
 · [Boeing][Boeing] had this view when it decided to offer for sale a [flawed, unsafe plane,][Boeings_plane] to try to compete against better·designed planes from [Airbus][Airbus], and put in peril the lives of the millions of people who fly every day  
 · [Eli Lilly][Eli_Lilly] and other drug manufacturers make [large profits][insulin_prices] out of the lives of people with diabetes because *they can*; people generally pay anything to stay alive  
-· and Facebook uses data we provide willingly about ourselves—although enriched with an incredibley amount of data that about us, our family, our friends, our colleagues, and anybody who grazes our orbit in any way—to generate large amounts of revenue and profit without regard to the risks to our privacy and safety, despite any public pronunciations of its executive officers, as former employees and internal communications demonstrate  
+· and Facebook uses data we provide willingly about ourselves—although enriched with an incredibley amount of data about us, our family, our friends, our colleagues, and anybody who grazes our orbit in any way—to generate large amounts of revenue and profit without regard to the risks to our privacy and safety, despite any public pronunciations of its executive officers, as former employees and internal communications demonstrate  
 
-no, *we the people* must take charge of our own digital_life to make sure that it is free of entities who work against our best interests, and that it is guided by human·centric principles of honesty, responsibility, and accountability   
+no, *we The People* must take charge of our own digital life to make sure that it is free of entities who work against our best interests, and that it is guided by human·centric principles of honesty, responsibility, and accountability   
 · the behemoths can join us under our terms or stay behind  
 
 &nbsp;  
@@ -251,21 +253,22 @@ no, *we the people* must take charge of our own digital_life to make sure that i
 &nbsp;  
 
 
-## THE HUMAN·INTERNET
-> the internet needs to reflect humanity, and humanity needs digital connection  
+## THE HUMAN_INTERNET
+> the internet needs to reflect humanity, and humanity needs honest and trustworthy digital connection  
 
 &nbsp;  
 
 a lot of the problems we find in the internet stem from the fact that it has no human values  
 · even though it provides fast, efficient, and resilient digital communication, the internet is an amoral construct, created to provide a reliable means of communication to humanity  
+· but it lacks a moral center, a way to guide its operations so that they benefit its principal denizens, *people*  
 · we need a *humane* internet, possessing values and principles that reflect the best of humanity, and help it resist its worst impulses    
 
 with time and through the misdeeds of powerful internet·based entities, we have learned that we need to impose rules that specify what entities can and cannot do with our personal information  
 · without effective rules, companies like Facebook, Google, and many others feel free to do whatever they want with personal_data as long as they make money from those actions  
 · through their actions (and sometimes through public announcements), companies are asking to be regulated  
-· the *human_internet* is the answer to these requests that actually delivers a benefit to people and humanity  
+· the [human_internet][human_internet] is the answer to these requests that actually delivers a benefit to people and humanity  
 
-> the **human_internet** aims to leverage the most advanced technology available to people to protect their identity, enforce their right to privacy, and secure their personal data  
+> the human_internet aims to leverage the most advanced technology available to people to protect their identity, enforce their right to privacy, and secure their personal_data  
 
 &nbsp;
 
@@ -275,22 +278,22 @@ companies ask for regulation, but why should we trust that they will follow new 
 · they also lobby intensely to curtail or weaken rules that are incompatible with their goals or business practices  
 
 in the human_internet, entities that work with personal_data are punished if they do not follow the rules  
-· however, the human_internet provides infrastructure that makes it easy for such entities to adhere to rules and policies aimed at protecting personal_data  
-· the infrastructure of the human_internet uses the policies and rules of the ecosystem as the framework on which its operations are implemented  
+· however, the human_internet provides infrastructure that makes it easy for any entity to adhere to rules and policies aimed at protecting personal_data  
+· the human_internet uses people·centric rules and policies as the framework on which its infrastructure is designed and its operations implemented  
 · therefore, the natural state of personal_data in the ecosystem is *private*  
-· only the entities that the data_owner authorizes can access eir data, and the data is kept secured through minimal effort by those entities   
+· only the entities that the data_owner authorizes can access eir data, which is kept secure through minimal effort by those entities   
 · entities who put personal_data at risk do so because they perform perilous, nonstandard actions on data, such as not protecting it using strong security measures including encryption     
 · the ecosystem facilitates remedial actions against entities who put personal_data, and the safety of its owners, at risk  
 
 in addition to securing personal_data, the human_internet provides its users stronger means of 
 managing their identity  
 · ***the human_internet does not support anonymity***  
-· when people publish content that others can view, the viewers can readily identity the source of the content  
-· this helps to combat the spread of false information by entities with nefarious motives, such as the **Russian Federation’s** drive to sew mistrust and hate throughout the world  
+· when people publish content that others can view, the viewers can readily identify the source of the content  
+· this helps to combat the spread of false information by entities with nefarious motives, such as the **Russian Federation** in its drive to sow mistrust and hate throughout the world  
 
 the human_internet also provides more useful ways to consume content that are possible on the internet  
 · the ecosystem follows closely the concepts and ideas spoused by [**Ted Nelson**][Ted·Nelson], the originator of hypertext and hypermedia   
-· his concepts provide for a more immersive and informative content·consumption experience, one that is especially useful for people who do a lot of research  
+· his concepts provide for a more immersive and informative content·consumption experience, one that is especially useful for people who do a lot of research such as teachers, students, lawyers, and scientists  
 
 &nbsp;  
 &nbsp;  
@@ -300,12 +303,12 @@ the human_internet also provides more useful ways to consume content that are po
 ## VISION, PRINCIPLES, VALUES
 the internet lacks values  
 · other than effectiveness and efficiency as a communication infrastructure, the internet has no human values  
-· there are some [organizations](http://www.connected.org/is/values.html) who try to implant values on it  
+· there are [people](http://www.connected.org/is/values.html "") who try to implant values on it  
 · but, at its core, the [internet][internet_plan-internet] is a valueless, amoral network of computing devices exchanging information as efficiently as possible  
 
 without a vision and values geared towards humans, the internet infrastructure is incapable of 
-reflecting humane traits  
-· nothing in its specifications and implementation say anything about guaranteeing the privacy, security, and safety of its human participants  
+providing a humane environment for people to be themselves, and to expect honesty and respect from other entities  
+· nothing in its specifications and implementation says anything about guaranteeing the privacy, security, and safety of its human participants  
 · because of that, it is easy for many entities on the internet to dedicate themselves to separating people from their money, or to capturing data about them and use it to obtain revenue, not to improving the human condition  
 · ***this is unsustainable, self·destructive behavior***  
 · people eventually revolt against entities that operate against their best interests    
@@ -350,7 +353,7 @@ the **Human Internet Values** describe the behaviors expected of all participant
   * **service**  
   · provide first·class service to people and to those who help them  
   * **excellence**  
-  · strive for and seek excellence in everything  
+  · strive for and seek excellence in every interaction, and every operation   
 
 &nbsp;  
 &nbsp;  
@@ -359,15 +362,15 @@ the **Human Internet Values** describe the behaviors expected of all participant
 
 ## CUSTOMERS AND BAIT
 > so, you are enjoying a “free” service on the internet  
-> · you are *not* the service’s customer  
-> · you are the **bait** it uses to service its real customers  
+> · dude, you are *not* the service’s customer  
+> · you are the **bait** it uses to service its *real* customers  
 
 &nbsp;
 
 the goals of internet companies, like those of most companies, include maximizing profit and shareholder value  
 · they accomplish their goals through objectives like these:  
 
-* collecting data about people, either directly or through *data_brokers*    
+* collecting data about people, either directly or through [**data_brokers**][data_broker]    
 * convincing people to share as much intimate information as possible  
 * using data about people to target them with advertising and other messaging that may be detrimental to them  
 * improving the efficiency of data collection and processing using artificial intelligence and other techniques  
@@ -379,48 +382,48 @@ the human_internet changes the way advertisers get their message to people, maki
 
 internet companies can do a lot with personal_data  
 · current technology allows them to find out a lot about us  
-· unfortunately for us, we are not their customer  
-· they use information about us to provide services or advise to their real customers, such as advertisers, insurance companies, and banks  
+· unfortunately for us, we are *not* their customer  
+· they use information about us to provide services or advise to their *real* customers, such as advertisers, insurance companies, and banks  
 
 internet companies can do many “innovative” things with personal_data because they 
 practice *irresponsible disruption*  
 · they make products and services available for purchase that are little more than experiments  
-· they “move fast and break things”  
+· they “move fast and break things,” especially our personal_data  
 · they are beholden only to their mantra of generating growth and maximizing value for their shareholders  
 · they use data about us in any way they want, not only because of the lack of strong laws and rules but also because we are being desensitized to the value of our data  
 
-we share freely our social, health, location, financial data, and other kinds of intimate information, which we used to keep secret  
-· internet companies have developed innocent-looking and practical mechanisms to push us to share things like our tastes (likes), our whereabouts (check-ins), and our political leanings (groups)  
-· by collating such information about hundreds, thousands, and millions of us, a few powerful companies have gained the resources needed to manipulate large swaths of people, *to change our minds*  
+we share freely our social_data, health_data, location_data, financial_data, and other kinds of intimate information, which we used to keep secret  
+· internet companies have developed innocent·looking and practical mechanisms to push us to share things like our tastes (likes), our whereabouts (check-ins), and our political leanings (groups)  
+· by collating such information about hundreds, thousands, and millions of us, a few powerful companies have gained the resources needed to manipulate large swaths of people, *to change their minds,* not with facts but with *misinformation*  
 · our data is the key to our souls, and the holders of those keys are no [angels](https://youtu.be/C2Ag1iQKWeM "Data spies: The dark and shady practices of Silicon Valley | Roger McNamee")  
 · our data is not being used with our best interest in mind   
 
 ---
-advertisers spend a lot of resources getting their ads to be viewed by a specific audience, but they are not spending enough on the ad·consumption experience    
+advertisers spend a lot of resources getting their ads to be viewed by a specific audience, but they are not focusing enough on the ad·consumption experience    
 · ads are content that we do not want to see and mostly ignore (except, for some of us, on the first Sunday in February)  
 · this means that, systemically, resources are being used inefficiently  
 
 ![](_images/ads.png)  
 &nbsp;
 
-content that is more tailored to you and your sensitivities would be more effective in helping advertisers to establish real connections with you that are mutually beneficial  
+content that is more tailored to you and your sensitivities would be more effective in helping advertisers to establish real, mutually beneficial connections with you   
 · content companies should not treat you as bait for advertisers  
 · they should consider you another customer, who has needs for connection similar to the needs of the advertisers they serve  
 
-the human_internet uses *entity_introductions* instead of ads  
-· **entity_introductions** are very similar to introductions made by matchmakers  
+the human_internet uses [**entity_introductions**][entity_introduction] instead of ads  
+· entity_introductions are very similar to introductions made by matchmakers  
 · the matchmaker knows information about two parties that help sie determine whether they should connect  
 · the two other parties may not know each other, but they trust the matchmaker implicitly because of their past experiences with sie or eir reputation and knowledge   
 
-in the human_internet, instead of advertisers targeting the members of a network either blindly or using certain criteria, they share information with a content_provider who offers information services to consumers  
+in the human_internet, instead of advertisers targeting the members of a network either blindly or using certain criteria, they share information with a content provider who offers information services to consumers  
 · the advertiser can request an introduction to a particular person or anyone matching some criteria  
-· the content·provider may then present the introduction to people, identifying to them the information used to make the match  
-· if the content_provider presents the invitation to people, they are free to act on it as they see fit, depending on the options the invitation provides   
-· the content_provider does not identify the people who received the invitation to the advertiser  
+· the content provider may then present the introduction to people, identifying to them the information used to make the match  
+· if the content provider presents the invitation to people, they are free to act on it as they see fit, depending on the options the invitation provides   
+· the content provider does not identify the people who received the invitation to the advertiser  
 
 entity_introductions protect personal_data and provide people with a pleasant experience while interacting with advertiser content  
 · advertisers who request entity_introductions to specific persons must prove that the information they provide that identifies the individual (name, picture, birthplace, and so on) was obtained from an entity authorized by the person to have that information  
-· if content_providers present many inappropriate or annoying introductions to a particular person, the person may not let the content_provider present sie entity_invitations in the future, or sie may stop using that particular content_provider, and switch to another that provides a better experience and shows more respect for its human customers  
+· if content providers present many inappropriate or annoying introductions to a particular person, the person may not let the content provider present sie entity_invitations in the future, or sie may stop using that particular content provider, and switch to another that provides a better experience and shows more respect for its human customers  
 · this will contribute to a better “advertising” experience for people, and better relations with potential customers for advertisers, based on respect for the individual    
 
 &nbsp;  
@@ -440,12 +443,12 @@ the current internet infrastructure does not provide the protections required to
 
 there are a number of [initiatives](http://identity.foundation "Decentralized Identity Foundation") and [projects](https://www.theverge.com/2019/3/4/18249895/web-authentication-webauthn-world-wide-web-consortium-w3c-standard-browsers "The Verge: The web just took a big step toward a password-free future") that aim at providing strong identity on the internet  
 · but they are *worthless* if they do not have as their foundation a link to a person’s *real* identity (using credentials such as passports or other government·issued documents that include identifiers such as photo, name, and birthdate)  
-· without those guarantees, these systems are unable to guarantee that someone cannot assume a fake identity (or an identity that does not belong to that person) using contrived or stolen credentials  
+· without those guarantees, these systems are unable to ensure that someone cannot assume a fake identity (or an identity that does not belong to that person) using contrived or stolen credentials  
 · *privacy* is not the same as *anonymity*  
 · in the human_internet, privacy is enforced and anonymity is not allowed  
 
 you must be able to trust that every entity you deal with in the digital world is real  
-· the infrastructure on which entities operate must guarantee that they (individuals and organizations) are legal entities whose identities have been attested by trusted and accredited human beings, such as notaries_public (this attestation must be done every five years)  
+· the infrastructure on which entities operate must guarantee that they (individuals and organizations) are legal entities whose identities have been attested by trusted and accredited human beings, such as notaries public and secretaries of state (this attestation must be done every five years)  
 · no entity can be anonymous or use false identifying information to connect with other entities or 
 to publish content  
 · you must be able to easily and *immediately* verify the source of any content you see to determine its authenticity  
@@ -473,15 +476,15 @@ the closer you are to your data, the more use you get out of it
 · being able to do that on your 4K television would be nothing short of amazing  
 · this is possible with *your* data at your fingertips  
 
-your personal_information is more important than any corporation’s business_model  
+your personal information is more important than any corporation’s [business_model][business_model]  
 · you let companies access *your* data so that they can serve *you*   
 · if you do not like how a company does business or do not like its service, you do not need to [*move*][data·transfer·project] your data to another company  
 · you just need to give another company permission to access *your* data, the same data the other company lost its permission to access by failing *you*, or by not meeting your needs  
 
 when you stop liking an airline, you fly with another one  
-· there will not be another copy of you continuing to fly that undesirable airline  
+· there is not another copy of you continuing to fly that undesirable airline  
 
-> in the human·internet, your data is the center of the universe, all things and entities revolve around it  
+> in the human_internet, your data is the center of the universe, all things and entities revolve around it  
 
 &nbsp; 
 
@@ -504,12 +507,12 @@ internet companies control your personal information to make you use their produ
 · their goal is to collect as many users as possible, not to actually be helpful to them  
 · this is because, for the most part, people are not their ultimate customers  
 · their real customers are the entities who pay them to [target people with ads](https://youtu.be/n2H8wx1aBiQ "YouTube: Senator, we run ads")  
-· but when it comes to essential services, or ones that help people manage personal information such as social_services, healthcare_services (healthcare providers), and health_insurance_services (health plans), people need the flexibility that a multitude of services competing on merit—not on personal·information gathering practices—can provide  
+· but when it comes to essential services, or ones that help people manage personal information such as social services, healthcare services (healthcare providers), and health·insurance services (health plans), people need the flexibility that a multitude of services competing on merit—not on personal·information gathering practices—can provide  
 
 these companies generally form **data silos,** places that maintain collections of personal_data that provide them with business advantages  
-· but for individuals and society, data silos are both wasteful *and* ineffective  
+· but for individuals and society, data silos are ineffective and wasteful  
 · for example, healthcare providers would offer more effective service if they were able to access your entire body of health information, not just the information they obtained directly from you or from other medical organizations that use compatible systems, or information they received through email, regular mail, or *faxes*  
-· they would benefit from knowing that you actually took the medicine doctors prescribed at the appropriate times, and that you have been active the past week, by being able to see how many steps you took, and your heart_rate during that activity  
+· they would benefit from knowing that you actually took the medicine doctors prescribed at the appropriate times, and that you have been active the past week, by being able to see how many steps you took, and your heart rate during that activity  
 · with comprehensive information in digital form, doctors would make thoroughly informed and timely decisions, and the system as a whole would be more efficient, wasting less resources on the storage and maintenance of duplicate or redundant copies of health information  
 
 the data silos healthcare providers and health plans rely on make for an ecosystem that forces you to ensure that the records each entity keeps on you are correct  
@@ -534,30 +537,31 @@ credit·reporting agencies duplicate data amongst themselves, and control data t
 
 
 ### 2. Gives you real ownership over your data
-*companies that work with your data operate on your datapod, the authoritative store of your personal_data; your data is permanent and universal, which gives you options regarding how your data is processed and by who process it; entities who collect data about you must have your permission to do so, and they must store that data in your datapod*  
+*companies that work with your data operate on your datapod, the authoritative store of your personal_data; your data is permanent and universal, which gives you options regarding how your data is processed and by whom; entities who collect data about you must have your permission to do so, and they must store that data in your datapod*  
 &nbsp;
 
-personal_data outlasts any [product](https://www.theverge.com/2019/3/1/18246794/microsoft-band-refunds-apps-services-end-of-support-may-fitness-tracker "The Verge: Microsoft to offer Band refunds, announces end of apps and services"), any company, and any business_model  
+personal_data outlasts any [product,](https://www.theverge.com/2019/3/1/18246794/microsoft-band-refunds-apps-services-end-of-support-may-fitness-tracker "The Verge: Microsoft to offer Band refunds, announces end of apps and services") any company, and any business_model  
 · as the owner of your data, you must be able to have any capable entity manage and process it on your
  behalf  
-· for example, you should be able to use the health_data captured on your Apple Watch (steps, heart_rate, and so forth) on your Chrome OS laptop  
+· for example, you should be able to use the health_data captured on your Apple Watch (steps, heart rate, and so forth) on your Chrome OS laptop  
 · it is *your* health_data not Apple’s health_data  
 
 businesses come and go, your data is permanent and universal  
 · a diabetic wants easy and immediate access to eir glucose levels from eir handheld, tablet, and desktop devices at all times  
-· the comprehensive health_data you capture today, such as your step_count and heart_rate, may provide you and healthcare professionals critical information while researching a health issue 20 years from now  
-· that health_data must be as useful in 20 years as it is today, regardless of the hardware and software used to capture it  
+· the comprehensive health_data you capture today, such as step count and heart rate, may provide you and healthcare professionals critical information while researching a health issue 10 or 20 years from now  
+· that health_data must be as useful at the end of that period as it is today, regardless of the hardware and software used to capture it and to view it  
 
-to ensure that data remains useful to its owner as long as the owner is alive or a going_concern, we need lasting data_models that are not tied to a particular company  
-· when companies introduce products that have to do with personal information, they need to submit those plans for consideration and further development to the **Human Internet Consortium** (an organization composed of entities who participate in the human_internet)  
-· there, those ideas are considered as part of a “whole person” and “whole society” data infrastructure with the aim of ensuring that records produced using the resulting data_models and interaction_models are supported by the entire ecosystem, not just by the company who introduced them   
+to ensure that data remains useful to its owner as long as possible, we need lasting data_models that are not tied to particular service providers  
+· when [**data_architects**][data_architect] introduce products that have to do with personal_data, they submit their plans for consideration and further development to the **Human Internet Consortium** (an organization composed of reputable entities who participate in the human_internet), or a suitable representative body, for example, when away from Earth  
+· there, those ideas are considered as part of a “whole person” and “whole society” data infrastructure with the aim of ensuring that records produced using the resulting [data_models][data_model] and [**interaction_models**][interaction_model] are supported by the entire ecosystem, not just by the entity who introduced them   
 · in other words, *universal data usability* is assured at a fundamental level during feature design, not as an afterthought  
+· features that have to do with personal_data are baked into the human_internet itself, this way data_architects are free from the responsibility of hosting, securing, and safeguarding personal_data  
 · we have seen how often companies introduce products to the marketplace that they view as testing platforms (funded by individuals sold on sales pitches), and later they leave individuals and even other companies and governments in the lurch, with data that is largely useless, unless it is translated into a different format or structure  
 · in the human_internet, companies are free to innovate, but they innovate responsibly, with the needs and rights of individuals and humanity as their guiding light  
 
 &nbsp;
 
-> the human·internet leaves no data behind  
+> the human_internet leaves no data behind  
 
 &nbsp;
 
@@ -567,20 +571,20 @@ and protecting it
 · they also have a tendency to abuse their access to your data  
 · no matter their size, they are often breached, share your data with entities you do not know, or use it in ways they have not disclosed to you  
 · or if they have disclosed their data·using ways, they did it on the legally binding contract you entered with them when you clicked Agree before starting to use their service  
-· have you read *any* of those usage·agreements?  
+· have you read *any* of those usage agreements?  
 
 in a people·centric digital universe, *all* your data (all data about you) is stored in your datapod  
 · your health_data, your purchase_data, your entertainment_data, all data that identifies you or that can be used to identify you is stored in your datapod  
 · this means that every entity you deal with stores data they collect about you, in any way, in your datapod  
 · to do that, they must have a relationship (a connection) with you, and you have to have given them authorization to write data to your datapod  
 · which means that entities who cannot access your datapod must not collect data about you  
-· this is how *real* data ownership and ncontrol looks like  
+· this is how *real* data ownership and control looks like  
 
-instead of you signing terms·of·use contracts where you grant use of your personal·data to a number of entities you do not know, the entities whom you authorize to access data in your datapod enter into terms·of·access contracts with you, promising to abide by *your* privacy settings, and not to share the data they get from the datapod with other entities  
+instead of you signing terms·of·use contracts where you grant use of your personal_data to a number of entities you do not know, the entities whom you authorize to access data in your datapod enter into terms·of·access contracts with you, promising to abide by *your* privacy settings, and not to share the data they get from the datapod with other entities  
 · you entrust them with your data, and they *must* behave responsibly with it  
 · that responsibility is not transferable  
 · these entities are not allowed to share your data with any other entity, no business partners, no subcontractors, no subsidiaries, and no parent companies (WhatsApp would be able to access your datapod, but not Facebook, for example)  
-· therefore, if any third_party with which they share your personal_data is breached or otherwise loses control of your data, the entity you entrusted with your data is responsible and liable for the breach   
+· therefore, if any third party with which they share your personal_data is breached or otherwise loses control of your data, the entity you entrusted with your data is responsible and liable for the breach   
 
 your data stored in a datapod provides several benefits:  
 
@@ -1259,7 +1263,7 @@ personal_data and the data_models and interaction_models used to manipulate it a
 · you can get to a friend’s house on a motorcycle, a taxi, a car with autonomous driving capabilities, or a limousine  
 · the vehicles provide you transportation service, using standard interaction practices (language, symbols, door handles, seats, and tires)  
 · they take you from place to place, but they do not own or control you  
-· in the same vein, on the human_internet, data_processors interact with your data using a standard language and methods; they do not own, control, or store your data  
+· in the same vein, on the human_internet, data_specialists interact with your data using a standard language and methods; they do not own, control, or store your data  
 · on the internet of today, companies behave so incompetently, irresponsibly, and criminally with personal_data
  and business_data (Amazon) that they do not deserve to have control over personal or business data in the next evolution of the internet   
 
@@ -1381,8 +1385,134 @@ while the preliminary infrastructure of the human·internet is implemented, enti
 ### business_data
 data about the operations of an entity that provides services or products to other entities  
 
+[business_data]: #business_data "data about the operations of an entity that provides services or products to other entities"
+
+
+### business_model
+a [business_model](https://en.wikipedia.org/wiki/Business_model "Wikipedia: business model") describes the rationale of how an organization creates, delivers, and captures value, in economic, social, cultural or other contexts  
+
+[business_model]: #business_model "describes how an organization produces and captures value in economic, cultural, or other contexts"
+
+
+### data_access
+
+
+
+### data_architect
+a data_specialist with expertise on designing data_models, interaction_models, and algorithms  
+· data_architects help build the open infrastructure of the human_internet by using their knowledge and experience to provide the network the features and capabilities used by people and other entities to access and manipulate personal_data privately, securely, reliably, and safely  
+
+[data_architect]: #data_architect "data_specialist with expertise on designing data_models, interaction_models, and algorithms"
+
+
+### data_broker
+a [data_broker](https://en.wikipedia.org/wiki/Information_broker "Wikipedia: information broker") is an entity who collects personal information for various sources, including public and private records, driving records, social·media sites, bank records, and web·browsing histories  
+· after generating an individual profile for the person, which can include a persons age, height, race, religion, an other attributes, a broker sells it to other entities, including government agencies, for motives including advertising and identity verification  
+
+[data_broker]: #data_broker "entity who collects personal information from various sources to sell it to other entities"
+
+
+### data_disposal
+
+
+### data_language
+a specification that describes the nature of data representing a person, object, knowledge, or activity  
+· the specification also describes how the data is manipulated, communicated, and processed to allow its shared access by multiple [**data_specialists**](#data_specialist) and service providers  
+
+[data_language]: #data_language "specification that describes the nature of data representing a person, object, knowledge, or activity"
+
+
+### data_manager
+a [**data_specialist**][data_specialist] who, in addition to reading data from a datapod, can add, modify, and delete data in a datapod  
+
+[data_manager]: #data_manager "entity who can add, modify, and delete data in a datapod" 
+
+
+### data_model
+a [**data_model**](https://en.wikipedia.org/wiki/Data_model "Wikipedia: data model") specifies the data structures and relationships used to represent an entity, object, attribute, or content, so that it can be manipulated by data_specialists    
+
+[data_model]: #data_model "specifies data structures and relationships used to represent an entity, object, attribute, or content"
+
+
+### data_owner
+a person or entity who stores data on a datapod  
+
+[data_owner]: #data_owner "person or entity who stores data on a datapod"
+
+
+### data_processor
+entity that accesses and manipulates entity_data on behalf of its owner or a data_specialist with the authorization of the data_owner  
+
+### data_processing
+
+### data_specialist
+an entity that possesses expertise in the usage of data to accomplish a task or perform a service  
+
+[data_specialist]: #data_specialist "entity that possesses expertise in the usage of data to accomplish a task or perform a service"
+
+
+### data_subject
+the person or entity to which a particular data item refers  
+
+[data_subject]: #data_subject "person or entity to which a particular data item refers"
+
+
+### datapod
+a private, securere, and safe pository of personal_data controlled by the data_owner  
+· the owner can grant access to parts of the repository to data_specialists so that they can provide the owner services, or perform social research  
+
+[datapod]: #datapod "private, securere, and safe pository of personal_data controlled by the data_owner"
+
+
+### datapod_host
+a service provider that houses and provides access to datapods
+
+[datapod_host]: #datapod_host "service provider that houses and provides access to datapods"
+
+
+### digital_experience
+a set of capabilities, interfaces, and interactions that is composed from the preferences and history of an entity (a person or organization) that works with data, interacts with other entities, or both  
+
+[digital_experience]: #digital_experience "capabilities and interfaces an entity can use thru its digital devices composed from its preferences and history"
+
+
 ### entity_data
-data that is used to identify an entity or in the course of providing the entity a service  
+data that identifies or is used to identify an entity, or that describes entity activity such as commerce, fitness, and interentity relationships  
+
+[entity_data]: #entity_data "data that identifies an entity, or describes its relationships and activities"
+
+
+### entity_introduction
+an introduction of one entity to another through a third entity that both parties trust  
+
+[entity_introduction]: #entity_introduction "introduction of one entity to another through a third entity that both parties trust"
+
+
+### human_internet
+network, infrastructure, and ecosystem that gives an entity total control over its data  
+· such entities (people, organizations, and others) can also exhert control over the information other entities create from such data and its online and offline activities  
+· this ecosystem is guided by principles and values whose guiding light is the benefit of individuals, societies, and humanity  
+
+[human_internet]: #human_internet "network, infrastructure, and ecosystem that gives entities total control over their data"
+
+
+### hyperdata
+[**personal_data**][personal_data] that uses its owners preferences, history, and other data to help the owner discover helpful services and resources  
+
+[hyperdata]: #hyperdata "personal_data that actively helps its owner discover helpful services and resources"
+
+
+### hyperweb
+dynamic network of connected [**hyperdata**][personal_data] cooperating on behalf of their owners  
+
+[hyperweb]: #hyperweb "dynamic network of hyperdata, cooperating on behalf of their owners"
+
+
+### interaction_model
+a set of data·manipulation statements—including subjects, verbs, and objects—that describes how a data_specialist works with data, by itself or with another entity, to perform a task or a service with data or content  
+
+[interaction_model]: #interaction_model "data·manipulation statements that describes how data_specialists perform a task or service with data or content"
+
 
 ### market_agent
 facilitate interactions between many *market_sources* and *market_consumers* on a *marketplace*  
@@ -1393,11 +1523,35 @@ facilitate interactions between many *market_sources* and *market_consumers* on 
 document that describes how a marketplace operates, detailing its data_model, interaction_model, 
 and algorithms
 
+
+### network_effect
+the [network_effect](https://en.wikipedia.org/wiki/Network_effect "Wikipedia: network effect") is the increased value of a service to its users by the addition of other users to the service  
+
+[network_effect]: #network_effect "increased value of a service to its users by the addition of other users to the service"
+
+
+### owned_data
+[**personal_data**][personal_data] that a person or entity stores in a datapod  
+
+[owned_data]: #owned_data "personal_data that a person or entity stores in a datapod"
+
+
 ### personal_data
 [entity_data](#entity_data) that refers to a person (a human being or a legal person) 
 
+[personal_data]: #personal_data "data about a person or that identifies a person"
+
+
+### personal_connection
+direct connection between two entities (persons or organizations) in which both parties are certain of the identity of the other as attested by a notary_public, secretary of state, or similar government agent  
+
+[personal_connection]: #personal_connection "direct connection between two entities certain of each others identity"
+
+
 ---
-2019.07.31,2258  
+2019.08.06,02  
+
+
 
 [free_humanity]: https://github.com/ernest-bruce/human-internet/blob/master/free_humanity/free_humanity.md#freeing-humanity-from-the-shackles-of-greed "Freeing Humanity from the Shackles of Greed"
 [internet_plan-internet]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#internet "Internet (A Plan for a Private, Safe, and Secure Internet)"
