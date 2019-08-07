@@ -61,15 +61,16 @@ this document discusses the values, principles, and policies of the human_intern
 sections:  
 
   * [INTRODUCTION](#introduction)
-  * [THE FUTURE](#the-future)
-  * [THE HUMAN·INTERNET](#the-humaninternet)
-  * [VISION, PRINCIPLES, VALUES](#vision-principles-values)
-  * [CUSTOMERS AND BAIT](#customers-and-bait)
-  * [IDENTITY, ENCRYPTION](#identity-encryption)
-  * [POWER TO YOU](#power-to-you)
-  * [POWER TO THE PEOPLE](#power-to-the-people)
-  * [DIGITAL ECOSYSTEM](#digital-ecosystem)
-  * [NOW WE BUILD IT](#now-we-build-it)
+  * [THE FUTURE](#the-future  "powerful devices help secure personal_data, and help hyperdata work for people")
+  * [BUILDING THE FUTURE](#building-the-future "introduces Peoples Benefit Corporation, describes its first products")
+  * [THE HUMAN_INTERNET](#the-humaninternet "the internet needs to reflect humanity, humanity needs honest and trustworthy digital connection")
+  * [VISION, PRINCIPLES, VALUES](#vision-principles-values ""our wisdom is our vision, our principles guide us, our values center us"")
+  * [CUSTOMERS AND BAIT](#customers-and-bait "our data and our data bandwidth pay for everything we do on the internet, *nothing* is free")
+  * [IDENTITY, ENCRYPTION](#identity-encryption "trustful identity requires *real* identity, and private, secure interactions require strong encryption of data and content")
+  * [POWER TO YOU](#power-to-you "an ecosystem of by and for The People (including you) requires human values")
+  * [POWER TO THE PEOPLE](#power-to-the-people "people rise up against the data brokers, data traffickers, and data thieves")
+  * [DIGITAL ECOSYSTEM](#digital-ecosystem "humanity needs an ecosystem focused on humans, addressing peoples varied needs and wants, without putting their personal_data at risk, continuously evolving")
+  
 
 &nbsp;  
 &nbsp;  
@@ -215,13 +216,13 @@ the future *is not* your information spread over data silos everywhere, controll
 · the future *is* the [**datapod**][datapod] (a managed collection of data and content controlled by you) with your data, accessed by trusted, responsible, and principled entities, who process your information on *your* behalf not theirs  
 
 the future *is not* one monumentally flawed interpretation of [social computing][social·computing]  
-· the future *is* many interpretations of social computing that are culturally sensitive, catered for entertainers, politicians, intellectuals, teenagers, seniors, rocket scientists, astronomers, biologists, swimmers, skydivers, racecar drivers, bicyclists, runners, dentists, surgeons, teachers, tailors, architects, runway models, firefighters, police officers, lawyers, each with their own practices, norms, acceptable content, and so forth, which are *not* specified by companies with their eyes glued to the bottom lines of their balance sheets  
+· the future *is* many interpretations of social computing that are culturally sensitive, catered for entertainers, politicians, intellectuals, teenagers, seniors, rocket scientists, astronomers, biologists, swimmers, skydivers, race·car drivers, bicyclists, runners, dentists, surgeons, teachers, tailors, architects, runway models, firefighters, police officers, lawyers, each with their own practices, norms, acceptable content, and so forth, which are *not* specified by companies with their eyes glued to the bottom lines of their balance sheets  
 
 the future *is* [**hyperdata**][hyperdata]  
 · by leveraging more capable and flexible digital devices, data no longer has to be a one·dimensional collection of facts and content  
 · hyperdata uses your devices (and other devices available to it) to provide you the information you need when you need it, unbiased  
 · backed by public knowledge and interactions with appropriate entities, hyperdata works for you, providing you information that is always useful to you because hyperdata knows you, what you need at a specific moment, and what you like the most  
-· Waze showing you an ad for a newrby Burger King as you as you stop at a stoplight *is not* hyperdata; that is just Google making money  
+· Waze showing you an ad for Burger King as you as you stop at a stoplight *is not* hyperdata; that is just Google making money  
 · your TV suggesting [*Braveheart*](https://en.wikipedia.org/wiki/Braveheart "Wikipedia: Braveheart") Sunday afternoon after you did some research last Monday for your upcoming visit to Europe, and booked that paintball event for your nephew on Thursday *is* hyperdata (plus, it has been a little more than a year since you last saw the movie)  
 
 the future *is* the [**hyperweb,**][hyperweb] a dynamic network of hyperdata, cooperating to improve the lives of their owners behind the scenes but never behind their backs  
@@ -243,12 +244,76 @@ if not pure greed
 · while making a profit is good in general, something is lost when every aspect of humanity is viewed through the lens of profitability  
 · [Boeing][Boeing] had this view when it decided to offer for sale a [flawed, unsafe plane,][Boeings_plane] to try to compete against better·designed planes from [Airbus][Airbus], and put in peril the lives of the millions of people who fly every day  
 · [Eli Lilly][Eli_Lilly] and other drug manufacturers make [large profits][insulin_prices] out of the lives of people with diabetes because *they can*; people generally pay anything to stay alive  
-· and Facebook uses data we provide willingly about ourselves—although enriched with an incredibley amount of data about us, our family, our friends, our colleagues, and anybody who grazes our orbit in any way—to generate large amounts of revenue and profit without regard to the risks to our privacy and safety, despite any public pronunciations of its executive officers, as former employees and internal communications demonstrate  
+· and Facebook uses data we provide willingly about ourselves—although enriched with an incredible amount of data about us, our family, our friends, our colleagues, and anybody who grazes our orbit in any way—to generate large amounts of revenue and profit without regard to the risks to our privacy and safety, despite any public pronunciations of its executive officers, as former employees and internal communications demonstrate  
 
 no, *we The People* must take charge of our own digital life to make sure that it is free of entities who work against our best interests, and that it is guided by human·centric principles of honesty, responsibility, and accountability   
 · the behemoths can join us under our terms or stay behind  
 
 &nbsp;  
+&nbsp;  
+&nbsp;  
+
+
+## BUILDING THE FUTURE
+
+
+
+---WORK IN PROGRESS---
+who will start the human·internet?
+
+what will Peoples build?
+
+what are the initial components of the human·internet?
+
+
+exciting, right?  
+· so, what do we need to get this futuristic, humanistic, and humane digital ecosystem going?  
+
+there are three things we can do to hasten the human·internet’s design, implementation, and safe deployment:  
+
+  * start the conversation
+  * design and implementing models, platforms, and infrastructure
+  * develop products and services
+
+&nbsp;  
+&nbsp;  
+
+
+### Starting the conversation
+to get a lively and informative conversation going, we can found the Human Internet Consortium  
+· entities of all types (individuals and nonprofit, public·benefit, and for·profit entities) can join to agree on the vision, policies, and rules of the human·internet  
+· all knowledge and expertise is valuable in designing an open, privacy-focused, secure, and safe ecosystem where individuals are the main beneficiaries  
+· entities who work with personal·data can make their views known so that the ecosystem can accommodate their needs as closely as possible, while prioritizing the privacy, security, and safety rights of individuals  
+· in light of upcoming regulation (even calls for the break-up of some large entities), helping to craft the next generation of the internet, one that is more attuned to the needs of human·beings and that limits the direct influence of such entities, may help preclude drastic regulation and antitrust proceedings, while creating an environment with equal chances of success for all participants  
+
+&nbsp;  
+&nbsp;  
+
+
+### Designing and implementing models, platforms, and infrastructure
+to guarantee that the data·specialists who participate in the human·internet enjoy an environment where all of them have the same access to people and opportunities for profit, the entities who design and implement the open models, platforms, and infrastructure of the human·internet must not have a profit motive  
+· this is how the human·internet will ensure a fair playing field for all participants  
+· as Elizabeth Warren puts it, you are either an umpire or a player, never both  
+· while, all members of the Human Internet Consortium can make suggestions and submit proposals, only nonprofit entities can perform the official design and implementation work that defines the infrastructure 
+of the human·internet  
+· nonprofit entities interested in helping craft the next great digital ecosystem for humanity can become *working members*  
+· one such nonprofit entity is **Peoples·Foundation**  
+
+this work can be funded by humanistic and humane organizations, government programs, and any entity who wants to ensure that the human·internet gets the best start possible  
+
+&nbsp;  
+&nbsp;  
+
+
+### Developing products and services
+with a fair, privacy-focused playing field in place, the human·internet will need businesses to create compelling products and services for people to use  
+· entities interested in making profits while operating honorably and responsibly with personal·information in the human·internet can participate in its development by developing products and services that run on it  
+· these novel and innovative products will (almost by default) have a higher level of respect for human·dignity, data·privacy, data·security, and personal safety than the internet of today offers
+· entities willing to operate in an environment where people have strong actual control over how their personal·data is used will enjoy better publicity for themselves and stronger, more meaningful relationships with their human customers, whom are the *actual* backbone of the internet  
+
+while the preliminary infrastructure of the human·internet is implemented, entities with an eye on producing profits honorably can develop services and products concurrently, ensuring that they are ready at the human·internet’s birthdate on 2025  
+· investors of all types can fund entities that will reap the benefits of operating in an ecosystem that people can trust and that will not allow the nefarious behaviors that are possible today  
+
 &nbsp;  
 &nbsp;  
 
@@ -301,6 +366,12 @@ the human_internet also provides more useful ways to consume content that are po
 
 
 ## VISION, PRINCIPLES, VALUES
+> • our vision uses wisdom to identify the general direction and the goals to aim for  
+> • our principles leverage history, law, and human rights to provide guidance, and fundamental rules that indicate how to move forward   
+> • our values help us internalize behavior that is compatible with our vision and principles, and identify behavior that goes against those tenets     
+
+&nbsp;  
+
 the internet lacks values  
 · other than effectiveness and efficiency as a communication infrastructure, the internet has no human values  
 · there are [people](http://www.connected.org/is/values.html "") who try to implant values on it  
@@ -432,12 +503,17 @@ entity_introductions protect personal_data and provide people with a pleasant ex
 
 
 ## IDENTITY, ENCRYPTION
+> • **trustful identity** infrastructure is anchored at *real* identities  
+> • **strong encryption** of personal_data is essential in a network that values human rights  
+
+&nbsp;
+
 the current internet infrastructure does not provide the protections required to guarantee the privacy and security of personal_data  
 · a new infrastructure is needed that is based on *attested identity* and *strong encryption*  
 · to effectively protect your identity and your personal_data, this infrastructure must:
 
 * guarantee that you deal with *real people* and the ones you expect, and that others know that they are dealing with you and not an imposter  
-* make the natural state of your personal_data *unreadable,* even to entities that you have authorized to access it (to read such data, authorized entities must descrypt it using a *secure_element*)  
+* make the natural state of your personal_data *unreadable,* even to entities that you have authorized to access it (to read such data, authorized entities must decrypt it using a *secure_element*)  
 
 &nbsp;
 
@@ -466,7 +542,7 @@ a second necessary aspect of protecting a person’s privacy is *encryption*
 
 ## POWER TO YOU
 >the human_internet has human values  
-· it serves you, and helps businesses serve you privately, securely, respectfully, and honorably  
+· it serves you, and helps businesses serve you privately, securely, respectfully, reliably, and honorably  
 
 &nbsp;
 
@@ -1205,7 +1281,7 @@ there is only one of you, all the services you deal with in the physical world d
 · all the personal_data·based services you use operate on the *one true repository* of your data that exists  
 · you do not have to worry about separate entities having different versions of your data because there is *only one* version of your data  
 
-the devices you use are connected through you, therefore, they should operate together, as a team, to help you get things done, efforlessly *and* seamlessly    
+the devices you use are connected through you, therefore, they should operate together, as a team, to help you get things done, effortlessly *and* seamlessly    
 · today, a friend that visits your house can join your wireless network without needing a password from you if both of you have iOS devices  
 · or, if you get a Samsung TV, it can be configured for your network if you also have a Samsung phone  
 · this kind of functionality must be extended so that regardless of the company that produces a device, it can operate effectively with devices from other manufactures because that would benefit *you*  
@@ -1243,7 +1319,7 @@ Amazon is both a marketplace and the largest participant in that marketplace
 
 instead of being selfish bullies, businesses like Amazon should cooperate on open platforms that facilitate business·to·business interactions, knowing that no one business has an unfair advantage over the other participants  
 · by contributing their knowledge and expertise to the development of highly capable and flexible platforms that raise the chances at success for all participants, platform experts would help develop the business environments that take humanity forward  
-· or they may choose to participante in egalitarian platforms where customers choose their products based on their innovation, flexibility, and value, instead of their unfair access to the intimate business_data of 
+· or they may choose to participate in egalitarian platforms where customers choose their products based on their innovation, flexibility, and value, instead of their unfair access to the intimate business_data of 
 their competitors     
 
 ---
@@ -1286,7 +1362,7 @@ as [Senator Warren](https://www.warren.senate.gov) often says, we need to level 
 · Amazon operates an incredibly powerful, closed marketplace, which lets it [compete unfairly](https://overcast.fm/+HWy4kXj1k "Decrypted: “As Amazon Gets Bigger, Sellers Feel the Squeeze” [25:21]") with its participants (sellers do not have access to information such as product availability, inventory levels, and purchasing details, like Amazon has)  
 · the human_internet facilitates the creation of open marketplaces that provide the same flexibility and name recognition Amazon provides but without the threat of competition from its operator  
 · business entities can participate in or create their own marketplaces using common data_models and algorithms  
-· all data processing in these marketplaces is done for the benefit of their participants including sellers, buyers, and shippers, but not to directly benift the platform operator  
+· all data processing in these marketplaces is done for the benefit of their participants including sellers, buyers, and shippers, but not to directly benefit the platform operator  
 
 a [**marketplace_specification**](#marketplace_specification) describes how a marketplace operates, detailing its data_model, interaction_model, 
 and algorithms  
@@ -1315,68 +1391,6 @@ regulation and antitrust proceedings can address Amazon’s dominance over inter
 &nbsp;  
 &nbsp;  
 &nbsp;  
-
-
-## NOW WE BUILD IT
----WORK IN PROGRESS---
-who will start the human·internet?
-
-what will Peoples build?
-
-what are the initial components of the human·internet?
-
-
-exciting, right?  
-· so, what do we need to get this futuristic, humanistic, and humane digital ecosystem going?  
-
-there are three things we can do to hasten the human·internet’s design, implementation, and safe deployment:  
-
-  * start the conversation
-  * design and implementing models, platforms, and infrastructure
-  * develop products and services
-
-&nbsp;  
-&nbsp;  
-
-
-### Starting the conversation
-to get a lively and informative conversation going, we can found the Human Internet Consortium  
-· entities of all types (individuals and nonprofit, public·benefit, and for·profit entities) can join to agree on the vision, policies, and rules of the human·internet  
-· all knowledge and expertise is valuable in designing an open, privacy-focused, secure, and safe ecosystem where individuals are the main beneficiaries  
-· entities who work with personal·data can make their views known so that the ecosystem can accommodate their needs as closely as possible, while prioritizing the privacy, security, and safety rights of individuals  
-· in light of upcoming regulation (even calls for the break-up of some large entities), helping to craft the next generation of the internet, one that is more attuned to the needs of human·beings and that limits the direct influence of such entities, may help preclude drastic regulation and antitrust proceedings, while creating an environment with equal chances of success for all participants  
-
-&nbsp;  
-&nbsp;  
-
-
-### Designing and implementing models, platforms, and infrastructure
-to guarantee that the data·specialists who participate in the human·internet enjoy an environment where all of them have the same access to people and opportunities for profit, the entities who design and implement the open models, platforms, and infrastructure of the human·internet must not have a profit motive  
-· this is how the human·internet will ensure a fair playing field for all participants  
-· as Elizabeth Warren puts it, you are either an umpire or a player, never both  
-· while, all members of the Human Internet Consortium can make suggestions and submit proposals, only nonprofit entities can perform the official design and implementation work that defines the infrastructure 
-of the human·internet  
-· nonprofit entities interested in helping craft the next great digital ecosystem for humanity can become *working members*  
-· one such nonprofit entity is **Peoples·Foundation**  
-
-this work can be funded by humanistic and humane organizations, government programs, and any entity who wants to ensure that the human·internet gets the best start possible  
-
-&nbsp;  
-&nbsp;  
-
-
-### Developing products and services
-with a fair, privacy-focused playing field in place, the human·internet will need businesses to create compelling products and services for people to use  
-· entities interested in making profits while operating honorably and responsibly with personal·information in the human·internet can participate in its development by developing products and services that run on it  
-· these novel and innovative products will (almost by default) have a higher level of respect for human·dignity, data·privacy, data·security, and personal safety than the internet of today offers
-· entities willing to operate in an environment where people have strong actual control over how their personal·data is used will enjoy better publicity for themselves and stronger, more meaningful relationships with their human customers, whom are the *actual* backbone of the internet  
-
-while the preliminary infrastructure of the human·internet is implemented, entities with an eye on producing profits honorably can develop services and products concurrently, ensuring that they are ready at the human·internet’s birthdate on 2025  
-· investors of all types can fund entities that will reap the benefits of operating in an ecosystem that people can trust and that will not allow the nefarious behaviors that are possible today  
-
-&nbsp;  
-&nbsp;  
-
 
 
 
@@ -1458,10 +1472,10 @@ the person or entity to which a particular data item refers
 
 
 ### datapod
-a private, securere, and safe pository of personal_data controlled by the data_owner  
+a private, secure, and safe repository of personal_data controlled by the data_owner  
 · the owner can grant access to parts of the repository to data_specialists so that they can provide the owner services, or perform social research  
 
-[datapod]: #datapod "private, securere, and safe pository of personal_data controlled by the data_owner"
+[datapod]: #datapod "private, secure, and safe repository of personal_data controlled by the data_owner"
 
 
 ### datapod_host
@@ -1490,7 +1504,7 @@ an introduction of one entity to another through a third entity that both partie
 
 ### human_internet
 network, infrastructure, and ecosystem that gives an entity total control over its data  
-· such entities (people, organizations, and others) can also exhert control over the information other entities create from such data and its online and offline activities  
+· such entities (people, organizations, and others) can also exert control over the information other entities create from such data and its online and offline activities  
 · this ecosystem is guided by principles and values whose guiding light is the benefit of individuals, societies, and humanity  
 
 [human_internet]: #human_internet "network, infrastructure, and ecosystem that gives entities total control over their data"
