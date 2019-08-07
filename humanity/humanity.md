@@ -69,7 +69,7 @@ sections:
   * [IDENTITY, ENCRYPTION](#identity-encryption "trustful identity requires *real* identity, and private, secure interactions require strong encryption of data and content")
   * [POWER TO YOU](#power-to-you "an ecosystem of by and for The People (including you) requires human values")
   * [POWER TO THE PEOPLE](#power-to-the-people "people rise up against the data brokers, data traffickers, and data thieves")
-  * [DIGITAL ECOSYSTEM](#digital-ecosystem "humanity needs an ecosystem focused on humans, addressing peoples varied needs and wants, without putting their personal_data at risk, continuously evolving")
+  * [A HUMANE DIGITAL ECOSYSTEM](#a-humane-digital-ecosystem "humanity needs an ecosystem focused on humans, addressing peoples varied needs and wants, without putting their personal_data at risk, continuously evolving")
   
 
 &nbsp;  
@@ -674,27 +674,35 @@ your data stored in a datapod provides several benefits:
 &nbsp;  
 
 
-### 3. Allows entities that specialize in particular types of data to operate on peoples personal_data
-*you authorize such entities, known as data_specialists, to access your datapod to work on your behalf with the type of data you authorize*  
+### 3. Allows entities who specialize in particular data domains to access datapods  
+*you authorize such entities, known as data_specialists, to access your datapod to work on your behalf with the data domain you authorize*  
 
 &nbsp;
 
-a **data_specialist** is an entity capable of interacting with datapods  
-· there can be health_data specialists, such as healthcare providers, and health plans; social_data specialists, such as social_services; and financial_data specialists, such as banks and investment firms  
-· these specialists are further divided into *data_consumers*, *data_managers*, and *data_architects*  
-· **data_consumers** can only get data  
-· **data_managers** can add, get, modify, and remove data  
-· **data_architects** specify how data is structured and how data_consumers and data_managers access and manipulate data   
-· an entity can play one or more of these roles at the same time  
+a [**data_specialist**][data_specialist] is an entity capable of interacting with datapods  
+· there can be health_data specialists, such as healthcare providers, and health plans; social_data specialists, such as social services; and financial_data specialists, such as banks and investment firms  
+· these specialist roles are further divided into *data_consumers*, *data_managers*, and *data_architects*  
+· [**data_consumers**][data_consumer] can only get data from datapods  
+· [**data_managers**][data_manager] can add, get, modify, and remove data in datapods  
+· [**data_architects**][data_architect] specify how data is structured and how data_specialists access and manipulate data in datapods  
+· an entity can play one or more of these roles at the same time   
 
-a social_service that helps you make connections is an example of a social·data manager  
-· while a calendar_service is an example of an event·data manager and a social·data consumer  
+regardless of how a particular entity identifies itself—consumer or manager—the datapod owner sets specific [**datapod_access_capabilities**][datapod_access_capability] for accessing particular data domains in the datapod  
+· for example, if the Acme Corporation identifies itself as a manager for social, health, and financial data, the owner can set the access_capabalities of that corporation with respect to sie datapod as follows:
 
-a datapod keeps your data safe and protected against access and tampering from entities you do not know, but you need to authorize access to it to data_specialists you trust so that they can get or manage the type of personal_data in which they specialize    
-· you do this using special software in a **personal_device** such as a handheld or a tablet  
+| specialist     | social domain | health domain  | financial domain |
+|:---            |:---:          |:---:           |:---:             |
+| **Acme Corp**  |read           |write           |none              |
 
-only the entities a datapod’s owner authorizes can manipulate that person’s datapod data  
-· not even the datapod_service_provider can access the data, unless authorized by the owner  
+· this means that Acme is able to read social_data, and read and write health_data, but it has no access to the financial_data of the datapod owner  
+· every time Acme accesses the personal_data on the datapod, it should ask the datapod what it can do with the data it stores, and adjust when the access capability is more restrictive than expected  
+
+a datapod keeps your data safe and protected against access and tampering from entities you do not know  
+· you need to authorize access to it to specialists you trust so that they manage your data in the domain that you specify, and in the way you want it managed  
+· you do this using software in a **personal_identification_device** such as a handheld or a tablet  
+
+only the entities a datapod owner authorizes can manipulate data in the datapod  
+· not even the [**datapod_host**][datapod_host] can access the data, unless authorized by the owner  
 · data is always encrypted using the strongest encryption available  
 
 &nbsp;  
@@ -1020,7 +1028,7 @@ the human_internet embraces innovation and differentiation
 &nbsp;  
 
 
-## DIGITAL ECOSYSTEM
+## A HUMANE DIGITAL ECOSYSTEM
 > continuous improvement is what drives humanity forward, and humanity is at its greatest when people work together to improve lives and find solutions to common problems  
 
 &nbsp;  
@@ -1426,6 +1434,13 @@ a [data_broker](https://en.wikipedia.org/wiki/Information_broker "Wikipedia: inf
 [data_broker]: #data_broker "entity who collects personal information from various sources to sell it to other entities"
 
 
+### data_consumer
+a data_specialist that requires read access to data in datapods  
+· entities can identify themselves as data_consumers to assure people of their intention not to modify the data they need to access to perform their activity or service  
+
+[data_consumer]: #data_consumer "data_specialist that requires read access to data in datapods"
+
+
 ### data_disposal
 
 
@@ -1459,6 +1474,7 @@ entity that accesses and manipulates entity_data on behalf of its owner or a dat
 
 ### data_processing
 
+
 ### data_specialist
 an entity that possesses expertise in the usage of data to accomplish a task or perform a service  
 
@@ -1476,6 +1492,13 @@ a private, secure, and safe repository of personal_data controlled by the data_o
 · the owner can grant access to parts of the repository to data_specialists so that they can provide the owner services, or perform social research  
 
 [datapod]: #datapod "private, secure, and safe repository of personal_data controlled by the data_owner"
+
+
+### datapod_access_capability
+a datapod_access_capability specifies the actions a data_specialist can take on a specific data realm in a datapod  
+· the possible access capabilities are read and write  
+
+[datapod_access_capability]: #datapod_access_capability "specifies the actions a data_specialist can take on a specific data realm in a datapod"
 
 
 ### datapod_host
