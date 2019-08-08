@@ -690,16 +690,16 @@ a [**data_specialist**][data_specialist] is an entity capable of interacting wit
 regardless of how a particular entity identifies itself—consumer or manager—the datapod owner sets specific [**datapod_access_capabilities**][datapod_access_capability] for accessing particular data domains in the datapod  
 · for example, if the Acme Corporation identifies itself as a manager for social, health, and financial data, the owner can set the access_capabalities of that corporation with respect to sie datapod as follows:
 
-| specialist     | social domain | health domain  | financial domain |
-|:---            |:---:          |:---:           |:---:             |
-| **Acme Corp**  |read           |write           |none              |
+| specialists    | social | health | finance |
+| :---           | :---:  | :---:  | :---:   |
+| **Acme Corp**  | read   | write  | none    |
 
 · this means that Acme is able to read social_data, and read and write health_data, but it has no access to the financial_data of the datapod owner  
 · every time Acme accesses the personal_data on the datapod, it should ask the datapod what it can do with the data it stores, and adjust when the access capability is more restrictive than expected  
 
 a datapod keeps your data safe and protected against access and tampering from entities you do not know  
 · you need to authorize access to it to specialists you trust so that they manage your data in the domain that you specify, and in the way you want it managed  
-· you do this using software in a **personal_identification_device** such as a handheld or a tablet  
+· you do this using software in a [**personal_identification_device**][personal_identification_device] such as a handheld or a tablet  
 
 only the entities a datapod owner authorizes can manipulate data in the datapod  
 · not even the [**datapod_host**][datapod_host] can access the data, unless authorized by the owner  
@@ -710,16 +710,22 @@ only the entities a datapod owner authorizes can manipulate data in the datapod
 
 
 ### 4. Lets you give others direct access to your data
-*you can designate trusted people as your personal_agents, which allows them to access your datapod so that they can perform actions on your behalf in case you are incapacitated; this facilitates their access to information that you want kept from everybody else but that would be useful for them to have when you cannot provide it yourself*  
+*you can designate highly trusted people as your personal_agents, which allows them to access your datapod so that they can perform actions on your behalf in case you are incapacitated; this facilitates their access to information that you want kept from everybody else but that would be useful for them to have when you cannot provide it yourself*  
 
 &nbsp;
 
-a strong identity_infrastructure provides people and organizations with significant capabilities  
-· the flexible authentication and authorization features available in the human_internet allow you to grant trusted individuals (and even some organizations) direct access to your data, in case you are incapacitated or need others to have such access, such as your spouse or a person with power·of·attorney privileges  
+a strong identity infrastructure provides people and organizations with significant capabilities  
+· the flexible authentication and authorization features available in the human_internet allow you to grant *highly trusted* individuals (and even some organizations) direct access to your data, in case you are incapacitated or need others to have such access, such as your spouse or a person with power·of·attorney privileges  
 
 when you give another person or entity direct access to your datapod, that person, known as a **personal_agent,** can access it with the same flexibility you have, through the data_specialists you have authorized to access 
 your datapod   
-· however, you may limit the access of each personal_agent (or attorney·in·fact) to specific areas, such as health_data or financial_data  
+· however, you may limit the access of each personal_agent (or [**attorney_in_fact**][attorney_in_fact]) to specific data_domains in your datapod, such as health or finance  
+
+| agents                      | social | health | finance |
+| :---                        | :---:  | :---:  | :---:   |
+| **Marian Diamond (lawyer)** | read   | read   | write   |
+| **Honey Bun (spouse)**      | write  | write  | write   |
+
 
 &nbsp;  
 &nbsp;  
@@ -727,6 +733,7 @@ your datapod
 
 ### 5. Makes *you* the platform  
 *instead of going through intermediaries like Twitter, Facebook, or YouTube, you publish content as your own platform; people can follow your thoughts, your posts, and your videos, not your Twitter tweets, your Facebook posts, or your YouTube videos*  
+*· you have total control over the content you publish and view; you are the master of your domain and are free to express yourself in whatever ways you see fit; you can also view any content you want from any source you choose; but you bear total responsibility for the content you publish*
 
 &nbsp;
 
@@ -740,15 +747,16 @@ the internet of today is full of companies that create *platforms*
 · will Facebook be on the spaceships that take us to other solar systems?  
 · no, only the people on the ships and their fellow travelers will be there  
 · Facebook and its infrastructure will remain on Earth  
-· in space *we don’t need Facebook*
+· in space *we don’t need Facebook*  
+· we need only each other (and the space tech that will keep us alive and safe during our long, long journeys)  
 
 what kinds of platforms are you?  
 · all kinds  
 · you are a social platform, a messaging platform, a research platform, a *whatever* platform  
 
 you have family and friends, not *Facebook* family or *Facebook* friends  
-· you have professional relationships, which encompass more than your LinkedIn connections   
-· you can publish articles under your own name without the need for a Medium between you and your readers  
+· you have professional relationships that encompass more than your LinkedIn connections   
+· you can publish articles under your own name without the need for a *Medium* between you and your readers  
 · you can publish videos that showcase the real you, without any entity’s [monetization objectives](https://youtu.be/ZQuE0wfjzf0  "YouTube: Why Everyone’s Leaving YouTube") affecting the content you put out  
 · you control your content’s monetization approach; it is *your content*  
 · what stops you from being your own platform?  
@@ -756,20 +764,23 @@ you have family and friends, not *Facebook* family or *Facebook* friends
 · in the human_internet, the principal, most powerful, and most influential platform is *you*  
 
 the human_internet has no social networks, it has *social services*  
-· the network is you  
-· people follow you, they subscribe to your content, they get notified when you publish new articles dealing with sports, the automobile industry, or politics  
-· Facebook, Twitter, Medium, and similar entities do not stand in between you and your audience  
+· the network is *you*  
+· people follow *you*, they subscribe to *your* content, they get notified when *you* publish new articles dealing with sports, the automobile industry, or politics  
+· in the human_internet, Facebook, Twitter, Medium, and similar entities do not stand between you and your audience  
 · you are the content producer, moderator, and editor in chief  
 · a social service (a role that any entity can take) uses your network as the source of social_data about you  
-· therefore, any social service you use works off the same information, which gives you great flexibility regarding your social experience  
+· therefore, any social service you use works from the same information, which gives you great flexibility regarding your social experience  
 
 whether you are an influencer or a newbie, you do not need a platform like Instagram or Twitter to get your message across  
 · who other than you can determine what you have to say?  
 · who other than you can specify what content you are exposed to?  
 
+on the other hand, you can specify the type of content you want to view, and your desired sources for that content  
+· if you do not find a source credible, you can add it to your undesirable·sources list, or remove it from your desirable·sources list  
+
 a few caveats, though  
 · although you can publish anything you want, the human_internet does not support any kind of anonymity  
-· it does not allow you to use a name different from the name you use to become a member of the network, which is based on government·issued identification  
+· it does not allow you to use a name different from the name you used to become a member of the network, which is based on government·issued credentials  
 · if you publish illegal content, you *will* be prosecuted  
 · if you publish false content, people may stop following you and, worse, disconnect from you altogether  
 
@@ -777,39 +788,19 @@ a few caveats, though
 &nbsp;  
 
 
-### 6. Lets you publish and view any content you want
-*you have total control over the content you publish and view; you are the master of your domain and are free to express yourself in whatever ways you see fit; you can also view any content you want from any source you choose; but you bear total responsibility for the content you publish*
-
-&nbsp;
-
-in the human_internet, no one dictates what content you can publish and what content you can view on your devices  
-· you are your own platform, and you have freedom of speech  
-· you can publish any legal content you want  
-· no one tells you what to publish and what not to publish  
-
-on the other hand, you can specify the type of content you want to view, and your desired sources for that content  
-· if you do not find a source credible, you can add it to your undesirable·sources list, or remove it from your desirable·sources list  
-
-you have total control over the content you publish and the content you view because this is the human_internet, *your* internet  
-· however, you bear *total responsibility* for the content you publish  
-· publishing unlawful and harmful content, such as shootings and murders, can put you in the cross·hairs of law enforcement, who may arrest, prosecute, and convict you  
-· remember, you cannot hide under anonymity or a false identity in the human_internet  
-
-&nbsp;  
-&nbsp;  
-
-
-### 7. Allows you to divide your digital_life into facets
-*each facet represents an aspect of your life that you want your followers to be able to follow individually, without bothering with the rest of your digital_life; for example, people are able to follow only your professional life and avoid getting pictures of your cute cat’s life*  
+### 6. Allows you to divide your digital life into facets
+*each facet represents an aspect of your life that you want your followers to be able to follow individually, without bothering with the rest of your digital life; for example, people can follow only your professional life and avoid getting pictures of your cute cat’s life*  
 
 &nbsp;
 
 you may have a personal life, a professional life, and a political life, which you manage using three social·networking platforms, such as Facebook, LinkedIn, and Twitter  
 · some platforms let you crosspost to others, for example, a Facebook post can be duplicated in a Twitter tweet  
 · because of the different capabilities and limitations of the platforms (for example, Twitter’s limit on the length of tweets) this is a flawed way to bridge multiple aspects of your life  
+· these issues are easy to solve  
+· but solving them goes against the common corporation goal of world domination, so we miss out  
 
-in the human_internet, *you* are your own platform; therefore, you do not need other platforms to define you or any aspect of your digital_life  
-· you can use different *facets* of digital_life to compartmentalize your life both for your sake and for the benefit of those who are interested in your life, making it easier on you to produce content and your followers to consume it  
+remember, in the human_internet, *you* are your own platform; therefore, you do not need other platforms to define you or any aspect of your digital life  
+· you can use different *facets* of digital life to compartmentalize your life both for your sake and for the benefit of those who are interested in your life, making it easier on you to produce content and on your followers to consume it  
 · people can follow the “whole you” or only the “professional you”  
 · although you have a single identity, it can be separated into facets that can be used across services  
 · therefore, instead of “follow me at @*you*,” you can tell people interested in your political musings “follow me at @*you~politics*”  
@@ -819,7 +810,7 @@ in the human_internet, *you* are your own platform; therefore, you do not need o
 &nbsp;  
 
 
-### 8. Provides the means to create groups and communities
+### 7. Provides the means to create groups and communities
 *these entities are platforms of their own, allowing you to develop connections with a large number of people with common interests*  
 
 &nbsp;
@@ -830,31 +821,31 @@ you can found groups and communities that are platforms of their own
 · they may also develop capabilities that present specialized content or facilitate custom interactions 
 between members  
 
-these entities could be the foundation of mini social_services that satisfy the belonging needs of most people, eliminating the need to join generalized social·networking platforms that are incapable of catering to particular audiences, and whose goals are not to help individuals, societies, or humanity, but to enrich themselves by collecting revenue from their real customers, advertisers  
-· like personal_data, these groups and communities are separate from the software people use to interact with them, allowing individuals to choose the service that best meets their needs, while guaranteeing that data is not duplicated, and that the proven and tested basic interactions are reliable and error free  
+these entities could be the foundation of mini social services that satisfy the belonging needs of most people, eliminating the need to join generalized social·networking platforms that are incapable of catering to particular audiences, and whose goals are not to help individuals, societies, or humanity, but to enrich themselves by collecting as much revenue as possible from their real customers, advertisers  
+· like personal_data, these groups and communities are separate from the software people use to interact with them, allowing individuals to choose the service that best meets their needs, while guaranteeing that data is not duplicated, and that the proven and tested basic interactions are reliable and error·free  
 
 &nbsp;  
 &nbsp;  
 
 
-### 9. Lets you specify how data_specialists can use your personal_data
-*just like you can specify how apps can use your location and other data on your phone, you will be able to specify how data_specialists use and dispose of your personal_data; you can think of this as your human_internet **preferences,** which all entities who want to access your personal_data must adhere to*  
+### 8. Lets you specify how data_specialists use your personal_data
+*just like you can specify how apps can use your location and other data on your handheld, you will be able to specify how data_specialists use and dispose of your personal_data; you can think of this as your human_internet **preferences,** which all entities who want to access your personal_data must adhere to*  
 
 &nbsp;
 
-in the human_internet, you set the parameters for access and disposition of your personal_data, which the entities you authorize to interact with your datapod must adhere to  
-· you do this thru an easy·to·use interface on your personal_device, no emails or phone calls needed   
+in the human_internet, *you* set the parameters for access and disposition of your personal_data, which the entities you authorize to interact with your datapod must adhere to  
+· you do this thru an easy·to·use interface on your personal_identification_device, no emails or phone calls needed   
 · the parameters specify, for example, how long a data_specialist can keep local copies of your data before they must be destroyed or archived (for compliance with regulations, for example)  
 
 &nbsp;  
 &nbsp;  
 
 
-### 10. Lets you view and analyze logs and stats about your personal_data
+### 9. Lets you view and analyze logs and stats about your personal_data
 *you can view which entities access your data and for what reason, at any time, directly on your personal_device*  
 
 with your personal_data stored and managed in a datapod, you can view and analyze all activity on your 
-data at anytime  
+data at anytime you wish  
 · this way, you know what entities modified your data and why  
 · for example, you can monitor your financial activity and see what medical services your health plan has paid for, and know when your last lab tests are ready for your doctor to analyze  
 
@@ -1404,6 +1395,13 @@ regulation and antitrust proceedings can address Amazon’s dominance over inter
 
 # GLOSSARY  
 
+### attorney_in_fact
+an [**attorney_in_fact**](https://www.investopedia.com/terms/a/attorneyinfact.asp "Investopedia: attorney-in-fact") is a person authorized to act on behalf of another through a power of attorney document  
+
+
+[attorney_in_fact]: #attorney_in_fact "person authorized to act on behalf of another person or entity through a power·of·attorney document"
+
+
 ### business_data
 data about the operations of an entity that provides services or products to other entities  
 
@@ -1585,8 +1583,23 @@ direct connection between two entities (persons or organizations) in which both 
 [personal_connection]: #personal_connection "direct connection between two entities certain of each others identity"
 
 
+### personal_identification_device
+a device equipped with a secure_element that an entity (person or organization) uses to connect to the human_internet, manage eir data, and perform identity authentication and authorization functions involving other entities  
+· because such a device is central to managing the identity of an entity, to set a device as a personal_identification_device, the entity needs to provide identification documents to a notary public, secretary of state, or similar government agent  
+· that functionary then uses software in the device to attest to the identity of the entity and certify that the entity is who the entity claims to be  
+· the device stores this attestation using its secure_element, making it a personal_identification_device for the person or entity  
+· after that, the entity is able to verify the identity of other entities whom have gone through the same process, authorize data_specialists to access datapods, and other identity·related functions  
+
+[personal_identification_device]: #personal_identification_device "device equipped with a secure_element that a person uses to manage identity and data"
+
+
+
+
+
+
+
 ---
-2019.08.06,02  
+2019.08.06 0233 UTC  
 
 
 
