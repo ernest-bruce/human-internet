@@ -1437,7 +1437,7 @@ regulation and antitrust proceedings can address Amazon’s dominance over inter
 an [**attorney_in_fact**](https://www.investopedia.com/terms/a/attorneyinfact.asp "Investopedia: attorney-in-fact") is a person authorized to act on behalf of another through a power of attorney document  
 
 
-[attorney_in_fact]: #attorney_in_fact "person authorized to act on behalf of another person or entity through a power·of·attorney document"
+[attorney_in_fact]: #attorney_in_fact "an attorney_in_fact is a person authorized to act on behalf of another person or entity through a power·of·attorney document"
 
 
 ### benefit_corporation
