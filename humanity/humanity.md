@@ -478,7 +478,7 @@ the **Human Internet Values** describe the behaviors expected of all participant
 the goals of internet companies, like those of most companies, include maximizing profit and shareholder value  
 · they accomplish their goals through objectives like these:  
 
-* collecting data about people, either directly or through [**data_brokers**][data_broker]    
+* collecting data about people, either directly or through [data_brokers][data_broker]    
 * convincing people to share as much intimate information as possible  
 * using data about people to target them with advertising and other messaging that may be detrimental to them  
 * improving the efficiency of data collection and processing using artificial intelligence and other techniques  
@@ -892,7 +892,7 @@ data at anytime you wish
 
 
 ## POWER TO THE PEOPLE
->as people learn how their personal information is abused by the “free” services they use, which turn out to be data_brokers and data_traffickers, they increasingly reject the [surveillance_economy][surveillance·economy]  
+>as people learn how their personal information is abused by the “free” services they use, which turn out to be [data_brokers][data_broker] and data_traffickers, they increasingly reject the [surveillance_economy][surveillance·economy]  
 
 &nbsp;
 
@@ -972,20 +972,20 @@ people need alternatives to closed, monolithic, untrustworthy, abusive, and *cri
 · multiple experiences, generated using the same data, by companies with different backgrounds, sensitivities, and target audiences, make for an ecosystem that supports multiple products, each perfect for specific groups of people, while promoting inclusion, tolerance, and community for everyone  
 
 you need an open environment that promotes the creation and nurture of competing and complementary services that cater to your specific needs  
-· in such an environment, you  choose the services that best address your needs, instead of having to use the only one that amassed enough users to make it attractive to investors, despite its many and profound shortcomings   
+· in such an environment, you  choose the services that best address *your* needs, instead of having to use the only one that amassed enough users to make it attractive to investors, despite its many and profound shortcomings   
 
 for example, instead of one big social·service provider whose approach to social networking, privacy, interface, and overall experience you do not like, you should be able to use two (or more) providers, one that caters to the politician in you, providing tools that let you analyze the political makeup of districts, and one that specializes in your inner scientist, providing bespoke content about the latest advances in biological and nuclear research  
 · because both services use the social_data from your datapod, your connections, relations, groups, and communities are the same in both services (because they do not host your personal_data on their infrastructure)  
-· however, each service offers custom interaction models that match the expectations of each service’s 
+· however, each service offers custom interaction models that match the expectations of each services 
 target audience  
-· with capable *smart_software* driving the experience, your social_interface is an amalgam of the features of the two services, providing a smooth *social_experience* in which you get the best of both services   
-· this way, your digital social_life is richer, more efficient, and more satisfying than what one big, unfocused social service can provide  
+· with capable [digital_organisms][digital_organisms] driving the experience, your social experience is an amalgam of the features of the two services; you get the best of both services   
+· this way, your digital social life is richer, more efficient, and more satisfying than what one big, unfocused social·networking service can provide  
 
 &nbsp;
 
-#### b. focusing on particular aspects of digital·life 
+#### b. focusing on particular aspects of digital life 
 [**Shapr**][Shapr] is a social network that facilitates introductions between professionals using a [**Tinder**][Tinder]-like interface    
-· although [**LinkedIn**][LinkedIn] is a social network for professionals too, it does not offer Shapr’s specialized functionality (Shapr’s sole purpose is to help people make connections)  
+· although [**LinkedIn**][LinkedIn] is a social network for professionals too, it does not offer Shapr’s specialized functionality; Shapr’s sole purpose is to help people make connections  
 · LinkedIn suggests connections between people, but the basis on which the service makes those suggestions is vastly different from Shapr’s (LinkedIn’s recommendations are based largely on the people you are connected to thru   LinkedIn, or on the email addresses of people in your address book)  
 · plus, the entire Shapr experience, from first launch to daily use, exudes its narrow goal of helping you connect with people who share your interests  
 · [**Facebook**][Facebook] also makes connection suggestions, but the reasons that drive it to make them are, likewise, not as explicit as Shapr’s  
@@ -999,25 +999,26 @@ Bumble also lets you link your [Instagram](https://en.wikipedia.org/wiki/Instagr
 · however, in a datapod·based ecosystem, this type of explicit linkage between services at the app level
  are not needed  
 · the reason for this is that everything is naturally related to other things because the underlying link, you and your data, is what defines those relationships  
-· so your posts and your music tastes would be accessible to services like Bumble (if you authorize it), regardless of which service you use to make the posts (Instagram or Tumblr) or listen to music (Spotify or [Apple Music](https://www.apple.com/apple-music "Apple: Apple Music"))    
+· so your posts and your music tastes would be accessible to services like Bumble (if you authorize it), regardless of which service you use to make the posts (Instagram or Tumblr) or listen to music ([Spotify][Spotify] or [Apple Music][AppleMusic])    
 
 in the ecosystem of tomorrow, social services like Tinder, Shapr, and Bumble use a lot of the same information from your datapod    
-· you also use the same basic interactions to work on data, which reduces mistakes and ensures that your data is never damaged by using thoroughly tested methods (in the human_internet, personal_data is a high·value resource that is cared for seriously; the human_internet does not [*break*](https://xkcd.com/1428 "xkcd: Move Fast and Break Things") your data, as some companies are so willing to do)  
-· their success rests on their capability to attract and motivate people to try out their services, and to keep using them, based on the efficiency of their interfaces, the appeal of their experiences, and on the trust the community puts in their effectiveness, their professionalism, and their competence at keeping the data they are granted access to private and secure  
+· in fact, every data_specialist uses the same methods to make similar changes to your data, which reduces mistakes and ensures that your data is never damaged by using thoroughly tested methods  
+· in the human internet, personal_data is a high·value resource that is cared for seriously; the human_internet does not [*break*](https://xkcd.com/1428 "xkcd: Move Fast and Break Things") your data, as some companies are so willing to do  
+· the success human·internet companies rests on the value they *add* to your data, on their capability to attract and motivate people to try out their services, and to keep using them, based on the efficiency of their interfaces, the appeal of their experiences, and on the trust the community puts in their effectiveness, their professionalism, and their competence at keeping the data they are granted access to private and secure  
 
 in this ecosystem, *you* are in control  
-· if you want to get connection suggestions (highly·personalized ads), you can get them, the way you want  
-· if you do not want to receive connection suggestions, you do not get them  
+· if you want to get [entity_introductions][entity_introduction] (highly·personalized ads), you can get them, the way you want  
+· if you do not want to receive introductions, you do not get them  
 · there is no profit·maximizing imperative to force you to grow your connections   
 
 &nbsp;
 
 #### c. redefining competitive advantage
-vast personal_data collections will no longer be a competitive advantage for data_brokers because people will have *effective and direct control over their data*    
-· an entity’s competitive advantage will comprise its principles, values, and reputation  
+vast personal_data collections will no longer be a competitive advantage for [data_brokers][data_broker] because people will have *effective and direct control over their data*    
+· an entitys competitive advantage will comprise its principles, values, and reputation  
 · more than “exits,” company founders will focus on the *meaning* of their ventures to themselves, their target audience, and the world  
 · this will be a strong catalyst for the creation of long·lasting companies and business models, which provides lasting value to investors  
-· and those investors will have a larger pool of companies on which to invest  
+· and those investors will have a larger pool of companies in which to invest  
 
 after unprecedented growth, companies like Facebook and Apple are having trouble connecting with new audiences because they have strayed from the values that made them great in the past  
 · values like integrity, simplicity, elegance, usability, connection, service, reliability, soul, experience, and individuality have been placed behind growth, profit, and influence  
@@ -1029,27 +1030,27 @@ the Apple software ecosystem provides a solid foundation upon which innovative c
 · people need a similar but larger and more inclusive ecosystem that allows innovative companies that may not necessarily want to target Apple platforms to build compelling products that run on many platforms, including BSD, GNU/Linux, Android, Windows, and [vw.OS][vw.OS], for example  
 · multiple companies following one core vision that puts individuals, societies, and humanity at its center, make up a strong, diverse, and resilient alternative to the behemoths that dominate the internet today  
 
-such a diverse but highly·integrated ecosystem provides the baseline from which companies are free to innovate using their expertise to create interfaces and experiences that satisfy their equally diverse audiences  
+such a diverse but highly·integrated ecosystem provides the baseline from which companies are free to innovate using their expertise to create interfaces and experiences that satisfy their equally·diverse audiences  
 · by ensuring the quality, reliability, and security of their services, and by performing their operations honorably and respectfully, each company maximizes its chances of captivating customers, who would be dedicated to its success because the company would have their *trust*  
 · those customers, then, give these companies the best publicity available: word of mouth  
-· in the ecosystem, personal_data is a common, shared resource that underlies the interactions between people and multiple companies, each focused on what it does best on behalf of their customers  
+· in the ecosystem, personal_data is a common, shared resource that underlies the interactions between people and companies, each focused on what it does best on behalf of their customers  
 · this highly·efficient ecosystem with people at its center provides businesses an infrastructure that helps them keep the valuable resource they work with private and secure  
 
 having one or two *premium* platforms is nice  
 · but making our entire digital ecosystem premium is a lot more beneficial to people  
-· connecting *all* of a person’s devices (watches, handhelds, cars, home·automation devices), not only those from one manufacturer, to eir data is more humane than forcing sie to choose one manufacturer to manage all eir data, or to divvy up, for example, eir fitness_data among different platforms such as [Apple’s](https://www.apple.com/ios/health "Apple: Health") and [Google’s](https://wearos.google.com "Google: Wear OS") fitness·focused platforms  
+· connecting *all* of a persons devices (watches, handhelds, cars, home·automation devices), not only those from one manufacturer, to eir data is more humane than forcing sie to choose one manufacturer to manage all eir data, or to divvy up, for example, eir fitness_data among different platforms such as [Apple’s](https://www.apple.com/ios/health "Apple: Health") and [Google’s](https://wearos.google.com "Google: Wear OS") fitness·focused platforms  
 
-the human_internet is the ecosystem of the future, the one that nurtures all devices, all platforms, all operating_systems, all working together helping people to connect better, relate better, communicate better, and *be* better  
+the human internet is the ecosystem of the future, the one that nurtures all devices, all platforms, all [operating_systems,][operating_system] all working together helping people to connect better, relate better, communicate better, and *be* better  
 
 ---
 if you want to start a business, you will not have to worry about [*hacking*][growth·hacking] its growth  
-· all you have to do to start your business—whether it is a social service, a health service, a repair service, an education service, a data·processing service, or whatever—is determine *why* you want to start your business, and make sure that the reason is compatible with the human_internet principles and values  
+· all you have to do to start your business—whether it is a social service, a health service, a repair service, an education service, a data·processing service, or whatever—is determine *why* you want to start your business, and make sure that the reason is compatible with the principles and values of the human internet  
 · with people more aware of the power of their data, your chances at success are greater than ever, as long as you are responsible, honorable, and accountable for your actions  
-· the human_internet is the new, egalitarian ecosystem full of opportunity to all kinds of innovative ideas and business models  
+· the human internet is the new, egalitarian ecosystem full of opportunity to all kinds of innovative ideas and business models  
 
-the human_internet embraces innovation and differentiation  
+the human internet embraces innovation and differentiation  
 · but it does not allow personal information to be put at risk by *any* entity  
-· the data_formats and the algorithms used to interact with personal information belong to and are controlled by *The People*  
+· the [data_models][data_model] and the [interaction_models][interaction_model] used to interact with personal information belong to and are controlled by *The People*  
 
 &nbsp;  
 &nbsp;  
@@ -1500,9 +1501,9 @@ a [**data_specialist**][data_specialist] who, in addition to reading data from a
 
 
 ### data_model
-a [**data_model**](https://en.wikipedia.org/wiki/Data_model "Wikipedia: data model") specifies the data structures and relationships used to represent an entity, object, attribute, or content, so that it can be manipulated by data_specialists    
+a [data_model](https://en.wikipedia.org/wiki/Data_model "Wikipedia: data model") specifies the data structures and relationships used to represent an entity, object, attribute, or content, so that it can be manipulated by data_specialists    
 
-[data_model]: #data_model "specifies data structures and relationships used to represent an entity, object, attribute, or content"
+[data_model]: #data_model "a data_model specifies data structures and relationships used to represent an entity, object, attribute, or content"
 
 
 ### data_owner
@@ -1653,6 +1654,12 @@ an open·source implementation of [IPFS][IPFS] aimed mainly for Peoples·OS but 
 [OpenIPFS]: #openipfs "open·source implementation of the InterPlanetary File System"
 
 
+### operating_system
+an [operating_system](https://www.howtogeek.com/361572/what-is-an-operating-system "How-To Geek: What is an Operating System?") is the main software that manages the operations of hardware and firmware in a device to provide services to high·level software, such as apps   
+
+[operating_system]: #operating_system "software that manages the operations of hardware and firmware in a device to provide services to apps"
+
+
 ### owned_data
 [**personal_data**][personal_data] that a person or entity stores in a datapod  
 
@@ -1799,3 +1806,5 @@ a [secure_element](https://www.rambus.com/blogs/what-is-a-secure-element "Rambus
 [Patagonia]: https://www.patagonia.com/company-info.html "About Patagonia"
 [OpenBSD]: https://en.wikipedia.org/wiki/OpenBSD "Wikipedia: OpenBSD"
 [OpenZFS]: https://en.wikipedia.org/wiki/OpenZFS "Wikipedia: OpenZFS"
+[AppleMusic]: https://www.apple.com/apple-music "About Apple Music"
+[Spotify]: https://newsroom.spotify.com/company-info "About Spotify"
