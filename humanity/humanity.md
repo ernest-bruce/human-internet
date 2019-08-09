@@ -64,7 +64,7 @@ sections:
   * [THE FUTURE](#the-future  "powerful devices help secure personal_data, and help hyperdata work for people")
   * [BUILDING THE FUTURE](#building-the-future "introduces The Peoples Benefit Corporation, describes its first products")
   * [THE HUMAN_INTERNET](#the-humaninternet "the internet needs to reflect humanity, humanity needs honest and trustworthy digital connection")
-  * [VISION, PRINCIPLES, VALUES](#vision-principles-values ""our wisdom is our vision, our principles guide us, our values center us"")
+  * [VISION, PRINCIPLES, VALUES](#vision-principles-values "our wisdom is our vision, our principles guide us, our values center us")
   * [CUSTOMERS AND BAIT](#customers-and-bait "our data and our data bandwidth pay for everything we do on the internet, *nothing* is free")
   * [IDENTITY, ENCRYPTION](#identity-encryption "trustful identity requires *real* identity, and private, secure interactions require strong encryption of data and content")
   * [POWER TO YOU](#power-to-you "an ecosystem of by and for The People (including you) requires human values")
@@ -1743,7 +1743,7 @@ a [secure_element](https://www.rambus.com/blogs/what-is-a-secure-element "Rambus
 
 
 ---
-2019.08.09 1615 UTC  
+2019.08.09 16 (1625 UTC)  
 
 [b_corp]: https://bcorporation.eu/about-b-corps "About B Corps"
 [impact_investing]: https://en.wikipedia.org/wiki/Impact_investing "Wikipedia: impact investing"
