@@ -1,4 +1,4 @@
-# the human·internet initiative
+# The Human·Internet Initiative
 ![](_images/human-internet_logo.png)  
 &nbsp;
 &nbsp;
@@ -207,10 +207,11 @@ initiative documents:
   · [Your Actualization Needs]  
   · [Your Transcendence Needs]  
   * [Freeing Humanity from the Shackles of Greed][free_humanity]  
+  * [Disrupting the Disruptors Because, Humanity][disrupting_disruptors]  
 
 
 ---
-2019.02.20:12
+2019.08.10 0220 UTC
 
 [ineffective_laws]: https://github.com/ernest-bruce/human-internet/blob/master/ineffective_laws/ineffective_laws.md#laws-are-ineffective-at-protecting-personal-information
 [internet_plan]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md
@@ -219,6 +220,7 @@ initiative documents:
 [safety_needs]: https://github.com/ernest-bruce/human-internet/blob/master/digital_happiness/safety_needs.md#achieving-digital-happiness-your-safety-needs
 [industry_regulation]: https://github.com/ernest-bruce/human-internet/blob/master/industry_regulation/industry_regulation.md#regulating-the-personalinformation-industry
 [free_humanity]: https://github.com/ernest-bruce/human-internet/blob/master/free_humanity/free_humanity.md#freeing-humanity-from-the-shackles-of-greed
+[disrupting_disruptors]: https://github.com/ernest-bruce/human-internet/blob/master/humanity/humanity.md
 
 [IPFS]: https://ipfs.io "IPFS.io"
 [PeoplesOS]: https://github.com/ernest-bruce/human-internet/blob/master/internet_plan/internet_plan.md#peoplesos-operatingsystem

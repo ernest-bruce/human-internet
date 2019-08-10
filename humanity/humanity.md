@@ -1768,7 +1768,7 @@ a special, [secure chip](https://www.rambus.com/blogs/what-is-a-secure-element "
 
 
 ---
-v1 (2019.08.09 1625 UTC)  
+v1 (2019.08.10 0220 UTC)  
 
 [b_corp]: https://bcorporation.eu/about-b-corps "About B Corps"
 [impact_investing]: https://en.wikipedia.org/wiki/Impact_investing "Wikipedia: impact investing"
